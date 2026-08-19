@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-03T05:44:31Z",
                 "owner": "cpq",
                 "repo": "bare-metal-programming-guide",
-                "stars": 4819
+                "stars": 4820
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-08T08:56:38Z",
                 "owner": "ckormanyos",
                 "repo": "real-time-cpp",
-                "stars": 804
+                "stars": 805
               }
             },
             {
@@ -148,10 +148,10 @@
                 "archived": false,
                 "id": 5414488,
                 "language": "C",
-                "last_commit": "2026-08-19T08:48:52Z",
+                "last_commit": "2026-08-19T14:36:05Z",
                 "owner": "cesanta",
                 "repo": "mongoose",
-                "stars": 13002
+                "stars": 13003
               }
             },
             {
@@ -1115,10 +1115,10 @@
             "archived": false,
             "id": 28751632,
             "language": "Python",
-            "last_commit": "2026-08-17T08:46:28Z",
+            "last_commit": "2026-08-19T19:03:04Z",
             "owner": "0xAX",
             "repo": "linux-insides",
-            "stars": 32935
+            "stars": 32938
           }
         },
         {
@@ -1229,7 +1229,7 @@
             "last_commit": "2026-02-04T09:33:56Z",
             "owner": "cfenollosa",
             "repo": "os-tutorial",
-            "stars": 30658
+            "stars": 30657
           }
         },
         {
@@ -1271,10 +1271,10 @@
             "archived": false,
             "id": 36428094,
             "language": "Rust",
-            "last_commit": "2026-08-18T22:53:00Z",
+            "last_commit": "2026-08-19T18:39:28Z",
             "owner": "tock",
             "repo": "tock",
-            "stars": 6413
+            "stars": 6415
           }
         },
         {
@@ -1481,7 +1481,7 @@
             "archived": false,
             "id": 954389533,
             "language": "C",
-            "last_commit": "2026-08-19T03:13:05Z",
+            "last_commit": "2026-08-19T17:39:04Z",
             "owner": "antoniogiacomelli",
             "repo": "RK0",
             "stars": 14
@@ -1748,7 +1748,7 @@
             "last_commit": "2026-05-21T14:11:06Z",
             "owner": "armink",
             "repo": "CmBacktrace",
-            "stars": 2154
+            "stars": 2155
           }
         },
         {
@@ -1859,7 +1859,7 @@
             "last_commit": "2024-06-01T16:49:37Z",
             "owner": "microsoft",
             "repo": "ELL",
-            "stars": 2304
+            "stars": 2303
           }
         },
         {
@@ -2027,7 +2027,7 @@
             "archived": false,
             "id": 1138269866,
             "language": "Python",
-            "last_commit": "2026-08-19T07:12:11Z",
+            "last_commit": "2026-08-19T18:09:34Z",
             "owner": "jumpstarter-dev",
             "repo": "jumpstarter",
             "stars": 211
@@ -2128,7 +2128,7 @@
                 "last_commit": "2026-08-18T13:28:50Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 497652
+                "stars": 497768
               }
             },
             {
@@ -2143,7 +2143,7 @@
                 "last_commit": "2026-08-17T06:46:47Z",
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 279874
+                "stars": 279945
               }
             },
             {
@@ -2158,7 +2158,7 @@
                 "last_commit": "2026-07-27T10:19:55Z",
                 "owner": "thibmaek",
                 "repo": "awesome-raspberry-pi",
-                "stars": 16753
+                "stars": 16755
               }
             },
             {
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:06:40.882Z",
+    "last_updated": "2026-08-19T19:06:35.199Z",
     "original_repository": "nhivp/Awesome-Embedded",
     "original_repository_id": 104612770,
     "original_repository_sha": "8474defa48860fc416562d0bdf85d1b193094327",
