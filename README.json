@@ -1,578 +1,603 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bare metal programming guide",
+              "description": "a detailed guide for beginners",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 537042935,
+                "language": "C",
+                "last_commit": "2026-07-03T05:44:31Z",
+                "owner": "cpq",
+                "repo": "bare-metal-programming-guide",
+                "stars": 4819
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Real-Time C++",
+              "description": "companion bare-metal code to Real-Time C++ book.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5922310,
+                "language": "C++",
+                "last_commit": "2026-08-08T08:56:38Z",
+                "owner": "ckormanyos",
+                "repo": "real-time-cpp",
+                "stars": 804
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hypervisor",
+              "description": "ARM64 Type-1 bare-metal hypervisor in no_std Rust, runs at EL2 on QEMU virt, boots Linux with FF-A v1.1 SPMC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1142208415,
+                "language": "Rust",
+                "last_commit": "2026-06-09T15:41:42Z",
+                "owner": "willamhou",
+                "repo": "hypervisor",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Bare-metal programming (Don't need MCU)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Drivers and examples",
+              "description": "Drivers for internal peripherals and external modules for Tiva C, examples of FreeRTOS features under development/FreeRTOS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139495203,
+                "language": "C",
+                "last_commit": "2026-05-25T21:54:37Z",
+                "owner": "Mohammed-AhmedAF",
+                "repo": "ARM",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EmbeddedSystems.Playground",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50152298,
+                "language": "C",
+                "last_commit": "2021-01-10T07:44:28Z",
+                "owner": "glennlopez",
+                "repo": "EmbeddedSystems.Playground",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Linux command line build system to generate binaries for TM4C123 (ARM Cortex M4)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6668722,
+                "language": "C",
+                "last_commit": "2019-08-11T16:10:00Z",
+                "owner": "streetdogg",
+                "repo": "arm-rtos",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tivaapps",
+              "description": "Example hello-world apps for Texas Instruments TI-RTOS for Tiva C using a Linux host",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16088579,
+                "language": "C",
+                "last_commit": "2014-05-08T12:38:34Z",
+                "owner": "alexeicolin",
+                "repo": "tivaapps",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tm4c-gcc",
+              "description": "TM4C123 GCC project template.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15458591,
+                "language": "C",
+                "last_commit": "2015-06-02T16:50:30Z",
+                "owner": "martinjaros",
+                "repo": "tm4c-gcc",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "TM4C123"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Standalone TCP/IP stack for STM32, bare metal or RTOS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5414488,
+                "language": "C",
+                "last_commit": "2026-08-19T08:48:52Z",
+                "owner": "cesanta",
+                "repo": "mongoose",
+                "stars": 13002
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Customizable Bootloader for STM32 microcontrollers.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87632134,
+                "language": "C",
+                "last_commit": "2022-12-02T09:35:41Z",
+                "owner": "akospasztor",
+                "repo": "stm32-bootloader",
+                "stars": 1053
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "STM32F103C8 Examples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66341242,
+                "language": "C",
+                "last_commit": "2018-10-11T14:45:32Z",
+                "owner": "avislab",
+                "repo": "STM32F103",
+                "stars": 970
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lightweight USB device Stack for STM32 microcontrollers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67630223,
+                "language": "C",
+                "last_commit": "2025-10-06T05:06:54Z",
+                "owner": "dmitrystu",
+                "repo": "libusb_stm32",
+                "stars": 825
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libopencm3 and FreeRTOS projects using the STM32F103C8T6 MCU",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82408735,
+                "language": "C",
+                "last_commit": "2023-11-18T15:35:28Z",
+                "owner": "ve3wwg",
+                "repo": "stm32f103c8t6",
+                "stars": 390
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DFU Bootloader for STM32 chips",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57870079,
+                "language": "C",
+                "last_commit": "2025-02-22T04:26:09Z",
+                "owner": "devanlai",
+                "repo": "dapboot",
+                "stars": 380
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stm32-hid-bootloader",
+              "description": "Driverless USB HID bootloader and flashing tool for STM32F10X devices",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129602361,
+                "language": "C",
+                "last_commit": "2021-08-15T15:01:38Z",
+                "owner": "bootsector",
+                "repo": "stm32-hid-bootloader",
+                "stars": 183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A demo project of FreeRTOS running on a STM32F4 Discovery board.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12059027,
+                "language": "C",
+                "last_commit": "2018-05-28T20:07:22Z",
+                "owner": "wangyeee",
+                "repo": "STM32F4-FreeRTOS",
+                "stars": 173
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A tiny portable 3D graphics lib for micro controllers (Oled display)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118320746,
+                "language": "C",
+                "last_commit": "2018-10-26T04:45:50Z",
+                "owner": "avem-labs",
+                "repo": "ol3d",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A template for building STM32F0 ARM projects with GCC",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4705025,
+                "language": "C",
+                "last_commit": "2022-09-05T04:52:44Z",
+                "owner": "szczys",
+                "repo": "stm32f0-discovery-basic-template",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stm32f103",
+              "description": "Bare metal programming on a generic STM32F103c8 board",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69134935,
+                "language": "C",
+                "last_commit": "2023-12-10T15:39:19Z",
+                "owner": "trebisky",
+                "repo": "stm32f103",
+                "stars": 122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stm32_samples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25869424,
+                "language": "C",
+                "last_commit": "2022-09-13T02:20:15Z",
+                "owner": "dwelch67",
+                "repo": "stm32_samples",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "STM32 programming with Embedded GNU Compiler",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8710918,
+                "language": "C",
+                "last_commit": "2019-10-24T10:30:44Z",
+                "owner": "rowol",
+                "repo": "stm32_discovery_arm_gcc",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stm32f4de example code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2925329,
+                "language": "C",
+                "last_commit": "2016-05-12T00:47:58Z",
+                "owner": "dwelch67",
+                "repo": "stm32f4d",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stm32-dc-dc",
+              "description": "STM32 based DC-DC converter",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 580082629,
+                "language": "C",
+                "last_commit": "2024-01-06T09:56:34Z",
+                "owner": "gemesa",
+                "repo": "stm32-dc-dc",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tests to program STM32 Nucleo in C with GCC ARM embedded toolchain and libopencm3",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38956874,
+                "language": "C",
+                "last_commit": "2018-07-31T19:58:01Z",
+                "owner": "balau",
+                "repo": "nucleo_tests",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stm32-rf-scanner",
+              "description": "STM32 and nRF24L01+ based 2.4GHz RF scanner",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 233912729,
+                "language": "C",
+                "last_commit": "2024-01-06T09:50:25Z",
+                "owner": "gemesa",
+                "repo": "stm32-rf-scanner",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rustlink",
+              "description": "small set of Rust tools to program STM32 devices",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 638574583,
+                "language": "Rust",
+                "last_commit": "2023-05-21T11:45:25Z",
+                "owner": "gemesa",
+                "repo": "rustlink",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Getting started with the STM32F4-Discovery board using the EmBitz IDE",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104485995,
+                "language": "C",
+                "last_commit": "2017-09-22T19:11:45Z",
+                "owner": "RoanFourie",
+                "repo": "STM32F4-DISCO-EMBITZ-Blinky",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "STM32"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "stm8-bare-min",
+              "description": "Tiny peripheral library for STM8S",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77332596,
+                "language": "C",
+                "last_commit": "2022-11-01T05:29:11Z",
+                "owner": "lujji",
+                "repo": "stm8-bare-min",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stm8-bootloader",
+              "description": "Serial bootloader for STM8S microcontrollers",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 97725802,
+                "language": "C",
+                "last_commit": "2025-04-01T13:21:22Z",
+                "owner": "lujji",
+                "repo": "stm8-bootloader",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wolk STM8 stuff",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17111645,
+                "language": "C",
+                "last_commit": "2015-03-22T23:37:29Z",
+                "owner": "LonelyWolf",
+                "repo": "stm8",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stm8-multi-tasker",
+              "description": "STM8-Multi-Tasker - Preemptive/Cooperative Round Robin Scheduler for STM8",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119342243,
+                "language": "C",
+                "last_commit": "2018-02-02T05:42:55Z",
+                "owner": "vsch",
+                "repo": "stm8-multi-tasker",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "STM8S001J3_tiny_board",
+              "description": "A tiny dev board for STM8S001J3 MCU designed in KiCad.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289545268,
+                "language": null,
+                "last_commit": "2020-10-18T18:41:23Z",
+                "owner": "HexRx",
+                "repo": "STM8S001J3_tiny_board",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "STM8"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sming - ESP8266/ESP32 IoT Framework",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32271212,
+                "language": "C++",
+                "last_commit": "2026-07-20T08:21:00Z",
+                "owner": "SmingHub",
+                "repo": "Sming",
+                "stars": 1569
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wi-FI ESP8266 learning journey",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105225851,
+                "language": "Assembly",
+                "last_commit": "2021-05-28T09:37:16Z",
+                "owner": "xuhongv",
+                "repo": "StudyInEsp8266",
+                "stars": 716
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wi-FI ESP32 learning journey",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132253667,
+                "language": "C",
+                "last_commit": "2024-10-14T08:07:44Z",
+                "owner": "xuhongv",
+                "repo": "StudyInEsp32",
+                "stars": 505
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "An open source bootloader for the ESP8266",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47462592,
+                "language": "C",
+                "last_commit": "2019-08-04T15:34:42Z",
+                "owner": "raburton",
+                "repo": "rboot",
+                "stars": 318
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "An esp8266 rom creation tool",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47462814,
+                "language": "C",
+                "last_commit": "2019-08-04T17:05:49Z",
+                "owner": "raburton",
+                "repo": "esptool2",
+                "stars": 65
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ESP8266"
+        }
+      ],
       "title": "MCU programming"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Bare metal programming guide",
-          "description": "a detailed guide for beginners",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-03T05:44:31Z",
-            "owner": "cpq",
-            "repo": "bare-metal-programming-guide",
-            "stars": 4818
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Real-Time C++",
-          "description": "companion bare-metal code to Real-Time C++ book.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-08T08:56:38Z",
-            "owner": "ckormanyos",
-            "repo": "real-time-cpp",
-            "stars": 804
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hypervisor",
-          "description": "ARM64 Type-1 bare-metal hypervisor in no_std Rust, runs at EL2 on QEMU virt, boots Linux with FF-A v1.1 SPMC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-09T15:41:42Z",
-            "owner": "willamhou",
-            "repo": "hypervisor",
-            "stars": 16
-          }
-        }
-      ],
-      "title": "Bare-metal programming (Don't need MCU)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Drivers and examples",
-          "description": "Drivers for internal peripherals and external modules for Tiva C, examples of FreeRTOS features under development/FreeRTOS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-05-25T21:54:37Z",
-            "owner": "Mohammed-AhmedAF",
-            "repo": "ARM",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EmbeddedSystems.Playground",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-01-10T07:44:28Z",
-            "owner": "glennlopez",
-            "repo": "EmbeddedSystems.Playground",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Linux command line build system to generate binaries for TM4C123 (ARM Cortex M4)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2019-08-11T16:10:00Z",
-            "owner": "streetdogg",
-            "repo": "arm-rtos",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tivaapps",
-          "description": "Example hello-world apps for Texas Instruments TI-RTOS for Tiva C using a Linux host",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2014-05-08T12:38:34Z",
-            "owner": "alexeicolin",
-            "repo": "tivaapps",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tm4c-gcc",
-          "description": "TM4C123 GCC project template.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2015-06-02T16:50:30Z",
-            "owner": "martinjaros",
-            "repo": "tm4c-gcc",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FreeRTOS-GCC-tm4c123glx",
-          "description": "A port of FreeRTOS to the Texas Instruments Tiva TM4C123GLX Launchpad.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Stellaris_TM4C123G_GCC_Template",
-          "description": "Texas Instruments template project for the TM4C123 series using GNU toolchain.",
-          "children": []
-        }
-      ],
-      "title": "TM4C123"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Standalone TCP/IP stack for STM32, bare metal or RTOS",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-15T10:23:19Z",
-            "owner": "cesanta",
-            "repo": "mongoose",
-            "stars": 13001
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Customizable Bootloader for STM32 microcontrollers.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-12-02T09:35:41Z",
-            "owner": "akospasztor",
-            "repo": "stm32-bootloader",
-            "stars": 1053
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "STM32F103C8 Examples",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2018-10-11T14:45:32Z",
-            "owner": "avislab",
-            "repo": "STM32F103",
-            "stars": 970
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lightweight USB device Stack for STM32 microcontrollers",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-10-06T05:06:54Z",
-            "owner": "dmitrystu",
-            "repo": "libusb_stm32",
-            "stars": 825
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libopencm3 and FreeRTOS projects using the STM32F103C8T6 MCU",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-11-18T15:35:28Z",
-            "owner": "ve3wwg",
-            "repo": "stm32f103c8t6",
-            "stars": 390
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DFU Bootloader for STM32 chips",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-02-22T04:26:09Z",
-            "owner": "devanlai",
-            "repo": "dapboot",
-            "stars": 380
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stm32-hid-bootloader",
-          "description": "Driverless USB HID bootloader and flashing tool for STM32F10X devices",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-08-15T15:01:38Z",
-            "owner": "bootsector",
-            "repo": "stm32-hid-bootloader",
-            "stars": 183
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A demo project of FreeRTOS running on a STM32F4 Discovery board.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2018-05-28T20:07:22Z",
-            "owner": "wangyeee",
-            "repo": "STM32F4-FreeRTOS",
-            "stars": 173
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A tiny portable 3D graphics lib for micro controllers (Oled display)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2018-10-26T04:45:50Z",
-            "owner": "avem-labs",
-            "repo": "ol3d",
-            "stars": 152
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A template for building STM32F0 ARM projects with GCC",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-09-05T04:52:44Z",
-            "owner": "szczys",
-            "repo": "stm32f0-discovery-basic-template",
-            "stars": 129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stm32f103",
-          "description": "Bare metal programming on a generic STM32F103c8 board",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-12-10T15:39:19Z",
-            "owner": "trebisky",
-            "repo": "stm32f103",
-            "stars": 122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stm32_samples",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-09-13T02:20:15Z",
-            "owner": "dwelch67",
-            "repo": "stm32_samples",
-            "stars": 108
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "STM32 programming with Embedded GNU Compiler",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2019-10-24T10:30:44Z",
-            "owner": "rowol",
-            "repo": "stm32_discovery_arm_gcc",
-            "stars": 91
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stm32f4de example code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2016-05-12T00:47:58Z",
-            "owner": "dwelch67",
-            "repo": "stm32f4d",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stm32-dc-dc",
-          "description": "STM32 based DC-DC converter",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2024-01-06T09:56:34Z",
-            "owner": "gemesa",
-            "repo": "stm32-dc-dc",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tests to program STM32 Nucleo in C with GCC ARM embedded toolchain and libopencm3",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2018-07-31T19:58:01Z",
-            "owner": "balau",
-            "repo": "nucleo_tests",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stm32-rf-scanner",
-          "description": "STM32 and nRF24L01+ based 2.4GHz RF scanner",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2024-01-06T09:50:25Z",
-            "owner": "gemesa",
-            "repo": "stm32-rf-scanner",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rustlink",
-          "description": "small set of Rust tools to program STM32 devices",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2023-05-21T11:45:25Z",
-            "owner": "gemesa",
-            "repo": "rustlink",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Getting started with the STM32F4-Discovery board using the EmBitz IDE",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2017-09-22T19:11:45Z",
-            "owner": "RoanFourie",
-            "repo": "STM32F4-DISCO-EMBITZ-Blinky",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stm32l1xx-template",
-          "description": "A template for building firmware for the STM32L1xx.",
-          "children": []
-        }
-      ],
-      "title": "STM32"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "stm8-bare-min",
-          "description": "Tiny peripheral library for STM8S",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-11-01T05:29:11Z",
-            "owner": "lujji",
-            "repo": "stm8-bare-min",
-            "stars": 129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stm8-bootloader",
-          "description": "Serial bootloader for STM8S microcontrollers",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2025-04-01T13:21:22Z",
-            "owner": "lujji",
-            "repo": "stm8-bootloader",
-            "stars": 101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wolk STM8 stuff",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2015-03-22T23:37:29Z",
-            "owner": "LonelyWolf",
-            "repo": "stm8",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stm8-multi-tasker",
-          "description": "STM8-Multi-Tasker - Preemptive/Cooperative Round Robin Scheduler for STM8",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2018-02-02T05:42:55Z",
-            "owner": "vsch",
-            "repo": "stm8-multi-tasker",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "STM8S001J3_tiny_board",
-          "description": "A tiny dev board for STM8S001J3 MCU designed in KiCad.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-10-18T18:41:23Z",
-            "owner": "HexRx",
-            "repo": "STM8S001J3_tiny_board",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "STM8"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Sming - ESP8266/ESP32 IoT Framework",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-20T08:21:00Z",
-            "owner": "SmingHub",
-            "repo": "Sming",
-            "stars": 1569
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wi-FI ESP8266 learning journey",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2021-05-28T09:37:16Z",
-            "owner": "xuhongv",
-            "repo": "StudyInEsp8266",
-            "stars": 716
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wi-FI ESP32 learning journey",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-10-14T08:07:44Z",
-            "owner": "xuhongv",
-            "repo": "StudyInEsp32",
-            "stars": 505
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "An open source bootloader for the ESP8266",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2019-08-04T15:34:42Z",
-            "owner": "raburton",
-            "repo": "rboot",
-            "stars": 318
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "An esp8266 rom creation tool",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2019-08-04T17:05:49Z",
-            "owner": "raburton",
-            "repo": "esptool2",
-            "stars": 65
-          }
-        }
-      ],
-      "title": "ESP8266"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -581,6 +606,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95133665,
             "language": "C",
             "last_commit": "2024-03-29T21:19:52Z",
             "owner": "s-matyukevich",
@@ -595,6 +621,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279028703,
             "language": "C",
             "last_commit": "2026-08-04T18:13:23Z",
             "owner": "sypstraw",
@@ -609,6 +636,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116288791,
             "language": "C",
             "last_commit": "2024-06-21T03:57:23Z",
             "owner": "bztsrc",
@@ -623,6 +651,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4452759,
             "language": "Assembly",
             "last_commit": "2023-07-14T09:07:13Z",
             "owner": "dwelch67",
@@ -637,6 +666,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114306058,
             "language": "C",
             "last_commit": "2020-02-19T04:54:04Z",
             "owner": "andreiw",
@@ -651,6 +681,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15379362,
             "language": "C",
             "last_commit": "2020-12-21T11:52:26Z",
             "owner": "BrianSidebotham",
@@ -665,6 +696,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6643178,
             "language": "C",
             "last_commit": "2017-12-11T22:52:01Z",
             "owner": "jameswalmsley",
@@ -679,6 +711,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97013602,
             "language": "C",
             "last_commit": "2019-05-06T13:32:55Z",
             "owner": "LdB-ECM",
@@ -693,6 +726,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97013602,
             "language": "C",
             "last_commit": "2019-05-06T13:32:55Z",
             "owner": "LdB-ECM",
@@ -707,6 +741,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50303564,
             "language": "C",
             "last_commit": "2017-07-02T18:52:15Z",
             "owner": "Forty-Tw0",
@@ -721,6 +756,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123561386,
             "language": "Python",
             "last_commit": "2018-04-09T13:24:07Z",
             "owner": "invictus1306",
@@ -735,6 +771,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 52559049,
             "language": "C",
             "last_commit": "2019-10-29T21:34:57Z",
             "owner": "ms-iot",
@@ -749,6 +786,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117321068,
             "language": "Shell",
             "last_commit": "2019-08-08T11:06:40Z",
             "owner": "UMRnInside",
@@ -763,6 +801,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96619395,
             "language": "C",
             "last_commit": "2018-01-25T23:31:40Z",
             "owner": "invictus1306",
@@ -777,6 +816,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14491093,
             "language": "C",
             "last_commit": "2018-08-13T18:45:55Z",
             "owner": "tnishinaga",
@@ -791,6 +831,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7755252,
             "language": "C",
             "last_commit": "2015-04-26T14:26:32Z",
             "owner": "mrvn",
@@ -805,6 +846,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10731387,
             "language": "C++",
             "last_commit": "2013-06-17T06:35:40Z",
             "owner": "fmlab",
@@ -819,6 +861,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25644112,
             "language": "C",
             "last_commit": "2015-03-20T23:33:34Z",
             "owner": "tzuCarlos",
@@ -833,6 +876,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86104402,
             "language": "C",
             "last_commit": "2018-05-08T21:02:38Z",
             "owner": "whyisitworking",
@@ -847,6 +891,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34983494,
             "language": "C",
             "last_commit": "2015-05-04T06:36:09Z",
             "owner": "Nvreformat",
@@ -861,6 +906,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111112573,
             "language": "C",
             "last_commit": "2018-09-15T07:08:37Z",
             "owner": "leodido99",
@@ -875,6 +921,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111889676,
             "language": "C",
             "last_commit": "2020-01-06T18:38:38Z",
             "owner": "majorviraj",
@@ -889,6 +936,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90023551,
             "language": "Assembly",
             "last_commit": "2018-02-11T09:35:05Z",
             "owner": "Alkesst",
@@ -903,6 +951,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 981337560,
             "language": "Python",
             "last_commit": "2026-05-23T13:08:42Z",
             "owner": "GeiserX",
@@ -917,6 +966,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39025548,
             "language": "C",
             "last_commit": "2015-07-31T05:16:29Z",
             "owner": "mopplayer",
@@ -931,30 +981,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47078922,
             "language": "C",
             "last_commit": "2016-03-15T11:16:04Z",
             "owner": "fordp2002",
             "repo": "ArmCopro",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Search for 'Raspberry' topic on Github",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "CXCORE-RaspberryPi3-ubuntu-18.04-aarch64",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Raspberry"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -963,6 +1002,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27220290,
             "language": "C",
             "last_commit": "2024-04-29T05:50:10Z",
             "owner": "allexoll",
@@ -977,6 +1017,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47237823,
             "language": "Assembly",
             "last_commit": "2021-06-09T22:26:20Z",
             "owner": "mvduin",
@@ -991,6 +1032,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20451873,
             "language": "C",
             "last_commit": "2014-06-10T11:15:20Z",
             "owner": "henfos",
@@ -1005,6 +1047,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3882990,
             "language": "C",
             "last_commit": "2016-10-02T16:29:22Z",
             "owner": "dwelch67",
@@ -1019,6 +1062,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7210744,
             "language": "C",
             "last_commit": "2015-08-13T22:59:19Z",
             "owner": "0xCA5A",
@@ -1033,6 +1077,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96654513,
             "language": "C",
             "last_commit": "2022-07-05T17:00:08Z",
             "owner": "travelln",
@@ -1047,24 +1092,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85045058,
             "language": "C",
             "last_commit": "2018-03-14T01:23:31Z",
             "owner": "Oxydation",
             "repo": "MinionOS",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Windows Embedded Compact BSP for TI's Beaglebone",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Beaglebone"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1073,11 +1113,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28751632,
             "language": "Python",
             "last_commit": "2026-08-17T08:46:28Z",
             "owner": "0xAX",
             "repo": "linux-insides",
-            "stars": 32933
+            "stars": 32935
           }
         },
         {
@@ -1087,11 +1128,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 77788381,
             "language": null,
             "last_commit": "2025-03-24T11:49:58Z",
             "owner": "gurugio",
             "repo": "lowlevelprogramming-university",
-            "stars": 12744
+            "stars": 12743
           }
         },
         {
@@ -1101,11 +1143,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73646740,
             "language": null,
             "last_commit": "2026-08-14T22:14:15Z",
             "owner": "xairy",
             "repo": "linux-kernel-exploitation",
-            "stars": 6594
+            "stars": 6595
           }
         },
         {
@@ -1115,6 +1158,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64534859,
             "language": "Python",
             "last_commit": "2026-06-16T06:03:49Z",
             "owner": "cirosantilli",
@@ -1129,11 +1173,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22577159,
             "language": "HTML",
             "last_commit": "2026-06-05T07:34:56Z",
             "owner": "ivandavidov",
             "repo": "minimal",
-            "stars": 1668
+            "stars": 1667
           }
         },
         {
@@ -1143,11 +1188,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19788600,
             "language": "C",
             "last_commit": "2025-11-02T21:46:15Z",
             "owner": "vsergeev",
             "repo": "c-periphery",
-            "stars": 1059
+            "stars": 1060
           }
         },
         {
@@ -1157,6 +1203,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63081319,
             "language": "C",
             "last_commit": "2024-02-14T09:19:43Z",
             "owner": "starnight",
@@ -1168,7 +1215,7 @@
       "title": "Linux kernel and device driver development"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1177,11 +1224,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24586308,
             "language": "C",
             "last_commit": "2026-02-04T09:33:56Z",
             "owner": "cfenollosa",
             "repo": "os-tutorial",
-            "stars": 30657
+            "stars": 30658
           }
         },
         {
@@ -1191,11 +1239,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7408108,
             "language": "C",
             "last_commit": "2026-08-17T09:15:34Z",
             "owner": "RT-Thread",
             "repo": "rt-thread",
-            "stars": 12159
+            "stars": 12161
           }
         },
         {
@@ -1205,6 +1254,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23693362,
             "language": "C",
             "last_commit": "2024-04-01T08:14:55Z",
             "owner": "yourtion",
@@ -1219,8 +1269,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36428094,
             "language": "Rust",
-            "last_commit": "2026-08-18T17:54:52Z",
+            "last_commit": "2026-08-18T22:53:00Z",
             "owner": "tock",
             "repo": "tock",
             "stars": 6413
@@ -1233,11 +1284,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101866073,
             "language": "C",
             "last_commit": "2023-07-04T06:49:37Z",
             "owner": "alibaba",
             "repo": "AliOS-Things",
-            "stars": 4625
+            "stars": 4626
           }
         },
         {
@@ -1247,11 +1299,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57061619,
             "language": "C++",
             "last_commit": "2026-01-20T10:54:42Z",
             "owner": "odriverobotics",
             "repo": "ODrive",
-            "stars": 3735
+            "stars": 3736
           }
         },
         {
@@ -1261,6 +1314,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68911683,
             "language": "Assembly",
             "last_commit": "2016-12-18T13:32:27Z",
             "owner": "daniel-e",
@@ -1275,6 +1329,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23472650,
             "language": "C++",
             "last_commit": "2026-07-16T21:13:51Z",
             "owner": "DISTORTEC",
@@ -1289,6 +1344,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73623691,
             "language": "C",
             "last_commit": "2024-12-28T18:22:40Z",
             "owner": "dimonomid",
@@ -1303,6 +1359,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21924517,
             "language": "C",
             "last_commit": "2020-12-02T21:08:02Z",
             "owner": "jimtremblay",
@@ -1317,6 +1374,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47077415,
             "language": "C++",
             "last_commit": "2026-07-30T11:26:50Z",
             "owner": "stateos",
@@ -1331,6 +1389,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33538906,
             "language": "C",
             "last_commit": "2017-09-01T16:13:00Z",
             "owner": "embedded2015",
@@ -1345,6 +1404,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57865979,
             "language": "C",
             "last_commit": "2024-06-07T22:22:20Z",
             "owner": "StratifyLabs",
@@ -1359,6 +1419,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39258815,
             "language": "C",
             "last_commit": "2020-03-01T07:06:45Z",
             "owner": "onkwon",
@@ -1373,6 +1434,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39258815,
             "language": "C",
             "last_commit": "2020-03-01T07:06:45Z",
             "owner": "onkwon",
@@ -1387,6 +1449,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82453878,
             "language": "C",
             "last_commit": "2017-08-16T13:43:41Z",
             "owner": "RTOS-From-Scratch",
@@ -1401,6 +1464,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14828043,
             "language": "C",
             "last_commit": "2026-01-09T20:57:09Z",
             "owner": "raphui",
@@ -1415,8 +1479,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 954389533,
             "language": "C",
-            "last_commit": "2026-08-18T15:59:06Z",
+            "last_commit": "2026-08-19T03:13:05Z",
             "owner": "antoniogiacomelli",
             "repo": "RK0",
             "stars": 14
@@ -1429,24 +1494,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100093959,
             "language": "C",
             "last_commit": "2025-02-23T08:46:35Z",
             "owner": "envzhu",
             "repo": "kozos-pic",
             "stars": 6
           }
-        },
-        {
-          "node_type": "item",
-          "title": "RT-Thread for Raspberry Pi 2B",
-          "description": null,
-          "children": []
         }
       ],
       "title": "RTOS"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1455,6 +1515,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31243944,
             "language": "C",
             "last_commit": "2026-01-18T02:43:30Z",
             "owner": "autoas",
@@ -1469,6 +1530,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42299318,
             "language": "C",
             "last_commit": "2025-09-15T12:29:31Z",
             "owner": "TrampolineRTOS",
@@ -1483,6 +1545,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83180393,
             "language": "C",
             "last_commit": "2018-04-03T07:03:54Z",
             "owner": "leduynguyen",
@@ -1497,6 +1560,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1125926954,
             "language": null,
             "last_commit": "2026-02-27T05:47:27Z",
             "owner": "bad-antics",
@@ -1508,7 +1572,7 @@
       "title": "Automotive"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1517,6 +1581,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81905084,
             "language": "TeX",
             "last_commit": "2024-03-26T16:21:49Z",
             "owner": "tuhdo",
@@ -1531,6 +1596,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48499743,
             "language": "C",
             "last_commit": "2026-01-08T16:02:14Z",
             "owner": "dthain",
@@ -1545,6 +1611,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68911683,
             "language": "Assembly",
             "last_commit": "2016-12-18T13:32:27Z",
             "owner": "daniel-e",
@@ -1559,6 +1626,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 119884556,
             "language": "C",
             "last_commit": "2018-08-30T14:35:20Z",
             "owner": "Mcdonoughd",
@@ -1570,7 +1638,7 @@
       "title": "OS"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1579,6 +1647,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102110352,
             "language": "C",
             "last_commit": "2026-07-14T03:59:34Z",
             "owner": "feaser",
@@ -1593,6 +1662,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24937595,
             "language": "C",
             "last_commit": "2023-02-06T14:27:37Z",
             "owner": "cvra",
@@ -1607,6 +1677,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13703998,
             "language": "C",
             "last_commit": "2026-05-18T19:20:30Z",
             "owner": "martinribelotta",
@@ -1621,6 +1692,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130310592,
             "language": "C",
             "last_commit": "2019-11-11T11:35:44Z",
             "owner": "onkwon",
@@ -1632,12 +1704,7 @@
       "title": "Bootloader"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Peripheral"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1646,11 +1713,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96246170,
             "language": "C++",
             "last_commit": "2026-04-16T12:24:54Z",
             "owner": "ApolloAuto",
             "repo": "apollo",
-            "stars": 26795
+            "stars": 26797
           }
         },
         {
@@ -1660,6 +1728,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25298630,
             "language": "C++",
             "last_commit": "2026-08-17T10:52:42Z",
             "owner": "ETLCPP",
@@ -1674,6 +1743,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77414939,
             "language": "C",
             "last_commit": "2026-05-21T14:11:06Z",
             "owner": "armink",
@@ -1688,6 +1758,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107399816,
             "language": "C",
             "last_commit": "2026-03-10T16:33:16Z",
             "owner": "dirtyjtag",
@@ -1702,6 +1773,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34347797,
             "language": "C",
             "last_commit": "2025-11-08T21:52:35Z",
             "owner": "ataradov",
@@ -1716,6 +1788,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106671341,
             "language": "C",
             "last_commit": "2024-03-09T21:58:49Z",
             "owner": "GorgonMeducer",
@@ -1730,6 +1803,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128429105,
             "language": "C++",
             "last_commit": "2026-08-18T17:45:45Z",
             "owner": "malachi-iot",
@@ -1744,6 +1818,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 953432980,
             "language": "C++",
             "last_commit": "2026-05-02T23:16:26Z",
             "owner": "Zubax",
@@ -1755,7 +1830,7 @@
       "title": "Others"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1764,6 +1839,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165457814,
             "language": "Python",
             "last_commit": "2024-08-03T17:30:36Z",
             "owner": "BayesWitnesses",
@@ -1778,6 +1854,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 69389961,
             "language": "C++",
             "last_commit": "2024-06-01T16:49:37Z",
             "owner": "microsoft",
@@ -1792,6 +1869,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104375922,
             "language": "C++",
             "last_commit": "2025-05-10T08:53:34Z",
             "owner": "uTensor",
@@ -1806,6 +1884,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166869630,
             "language": "C",
             "last_commit": "2024-04-08T03:15:10Z",
             "owner": "majianjia",
@@ -1820,6 +1899,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83609139,
             "language": "C",
             "last_commit": "2025-06-06T19:58:30Z",
             "owner": "attractivechaos",
@@ -1834,6 +1914,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1220866899,
             "language": "C",
             "last_commit": "2026-05-14T23:59:11Z",
             "owner": "facex-engine",
@@ -1848,6 +1929,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1243243191,
             "language": "TypeScript",
             "last_commit": "2026-07-29T13:12:24Z",
             "owner": "ForestHubAI",
@@ -1862,11 +1944,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1254141215,
             "language": "C",
             "last_commit": "2026-08-17T23:08:12Z",
             "owner": "voicute",
             "repo": "onnx-wakeword",
-            "stars": 56
+            "stars": 59
           }
         },
         {
@@ -1876,6 +1959,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165092337,
             "language": "C++",
             "last_commit": "2022-02-03T22:43:58Z",
             "owner": "correlllab",
@@ -1890,6 +1974,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96175207,
             "language": "C++",
             "last_commit": "2022-09-13T03:14:08Z",
             "owner": "boralt",
@@ -1901,7 +1986,7 @@
       "title": "Machine Learning & AI on MCU"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1910,11 +1995,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 305089628,
             "language": "C++",
             "last_commit": "2026-08-18T18:19:26Z",
             "owner": "Serial-Studio",
             "repo": "Serial-Studio",
-            "stars": 7144
+            "stars": 7146
           }
         },
         {
@@ -1924,6 +2010,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36830913,
             "language": "C",
             "last_commit": "2025-11-13T18:53:00Z",
             "owner": "dlbeer",
@@ -1938,8 +2025,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1138269866,
             "language": "Python",
-            "last_commit": "2026-08-18T15:26:09Z",
+            "last_commit": "2026-08-19T07:12:11Z",
             "owner": "jumpstarter-dev",
             "repo": "jumpstarter",
             "stars": 211
@@ -1952,6 +2040,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6294298,
             "language": "C",
             "last_commit": "2018-09-03T10:10:51Z",
             "owner": "utzig",
@@ -1966,6 +2055,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 473614550,
             "language": "C++",
             "last_commit": "2025-12-29T02:22:20Z",
             "owner": "naivesystems",
@@ -1980,6 +2070,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38818707,
             "language": "Python",
             "last_commit": "2023-02-27T19:34:54Z",
             "owner": "deadsy",
@@ -1994,6 +2085,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1189315419,
             "language": "Python",
             "last_commit": "2026-08-06T14:09:18Z",
             "owner": "Ecro",
@@ -2008,6 +2100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1255427523,
             "language": "Python",
             "last_commit": "2026-05-31T23:14:15Z",
             "owner": "leaberg69",
@@ -2019,147 +2112,158 @@
       "title": "Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Curated list of awesome lists",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Curated list of awesome lists",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21737465,
+                "language": null,
+                "last_commit": "2026-08-18T13:28:50Z",
+                "owner": "sindresorhus",
+                "repo": "awesome",
+                "stars": 497652
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Curated list of project-based tutorials",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88011908,
+                "language": "Python",
+                "last_commit": "2026-08-17T06:46:47Z",
+                "owner": "practical-tutorials",
+                "repo": "project-based-learning",
+                "stars": 279874
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A curated list of awesome Raspberry Pi tools, projects, images and resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68380413,
+                "language": "Shell",
+                "last_commit": "2026-07-27T10:19:55Z",
+                "owner": "thibmaek",
+                "repo": "awesome-raspberry-pi",
+                "stars": 16753
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-embedded-rust",
+              "description": "Curated list of resources for Embedded and Low-level development in the Rust programming language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127671976,
+                "language": null,
+                "last_commit": "2026-08-18T16:10:05Z",
+                "owner": "rust-embedded",
+                "repo": "awesome-embedded-rust",
+                "stars": 8033
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Curated List of Self-Driving Cars and Autonomous Vehicles Resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76066550,
+                "language": null,
+                "last_commit": "2024-03-15T17:19:11Z",
+                "owner": "manfreddiaz",
+                "repo": "awesome-autonomous-vehicles",
+                "stars": 2390
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-c",
+              "description": "A curated list of awesome C frameworks, libraries and software.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40586505,
+                "language": null,
+                "last_commit": "2026-08-04T00:06:00Z",
+                "owner": "uhub",
+                "repo": "awesome-c",
+                "stars": 2210
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-embedded-systems",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70651393,
+                "language": null,
+                "last_commit": "2024-01-04T03:35:24Z",
+                "owner": "embedded-boston",
+                "repo": "awesome-embedded-systems",
+                "stars": 1006
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theEmbeddedNewTestament.github.io",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 279772483,
+                "language": "C",
+                "last_commit": "2026-06-27T09:03:28Z",
+                "owner": "theEmbeddedGeorge",
+                "repo": "theEmbeddedNewTestament.github.io",
+                "stars": 941
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-cheat-sheets",
+              "description": "Awesome Cheat Sheets for Developer Utility, like Git, Vim, Tmux, Sublime Text, Markdown, Shell.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48937105,
+                "language": null,
+                "last_commit": "2023-12-13T11:05:01Z",
+                "owner": "mintisan",
+                "repo": "awesome-cheat-sheets",
+                "stars": 155
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-18T13:28:50Z",
-            "owner": "sindresorhus",
-            "repo": "awesome",
-            "stars": 497366
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Curated list of project-based tutorials",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T06:46:47Z",
-            "owner": "practical-tutorials",
-            "repo": "project-based-learning",
-            "stars": 279765
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A curated list of awesome Raspberry Pi tools, projects, images and resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-07-27T10:19:55Z",
-            "owner": "thibmaek",
-            "repo": "awesome-raspberry-pi",
-            "stars": 16753
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-embedded-rust",
-          "description": "Curated list of resources for Embedded and Low-level development in the Rust programming language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-18T16:10:05Z",
-            "owner": "rust-embedded",
-            "repo": "awesome-embedded-rust",
-            "stars": 8031
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Curated List of Self-Driving Cars and Autonomous Vehicles Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-03-15T17:19:11Z",
-            "owner": "manfreddiaz",
-            "repo": "awesome-autonomous-vehicles",
-            "stars": 2390
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-c",
-          "description": "A curated list of awesome C frameworks, libraries and software.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-04T00:06:00Z",
-            "owner": "uhub",
-            "repo": "awesome-c",
-            "stars": 2210
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-embedded-systems",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-01-04T03:35:24Z",
-            "owner": "embedded-boston",
-            "repo": "awesome-embedded-systems",
-            "stars": 1006
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "theEmbeddedNewTestament.github.io",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-06-27T09:03:28Z",
-            "owner": "theEmbeddedGeorge",
-            "repo": "theEmbeddedNewTestament.github.io",
-            "stars": 941
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-cheat-sheets",
-          "description": "Awesome Cheat Sheets for Developer Utility, like Git, Vim, Tmux, Sublime Text, Markdown, Shell.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-12-13T11:05:01Z",
-            "owner": "mintisan",
-            "repo": "awesome-cheat-sheets",
-            "stars": 155
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A curated list of project-based tutorials in C",
-          "description": null,
-          "children": []
+          "node_type": "group",
+          "title": "Looking for more lists like this?"
         }
       ],
-      "title": "Looking for more lists like this?"
+      "title": "Tech blogs"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:15:38.515Z",
+    "last_updated": "2026-08-19T12:06:40.882Z",
     "original_repository": "nhivp/Awesome-Embedded",
+    "original_repository_id": 104612770,
     "original_repository_sha": "8474defa48860fc416562d0bdf85d1b193094327",
     "enhanced_repository": "enhansome/enhansome-Awesome-Embedded",
     "enhanced_repository_description": null,
