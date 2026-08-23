@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-03T05:44:31Z",
                 "owner": "cpq",
                 "repo": "bare-metal-programming-guide",
-                "stars": 4826
+                "stars": 4831
               }
             },
             {
@@ -148,10 +148,10 @@
                 "archived": false,
                 "id": 5414488,
                 "language": "C",
-                "last_commit": "2026-08-20T08:04:42Z",
+                "last_commit": "2026-08-23T11:54:18Z",
                 "owner": "cesanta",
                 "repo": "mongoose",
-                "stars": 13007
+                "stars": 13006
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2022-12-02T09:35:41Z",
                 "owner": "akospasztor",
                 "repo": "stm32-bootloader",
-                "stars": 1053
+                "stars": 1054
               }
             },
             {
@@ -196,7 +196,7 @@
                 "last_commit": "2025-10-06T05:06:54Z",
                 "owner": "dmitrystu",
                 "repo": "libusb_stm32",
-                "stars": 825
+                "stars": 826
               }
             },
             {
@@ -626,7 +626,7 @@
             "last_commit": "2026-08-04T18:13:23Z",
             "owner": "sypstraw",
             "repo": "rpi4-osdev",
-            "stars": 3766
+            "stars": 3767
           }
         },
         {
@@ -641,7 +641,7 @@
             "last_commit": "2024-06-21T03:57:23Z",
             "owner": "bztsrc",
             "repo": "raspi3-tutorial",
-            "stars": 3037
+            "stars": 3038
           }
         },
         {
@@ -1118,7 +1118,7 @@
             "last_commit": "2026-08-19T19:03:04Z",
             "owner": "0xAX",
             "repo": "linux-insides",
-            "stars": 32947
+            "stars": 32949
           }
         },
         {
@@ -1148,7 +1148,7 @@
             "last_commit": "2026-08-14T22:14:15Z",
             "owner": "xairy",
             "repo": "linux-kernel-exploitation",
-            "stars": 6598
+            "stars": 6600
           }
         },
         {
@@ -1229,7 +1229,7 @@
             "last_commit": "2026-02-04T09:33:56Z",
             "owner": "cfenollosa",
             "repo": "os-tutorial",
-            "stars": 30659
+            "stars": 30661
           }
         },
         {
@@ -1244,7 +1244,7 @@
             "last_commit": "2026-08-21T09:45:39Z",
             "owner": "RT-Thread",
             "repo": "rt-thread",
-            "stars": 12163
+            "stars": 12164
           }
         },
         {
@@ -1274,7 +1274,7 @@
             "last_commit": "2026-08-22T16:41:34Z",
             "owner": "tock",
             "repo": "tock",
-            "stars": 6416
+            "stars": 6418
           }
         },
         {
@@ -1304,7 +1304,7 @@
             "last_commit": "2026-01-20T10:54:42Z",
             "owner": "odriverobotics",
             "repo": "ODrive",
-            "stars": 3738
+            "stars": 3739
           }
         },
         {
@@ -1586,7 +1586,7 @@
             "last_commit": "2024-03-26T16:21:49Z",
             "owner": "tuhdo",
             "repo": "os01",
-            "stars": 13676
+            "stars": 13680
           }
         },
         {
@@ -1730,7 +1730,7 @@
             "archived": false,
             "id": 25298630,
             "language": "C++",
-            "last_commit": "2026-08-22T18:20:55Z",
+            "last_commit": "2026-08-23T17:47:28Z",
             "owner": "ETLCPP",
             "repo": "etl",
             "stars": 3104
@@ -1748,7 +1748,7 @@
             "last_commit": "2026-05-21T14:11:06Z",
             "owner": "armink",
             "repo": "CmBacktrace",
-            "stars": 2156
+            "stars": 2157
           }
         },
         {
@@ -1934,7 +1934,7 @@
             "last_commit": "2026-07-29T13:12:24Z",
             "owner": "ForestHubAI",
             "repo": "edge-agents",
-            "stars": 97
+            "stars": 98
           }
         },
         {
@@ -1997,10 +1997,10 @@
             "archived": false,
             "id": 305089628,
             "language": "C++",
-            "last_commit": "2026-08-22T16:40:28Z",
+            "last_commit": "2026-08-22T20:47:06Z",
             "owner": "Serial-Studio",
             "repo": "Serial-Studio",
-            "stars": 7150
+            "stars": 7152
           }
         },
         {
@@ -2027,7 +2027,7 @@
             "archived": false,
             "id": 1138269866,
             "language": "Python",
-            "last_commit": "2026-08-22T01:00:51Z",
+            "last_commit": "2026-08-23T14:00:34Z",
             "owner": "jumpstarter-dev",
             "repo": "jumpstarter",
             "stars": 211
@@ -2128,7 +2128,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 498929
+                "stars": 499263
               }
             },
             {
@@ -2143,7 +2143,7 @@
                 "last_commit": "2026-08-17T06:46:47Z",
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 280365
+                "stars": 280493
               }
             },
             {
@@ -2158,7 +2158,7 @@
                 "last_commit": "2026-07-27T10:19:55Z",
                 "owner": "thibmaek",
                 "repo": "awesome-raspberry-pi",
-                "stars": 16773
+                "stars": 16781
               }
             },
             {
@@ -2173,7 +2173,7 @@
                 "last_commit": "2026-08-18T16:10:05Z",
                 "owner": "rust-embedded",
                 "repo": "awesome-embedded-rust",
-                "stars": 8043
+                "stars": 8047
               }
             },
             {
@@ -2188,7 +2188,7 @@
                 "last_commit": "2024-03-15T17:19:11Z",
                 "owner": "manfreddiaz",
                 "repo": "awesome-autonomous-vehicles",
-                "stars": 2390
+                "stars": 2389
               }
             },
             {
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:02:49.600Z",
+    "last_updated": "2026-08-23T19:02:25.650Z",
     "original_repository": "nhivp/Awesome-Embedded",
     "original_repository_id": 104612770,
     "original_repository_sha": "8474defa48860fc416562d0bdf85d1b193094327",
