@@ -4,6 +4,69 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Coding Interview University",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60493101,
+            "language": null,
+            "last_commit": "2025-08-28T14:42:47Z",
+            "owner": "jwasham",
+            "repo": "coding-interview-university",
+            "stars": 359617
+          }
+        }
+      ],
+      "title": "Interview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "How to be low-level programmer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 77788381,
+            "language": null,
+            "last_commit": "2025-03-24T11:49:58Z",
+            "owner": "gurugio",
+            "repo": "lowlevelprogramming-university",
+            "stars": 12745
+          }
+        }
+      ],
+      "title": "Embedded Software Skill"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Modern Embedded Systems Programming Course",
+          "description": "Learn from the basics to modern embedded programming practice.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 292085252,
+            "language": "C",
+            "last_commit": "2026-07-07T11:22:40Z",
+            "owner": "QuantumLeaps",
+            "repo": "modern-embedded-programming-course",
+            "stars": 1441
+          }
+        }
+      ],
+      "title": "Common"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -17,7 +80,7 @@
                 "last_commit": "2026-07-03T05:44:31Z",
                 "owner": "cpq",
                 "repo": "bare-metal-programming-guide",
-                "stars": 4831
+                "stars": 4832
               }
             },
             {
@@ -32,7 +95,7 @@
                 "last_commit": "2026-08-08T08:56:38Z",
                 "owner": "ckormanyos",
                 "repo": "real-time-cpp",
-                "stars": 806
+                "stars": 807
               }
             },
             {
@@ -141,6 +204,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Real-Time Bluetooth Networks - UTAustinX",
+              "description": "Learn the design fundamentals of a real-time operating system (RTOS) and how to build a Bluetooth network in this hands-on project-based course.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68386336,
+                "language": "C",
+                "last_commit": "2017-01-15T20:57:46Z",
+                "owner": "monpeco",
+                "repo": "real_time_bn",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MSP432"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Standalone TCP/IP stack for STM32, bare metal or RTOS",
               "description": null,
               "children": [],
@@ -148,10 +233,10 @@
                 "archived": false,
                 "id": 5414488,
                 "language": "C",
-                "last_commit": "2026-08-23T11:54:18Z",
+                "last_commit": "2026-08-24T07:53:30Z",
                 "owner": "cesanta",
                 "repo": "mongoose",
-                "stars": 13006
+                "stars": 13007
               }
             },
             {
@@ -641,7 +726,7 @@
             "last_commit": "2024-06-21T03:57:23Z",
             "owner": "bztsrc",
             "repo": "raspi3-tutorial",
-            "stars": 3038
+            "stars": 3039
           }
         },
         {
@@ -1118,7 +1203,7 @@
             "last_commit": "2026-08-19T19:03:04Z",
             "owner": "0xAX",
             "repo": "linux-insides",
-            "stars": 32949
+            "stars": 32952
           }
         },
         {
@@ -1133,7 +1218,7 @@
             "last_commit": "2025-03-24T11:49:58Z",
             "owner": "gurugio",
             "repo": "lowlevelprogramming-university",
-            "stars": 12744
+            "stars": 12745
           }
         },
         {
@@ -1163,7 +1248,7 @@
             "last_commit": "2026-06-16T06:03:49Z",
             "owner": "cirosantilli",
             "repo": "linux-kernel-module-cheat",
-            "stars": 4508
+            "stars": 4507
           }
         },
         {
@@ -1229,7 +1314,7 @@
             "last_commit": "2026-02-04T09:33:56Z",
             "owner": "cfenollosa",
             "repo": "os-tutorial",
-            "stars": 30661
+            "stars": 30662
           }
         },
         {
@@ -1241,7 +1326,7 @@
             "archived": false,
             "id": 7408108,
             "language": "C",
-            "last_commit": "2026-08-21T09:45:39Z",
+            "last_commit": "2026-08-24T09:10:55Z",
             "owner": "RT-Thread",
             "repo": "rt-thread",
             "stars": 12164
@@ -1259,7 +1344,7 @@
             "last_commit": "2024-04-01T08:14:55Z",
             "owner": "yourtion",
             "repo": "30dayMakeOS",
-            "stars": 6449
+            "stars": 6451
           }
         },
         {
@@ -1274,7 +1359,7 @@
             "last_commit": "2026-08-22T16:41:34Z",
             "owner": "tock",
             "repo": "tock",
-            "stars": 6418
+            "stars": 6419
           }
         },
         {
@@ -1304,7 +1389,7 @@
             "last_commit": "2026-01-20T10:54:42Z",
             "owner": "odriverobotics",
             "repo": "ODrive",
-            "stars": 3739
+            "stars": 3743
           }
         },
         {
@@ -1586,7 +1671,7 @@
             "last_commit": "2024-03-26T16:21:49Z",
             "owner": "tuhdo",
             "repo": "os01",
-            "stars": 13680
+            "stars": 13681
           }
         },
         {
@@ -1601,7 +1686,7 @@
             "last_commit": "2026-01-08T16:02:14Z",
             "owner": "dthain",
             "repo": "basekernel",
-            "stars": 936
+            "stars": 938
           }
         },
         {
@@ -1718,7 +1803,7 @@
             "last_commit": "2026-04-16T12:24:54Z",
             "owner": "ApolloAuto",
             "repo": "apollo",
-            "stars": 26801
+            "stars": 26803
           }
         },
         {
@@ -1730,10 +1815,10 @@
             "archived": false,
             "id": 25298630,
             "language": "C++",
-            "last_commit": "2026-08-23T17:47:28Z",
+            "last_commit": "2026-08-24T13:16:17Z",
             "owner": "ETLCPP",
             "repo": "etl",
-            "stars": 3104
+            "stars": 3105
           }
         },
         {
@@ -1805,7 +1890,7 @@
             "archived": false,
             "id": 128429105,
             "language": "C++",
-            "last_commit": "2026-08-22T17:28:57Z",
+            "last_commit": "2026-08-24T03:44:02Z",
             "owner": "malachi-iot",
             "repo": "estdlib",
             "stars": 85
@@ -1859,7 +1944,7 @@
             "last_commit": "2024-06-01T16:49:37Z",
             "owner": "microsoft",
             "repo": "ELL",
-            "stars": 2303
+            "stars": 2302
           }
         },
         {
@@ -1889,7 +1974,7 @@
             "last_commit": "2024-04-08T03:15:10Z",
             "owner": "majianjia",
             "repo": "nnom",
-            "stars": 1165
+            "stars": 1164
           }
         },
         {
@@ -1946,10 +2031,10 @@
             "archived": false,
             "id": 1254141215,
             "language": "C",
-            "last_commit": "2026-08-21T11:33:13Z",
+            "last_commit": "2026-08-24T11:00:03Z",
             "owner": "voicute",
             "repo": "onnx-wakeword",
-            "stars": 61
+            "stars": 62
           }
         },
         {
@@ -1997,10 +2082,10 @@
             "archived": false,
             "id": 305089628,
             "language": "C++",
-            "last_commit": "2026-08-22T20:47:06Z",
+            "last_commit": "2026-08-24T00:31:20Z",
             "owner": "Serial-Studio",
             "repo": "Serial-Studio",
-            "stars": 7152
+            "stars": 7153
           }
         },
         {
@@ -2027,7 +2112,7 @@
             "archived": false,
             "id": 1138269866,
             "language": "Python",
-            "last_commit": "2026-08-23T14:00:34Z",
+            "last_commit": "2026-08-24T13:44:24Z",
             "owner": "jumpstarter-dev",
             "repo": "jumpstarter",
             "stars": 211
@@ -2112,6 +2197,42 @@
       "title": "Utilities"
     },
     {
+      "description": "Awesome Cheat Sheets for Developer Utility, like Git, Vim , Tmux, SublimeText, Markdown, Shell.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Cheat Sheets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48937105,
+            "language": null,
+            "last_commit": "2023-12-13T11:05:01Z",
+            "owner": "mintisan",
+            "repo": "awesome-cheat-sheets",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vim Config for Reading Linux Kernel Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48876656,
+            "language": "Vim script",
+            "last_commit": "2022-03-13T03:15:35Z",
+            "owner": "mintisan",
+            "repo": "oh-my-vim",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Tips & tricks"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -2128,7 +2249,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 499263
+                "stars": 499505
               }
             },
             {
@@ -2140,10 +2261,10 @@
                 "archived": false,
                 "id": 88011908,
                 "language": "Python",
-                "last_commit": "2026-08-17T06:46:47Z",
+                "last_commit": "2026-08-24T07:38:50Z",
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 280493
+                "stars": 280598
               }
             },
             {
@@ -2158,7 +2279,7 @@
                 "last_commit": "2026-07-27T10:19:55Z",
                 "owner": "thibmaek",
                 "repo": "awesome-raspberry-pi",
-                "stars": 16781
+                "stars": 16782
               }
             },
             {
@@ -2188,7 +2309,7 @@
                 "last_commit": "2024-03-15T17:19:11Z",
                 "owner": "manfreddiaz",
                 "repo": "awesome-autonomous-vehicles",
-                "stars": 2389
+                "stars": 2388
               }
             },
             {
@@ -2203,7 +2324,7 @@
                 "last_commit": "2026-08-04T00:06:00Z",
                 "owner": "uhub",
                 "repo": "awesome-c",
-                "stars": 2211
+                "stars": 2212
               }
             },
             {
@@ -2218,7 +2339,7 @@
                 "last_commit": "2024-01-04T03:35:24Z",
                 "owner": "embedded-boston",
                 "repo": "awesome-embedded-systems",
-                "stars": 1007
+                "stars": 1008
               }
             },
             {
@@ -2233,7 +2354,7 @@
                 "last_commit": "2026-06-27T09:03:28Z",
                 "owner": "theEmbeddedGeorge",
                 "repo": "theEmbeddedNewTestament.github.io",
-                "stars": 944
+                "stars": 945
               }
             },
             {
@@ -2261,7 +2382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:02:25.650Z",
+    "last_updated": "2026-08-24T13:50:40.791Z",
     "original_repository": "nhivp/Awesome-Embedded",
     "original_repository_id": 104612770,
     "original_repository_sha": "8474defa48860fc416562d0bdf85d1b193094327",
