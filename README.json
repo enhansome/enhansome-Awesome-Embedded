@@ -15,7 +15,7 @@
             "last_commit": "2025-08-28T14:42:47Z",
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 359793
+            "stars": 359826
           }
         }
       ],
@@ -80,7 +80,7 @@
                 "last_commit": "2026-07-03T05:44:31Z",
                 "owner": "cpq",
                 "repo": "bare-metal-programming-guide",
-                "stars": 4841
+                "stars": 4842
               }
             },
             {
@@ -233,10 +233,10 @@
                 "archived": false,
                 "id": 5414488,
                 "language": "C",
-                "last_commit": "2026-08-26T12:11:14Z",
+                "last_commit": "2026-08-27T08:47:06Z",
                 "owner": "cesanta",
                 "repo": "mongoose",
-                "stars": 13009
+                "stars": 13010
               }
             },
             {
@@ -1203,7 +1203,7 @@
             "last_commit": "2026-08-19T19:03:04Z",
             "owner": "0xAX",
             "repo": "linux-insides",
-            "stars": 32958
+            "stars": 32959
           }
         },
         {
@@ -1233,7 +1233,7 @@
             "last_commit": "2026-08-14T22:14:15Z",
             "owner": "xairy",
             "repo": "linux-kernel-exploitation",
-            "stars": 6602
+            "stars": 6603
           }
         },
         {
@@ -1248,7 +1248,7 @@
             "last_commit": "2026-06-16T06:03:49Z",
             "owner": "cirosantilli",
             "repo": "linux-kernel-module-cheat",
-            "stars": 4508
+            "stars": 4509
           }
         },
         {
@@ -1278,7 +1278,7 @@
             "last_commit": "2025-11-02T21:46:15Z",
             "owner": "vsergeev",
             "repo": "c-periphery",
-            "stars": 1061
+            "stars": 1062
           }
         },
         {
@@ -1314,7 +1314,7 @@
             "last_commit": "2026-02-04T09:33:56Z",
             "owner": "cfenollosa",
             "repo": "os-tutorial",
-            "stars": 30673
+            "stars": 30675
           }
         },
         {
@@ -1326,10 +1326,10 @@
             "archived": false,
             "id": 7408108,
             "language": "C",
-            "last_commit": "2026-08-26T02:53:23Z",
+            "last_commit": "2026-08-27T03:48:49Z",
             "owner": "RT-Thread",
             "repo": "rt-thread",
-            "stars": 12170
+            "stars": 12171
           }
         },
         {
@@ -1344,7 +1344,7 @@
             "last_commit": "2024-04-01T08:14:55Z",
             "owner": "yourtion",
             "repo": "30dayMakeOS",
-            "stars": 6452
+            "stars": 6453
           }
         },
         {
@@ -1356,10 +1356,10 @@
             "archived": false,
             "id": 36428094,
             "language": "Rust",
-            "last_commit": "2026-08-26T20:38:12Z",
+            "last_commit": "2026-08-27T01:15:48Z",
             "owner": "tock",
             "repo": "tock",
-            "stars": 6422
+            "stars": 6423
           }
         },
         {
@@ -1566,7 +1566,7 @@
             "archived": false,
             "id": 954389533,
             "language": "C",
-            "last_commit": "2026-08-26T07:57:59Z",
+            "last_commit": "2026-08-27T04:44:31Z",
             "owner": "antoniogiacomelli",
             "repo": "RK0",
             "stars": 14
@@ -1620,7 +1620,7 @@
             "last_commit": "2025-09-15T12:29:31Z",
             "owner": "TrampolineRTOS",
             "repo": "trampoline",
-            "stars": 744
+            "stars": 745
           }
         },
         {
@@ -1671,7 +1671,7 @@
             "last_commit": "2024-03-26T16:21:49Z",
             "owner": "tuhdo",
             "repo": "os01",
-            "stars": 13684
+            "stars": 13686
           }
         },
         {
@@ -1737,7 +1737,7 @@
             "last_commit": "2026-07-14T03:59:34Z",
             "owner": "feaser",
             "repo": "openblt",
-            "stars": 968
+            "stars": 969
           }
         },
         {
@@ -1815,7 +1815,7 @@
             "archived": false,
             "id": 25298630,
             "language": "C++",
-            "last_commit": "2026-08-26T19:16:54Z",
+            "last_commit": "2026-08-27T11:17:44Z",
             "owner": "ETLCPP",
             "repo": "etl",
             "stars": 3107
@@ -2034,7 +2034,7 @@
             "last_commit": "2026-08-24T11:00:03Z",
             "owner": "voicute",
             "repo": "onnx-wakeword",
-            "stars": 65
+            "stars": 67
           }
         },
         {
@@ -2082,10 +2082,10 @@
             "archived": false,
             "id": 305089628,
             "language": "C",
-            "last_commit": "2026-08-26T20:27:20Z",
+            "last_commit": "2026-08-27T10:54:09Z",
             "owner": "Serial-Studio",
             "repo": "Serial-Studio",
-            "stars": 7158
+            "stars": 7159
           }
         },
         {
@@ -2112,10 +2112,10 @@
             "archived": false,
             "id": 1138269866,
             "language": "Python",
-            "last_commit": "2026-08-26T16:01:21Z",
+            "last_commit": "2026-08-27T11:12:15Z",
             "owner": "jumpstarter-dev",
             "repo": "jumpstarter",
-            "stars": 212
+            "stars": 213
           }
         },
         {
@@ -2249,7 +2249,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500202
+                "stars": 500358
               }
             },
             {
@@ -2264,7 +2264,7 @@
                 "last_commit": "2026-08-24T07:38:50Z",
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 280974
+                "stars": 281041
               }
             },
             {
@@ -2279,7 +2279,7 @@
                 "last_commit": "2026-07-27T10:19:55Z",
                 "owner": "thibmaek",
                 "repo": "awesome-raspberry-pi",
-                "stars": 16789
+                "stars": 16791
               }
             },
             {
@@ -2294,7 +2294,7 @@
                 "last_commit": "2026-08-18T16:10:05Z",
                 "owner": "rust-embedded",
                 "repo": "awesome-embedded-rust",
-                "stars": 8051
+                "stars": 8052
               }
             },
             {
@@ -2339,7 +2339,7 @@
                 "last_commit": "2024-01-04T03:35:24Z",
                 "owner": "embedded-boston",
                 "repo": "awesome-embedded-systems",
-                "stars": 1010
+                "stars": 1011
               }
             },
             {
@@ -2354,7 +2354,7 @@
                 "last_commit": "2026-06-27T09:03:28Z",
                 "owner": "theEmbeddedGeorge",
                 "repo": "theEmbeddedNewTestament.github.io",
-                "stars": 947
+                "stars": 948
               }
             },
             {
@@ -2382,9 +2382,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:13:31.848Z",
-    "original_repository": "nhivp/Awesome-Embedded",
-    "original_repository_id": 104612770,
+    "last_updated": "2026-08-27T11:21:42.727Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 104612770,
+      "language": null,
+      "last_commit": "2026-08-12T03:10:08Z",
+      "owner": "nhivp",
+      "repo": "Awesome-Embedded",
+      "stars": 9046
+    },
     "original_repository_sha": "8474defa48860fc416562d0bdf85d1b193094327",
     "enhanced_repository": "enhansome/enhansome-Awesome-Embedded",
     "enhanced_repository_description": null,
