@@ -10,12 +10,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A complete computer science study plan to become a software engineer.",
+            "homepage": null,
             "id": 60493101,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2025-08-28T14:42:47Z",
+            "open_issues": 126,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 359917
+            "stars": 359922,
+            "topics": [
+              "algorithm",
+              "algorithms",
+              "coding-interview",
+              "coding-interviews",
+              "computer-science",
+              "data-structures",
+              "interview",
+              "interview-prep",
+              "interview-preparation",
+              "programming-interviews",
+              "software-engineering",
+              "study-plan"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         }
@@ -32,12 +50,33 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "How to be low-level programmer",
+            "homepage": null,
             "id": 77788381,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2025-03-24T11:49:58Z",
+            "open_issues": 0,
             "owner": "gurugio",
             "repo": "lowlevelprogramming-university",
-            "stars": 12744
+            "stars": 12745,
+            "topics": [
+              "arduino",
+              "assembly",
+              "assembly-language-programming",
+              "c-programming",
+              "embedded-systems",
+              "firmware",
+              "hardware",
+              "linux-kernel",
+              "linux-kernel-hacking",
+              "low-level",
+              "low-level-programming",
+              "operating-system",
+              "programming-language",
+              "rust-lang",
+              "system-programming"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         }
@@ -54,12 +93,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Companion repository to the \"Modern Embedded Systems Programming\" video course.",
+            "homepage": "https://www.youtube.com/c/StateMachineCOM",
             "id": 292085252,
             "language": "C",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-07T11:22:40Z",
+            "open_issues": 1,
             "owner": "QuantumLeaps",
             "repo": "modern-embedded-programming-course",
-            "stars": 1444
+            "stars": 1444,
+            "topics": [
+              "architecture",
+              "arm",
+              "arm-cortex-m",
+              "arm-cortex-m4f",
+              "c",
+              "c-programming",
+              "debugging",
+              "embedded",
+              "embedded-c",
+              "embedded-systems",
+              "interrutps",
+              "learning",
+              "learning-by-doing",
+              "learning-labs",
+              "learning-programming",
+              "low-level-programming",
+              "rtos",
+              "samek",
+              "video-course"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         }
@@ -78,12 +142,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bare metal programming guide (ARM microcontrollers)",
+                "homepage": null,
                 "id": 537042935,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-07-03T05:44:31Z",
+                "open_issues": 2,
                 "owner": "cpq",
                 "repo": "bare-metal-programming-guide",
-                "stars": 4846
+                "stars": 4846,
+                "topics": [
+                  "arm",
+                  "baremetal",
+                  "cmsis",
+                  "embedded-web-server",
+                  "embedded-webserver",
+                  "ethernet",
+                  "gcc",
+                  "gpio",
+                  "irq",
+                  "make",
+                  "stm32",
+                  "tutorial",
+                  "uart",
+                  "webserver"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -94,12 +178,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for the book Real-Time C++, by Christopher Kormanyos",
+                "homepage": null,
                 "id": 5922310,
                 "language": "C++",
+                "license": "BSL-1.0",
                 "last_commit": "2026-08-08T08:56:38Z",
+                "open_issues": 10,
                 "owner": "ckormanyos",
                 "repo": "real-time-cpp",
-                "stars": 809
+                "stars": 809,
+                "topics": [
+                  "arduino",
+                  "arm",
+                  "avr",
+                  "avr-microcontroller",
+                  "bare-metal",
+                  "cortex-m",
+                  "cpp",
+                  "cpp11",
+                  "cpp14",
+                  "cpp17",
+                  "cpp20",
+                  "cpp23",
+                  "embedded",
+                  "embedded-systems",
+                  "high-performance",
+                  "microcontroller",
+                  "realtime",
+                  "stm32"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -110,12 +218,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ARM64 Type-1 bare-metal hypervisor in Rust (no_std) — boots Linux at EL1, FF-A v1.1 SPMC at S-EL2, pKVM integration",
+                "homepage": null,
                 "id": 1142208415,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-06-09T15:41:42Z",
+                "open_issues": 0,
                 "owner": "willamhou",
                 "repo": "hypervisor",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "aarch64",
+                  "arm64",
+                  "bare-metal",
+                  "ff-a",
+                  "hypervisor",
+                  "no-std",
+                  "pkvm",
+                  "rust",
+                  "spmc",
+                  "trustzone",
+                  "type-1-hypervisor",
+                  "virtualization"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             }
@@ -133,12 +259,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ARM Cortex-M3/M4 drivers and projects made on TI Tiva-C and STM32F103.",
+                "homepage": null,
                 "id": 139495203,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-05-25T21:54:37Z",
+                "open_issues": 34,
                 "owner": "Mohammed-AhmedAF",
                 "repo": "ARM",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "stm32f103",
+                  "tiva-c-series",
+                  "tm4c123g",
+                  "tm4c123gh6pm"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -149,12 +285,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":octocat: educational repo for storing everything I do with embedded systems (uC's, SoC's, FPGA, & CPLD) including solutions to online courses I take",
+                "homepage": null,
                 "id": 50152298,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2021-01-10T07:44:28Z",
+                "open_issues": 0,
                 "owner": "glennlopez",
                 "repo": "EmbeddedSystems.Playground",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "embedded-systems",
+                  "redrivercollege",
+                  "utaustin",
+                  "utaustin-solutions",
+                  "zybooks"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -165,12 +312,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of an round robin pre-emptive scheduler and build environment for ARM Cortex M4 controllers.",
+                "homepage": null,
                 "id": 6668722,
                 "language": "C",
+                "license": null,
                 "last_commit": "2019-08-11T16:10:00Z",
+                "open_issues": 1,
                 "owner": "streetdogg",
                 "repo": "arm-rtos",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "arm-cortex-m4",
+                  "arm-cortex-m4f",
+                  "openocd",
+                  "tiva-c-series"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -181,12 +338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example hello-world apps for Texas Instruments TI-RTOS for Tiva C using a Linux host",
+                "homepage": null,
                 "id": 16088579,
                 "language": "C",
+                "license": null,
                 "last_commit": "2014-05-08T12:38:34Z",
+                "open_issues": 0,
                 "owner": "alexeicolin",
                 "repo": "tivaapps",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -197,12 +359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TM4C123 GCC project template",
+                "homepage": null,
                 "id": 15458591,
                 "language": "C",
+                "license": null,
                 "last_commit": "2015-06-02T16:50:30Z",
+                "open_issues": 0,
                 "owner": "martinjaros",
                 "repo": "tm4c-gcc",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             }
@@ -220,12 +387,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-Time Bluetooth Networks - UTAustinX",
+                "homepage": null,
                 "id": 68386336,
                 "language": "C",
+                "license": null,
                 "last_commit": "2017-01-15T20:57:46Z",
+                "open_issues": 7,
                 "owner": "monpeco",
                 "repo": "real_time_bn",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             }
@@ -243,12 +415,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Embedded web server, with TCP/IP network stack, MQTT and Websocket",
+                "homepage": "https://mongoose.ws",
                 "id": 5414488,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T13:32:14Z",
+                "open_issues": 2,
                 "owner": "cesanta",
                 "repo": "mongoose",
-                "stars": 13011
+                "stars": 13012,
+                "topics": [
+                  "embedded",
+                  "http",
+                  "iot",
+                  "mqtt",
+                  "tcp",
+                  "tcpip",
+                  "tls13",
+                  "udp",
+                  "web-server",
+                  "webserver",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -259,12 +448,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Customizable Bootloader for STM32 microcontrollers. This example demonstrates how to perform in-application-programming of a firmware located on an external SD card with FAT32 file system.",
+                "homepage": "https://akospasztor.github.io/stm32-bootloader",
                 "id": 87632134,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-02T09:35:41Z",
+                "open_issues": 0,
                 "owner": "akospasztor",
                 "repo": "stm32-bootloader",
-                "stars": 1055
+                "stars": 1055,
+                "topics": [
+                  "boot",
+                  "bootloader",
+                  "demo",
+                  "example",
+                  "fat32",
+                  "fatfs",
+                  "firmware",
+                  "firmware-updater",
+                  "flash",
+                  "flasher",
+                  "iap",
+                  "in-app-programming",
+                  "mcu",
+                  "microcontroller",
+                  "microsd",
+                  "sd",
+                  "stm32",
+                  "stm32l4",
+                  "stm32l476",
+                  "stm32l496"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -275,12 +490,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "STM32F103C8 Examples",
+                "homepage": null,
                 "id": 66341242,
                 "language": "C",
+                "license": null,
                 "last_commit": "2018-10-11T14:45:32Z",
+                "open_issues": 7,
                 "owner": "avislab",
                 "repo": "STM32F103",
-                "stars": 971
+                "stars": 971,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -291,12 +511,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight USB device Stack for STM32 microcontrollers",
+                "homepage": null,
                 "id": 67630223,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-06T05:06:54Z",
+                "open_issues": 29,
                 "owner": "dmitrystu",
                 "repo": "libusb_stm32",
-                "stars": 826
+                "stars": 826,
+                "topics": [
+                  "stm32",
+                  "usb"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -307,12 +535,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "libopencm3 and FreeRTOS projects using the STM32F103C8T6 MCU",
+                "homepage": null,
                 "id": 82408735,
                 "language": "C",
+                "license": "LGPL-3.0",
                 "last_commit": "2023-11-18T15:35:28Z",
+                "open_issues": 12,
                 "owner": "ve3wwg",
                 "repo": "stm32f103c8t6",
-                "stars": 391
+                "stars": 391,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -323,12 +556,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DFU Bootloader for STM32 chips",
+                "homepage": null,
                 "id": 57870079,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2025-02-22T04:26:09Z",
+                "open_issues": 13,
                 "owner": "devanlai",
                 "repo": "dapboot",
-                "stars": 380
+                "stars": 380,
+                "topics": [
+                  "bootloader",
+                  "dfu",
+                  "stm32"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -339,12 +581,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Driverless USB HID bootloader and flashing tool for STM32F10X devices",
+                "homepage": null,
                 "id": 129602361,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2021-08-15T15:01:38Z",
+                "open_issues": 0,
                 "owner": "bootsector",
                 "repo": "stm32-hid-bootloader",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -355,12 +602,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A demo project of FreeRTOS running on a STM32F4 Discovery board.",
+                "homepage": null,
                 "id": 12059027,
                 "language": "C",
+                "license": "LGPL-3.0",
                 "last_commit": "2018-05-28T20:07:22Z",
+                "open_issues": 1,
                 "owner": "wangyeee",
                 "repo": "STM32F4-FreeRTOS",
-                "stars": 173
+                "stars": 173,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -371,12 +623,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tiny portable 3D graphics lib for micro controllers",
+                "homepage": null,
                 "id": 118320746,
                 "language": "C",
+                "license": null,
                 "last_commit": "2018-10-26T04:45:50Z",
+                "open_issues": 4,
                 "owner": "avem-labs",
                 "repo": "ol3d",
-                "stars": 152
+                "stars": 152,
+                "topics": [
+                  "3d-graphics",
+                  "arduino",
+                  "esp32",
+                  "esp32-arduino",
+                  "graphics",
+                  "microcontroller"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -387,12 +651,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A template for builting STM23F0 ARM projects with GCC",
+                "homepage": null,
                 "id": 4705025,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-09-05T04:52:44Z",
+                "open_issues": 3,
                 "owner": "szczys",
                 "repo": "stm32f0-discovery-basic-template",
-                "stars": 129
+                "stars": 129,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -403,12 +672,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bare metal programming on a generic STM32F103c8 board",
+                "homepage": "http://cholla.mmto.org/stm32",
                 "id": 69134935,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2023-12-10T15:39:19Z",
+                "open_issues": 2,
                 "owner": "trebisky",
                 "repo": "stm32f103",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -419,12 +693,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 25869424,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-09-13T02:20:15Z",
+                "open_issues": 3,
                 "owner": "dwelch67",
                 "repo": "stm32_samples",
-                "stars": 108
+                "stars": 108,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -435,12 +714,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "see README.md (below)",
+                "homepage": null,
                 "id": 8710918,
                 "language": "C",
+                "license": null,
                 "last_commit": "2019-10-24T10:30:44Z",
+                "open_issues": 1,
                 "owner": "rowol",
                 "repo": "stm32_discovery_arm_gcc",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -451,12 +735,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 2925329,
                 "language": "C",
+                "license": null,
                 "last_commit": "2016-05-12T00:47:58Z",
+                "open_issues": 0,
                 "owner": "dwelch67",
                 "repo": "stm32f4d",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -467,12 +756,35 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "STM32 based DC-DC converter",
+                "homepage": "https://shadowshell.io/",
                 "id": 580082629,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-01-06T09:56:34Z",
+                "open_issues": 0,
                 "owner": "gemesa",
                 "repo": "stm32-dc-dc",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "boost",
+                  "boost-converter",
+                  "buck",
+                  "buck-boost",
+                  "buck-boost-converter",
+                  "buck-converter",
+                  "c",
+                  "dc-dc",
+                  "dc-dc-converter",
+                  "hal",
+                  "hardware-abstraction-layer",
+                  "stm32",
+                  "stm32cubeide",
+                  "stm32f3",
+                  "stm32f334",
+                  "stm32f334c8t6",
+                  "stm32hal"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -483,12 +795,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tests to program STM32 Nucleo in C with GCC ARM embedded toolchain and libopencm3",
+                "homepage": null,
                 "id": 38956874,
                 "language": "C",
+                "license": "LGPL-3.0",
                 "last_commit": "2018-07-31T19:58:01Z",
+                "open_issues": 0,
                 "owner": "balau",
                 "repo": "nucleo_tests",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -499,12 +816,31 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "STM32 and nRF24L01+ based 2.4GHz RF scanner",
+                "homepage": "https://shadowshell.io/",
                 "id": 233912729,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2024-01-06T09:50:25Z",
+                "open_issues": 1,
                 "owner": "gemesa",
                 "repo": "stm32-rf-scanner",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "blue-pill",
+                  "c",
+                  "eclipse",
+                  "hal",
+                  "hardware-abstraction-layer",
+                  "nrf24",
+                  "nrf24l01plus",
+                  "stm32",
+                  "stm32cubemx",
+                  "stm32f1",
+                  "stm32f103",
+                  "stm32f103c8t6",
+                  "stm32hal"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -515,12 +851,32 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "small set of Rust tools to program STM32 devices",
+                "homepage": "https://shadowshell.io/",
                 "id": 638574583,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2023-05-21T11:45:25Z",
+                "open_issues": 0,
                 "owner": "gemesa",
                 "repo": "rustlink",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "arm",
+                  "board",
+                  "cargo",
+                  "cortex-m",
+                  "embedded",
+                  "linux",
+                  "nucleo",
+                  "nucleo-board",
+                  "programmer-tool",
+                  "rust",
+                  "stlink",
+                  "stlinkv2",
+                  "stm32",
+                  "stmicroelectronics"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -531,12 +887,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Getting started with the STM32F4-Discovery board using the EmBitz IDE. Blinking the 4 LEDs.",
+                "homepage": null,
                 "id": 104485995,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2017-09-22T19:11:45Z",
+                "open_issues": 0,
                 "owner": "RoanFourie",
                 "repo": "STM32F4-DISCO-EMBITZ-Blinky",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "begginers",
+                  "stm32f4-discovery",
+                  "stm32f407"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             }
@@ -554,12 +919,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny peripheral library for STM8 microcontrolles",
+                "homepage": null,
                 "id": 77332596,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2022-11-01T05:29:11Z",
+                "open_issues": 2,
                 "owner": "lujji",
                 "repo": "stm8-bare-min",
-                "stars": 129
+                "stars": 129,
+                "topics": [
+                  "examples",
+                  "peripheral-drivers",
+                  "sdcc",
+                  "stm8"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -570,12 +945,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Serial bootloader for STM8 microcontrollers",
+                "homepage": null,
                 "id": 97725802,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-04-01T13:21:22Z",
+                "open_issues": 0,
                 "owner": "lujji",
                 "repo": "stm8-bootloader",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "bootloader",
+                  "sdcc",
+                  "stm8"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -586,12 +970,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wolk STM8 stuff",
+                "homepage": null,
                 "id": 17111645,
                 "language": "C",
+                "license": null,
                 "last_commit": "2015-03-22T23:37:29Z",
+                "open_issues": 0,
                 "owner": "LonelyWolf",
                 "repo": "stm8",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -602,12 +991,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "STM8-Multi-Tasker - Preemptive/Cooperative Round Robin Scheduler for STM8",
+                "homepage": null,
                 "id": 119342243,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2018-02-02T05:42:55Z",
+                "open_issues": 1,
                 "owner": "vsch",
                 "repo": "stm8-multi-tasker",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "scheduler",
+                  "stm8",
+                  "stm8s",
+                  "threading"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -618,12 +1017,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tiny dev board for STM8S001J3 MCU",
+                "homepage": null,
                 "id": 289545268,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2020-10-18T18:41:23Z",
+                "open_issues": 0,
                 "owner": "HexRx",
                 "repo": "STM8S001J3_tiny_board",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "kicad",
+                  "pcb",
+                  "stm8",
+                  "stm8s",
+                  "stm8s001j3"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             }
@@ -641,12 +1051,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sming - powerful  open source framework simplifying the creation of embedded C++ applications.",
+                "homepage": "https://sming.readthedocs.io",
                 "id": 32271212,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-07-20T08:21:00Z",
+                "open_issues": 82,
                 "owner": "SmingHub",
                 "repo": "Sming",
-                "stars": 1569
+                "stars": 1569,
+                "topics": [
+                  "arduino",
+                  "async",
+                  "c-plus-plus",
+                  "embedded",
+                  "esp32",
+                  "esp8266",
+                  "espressif",
+                  "framework",
+                  "internet-of-things",
+                  "iot",
+                  "microcontroller",
+                  "rboot",
+                  "rp2040",
+                  "rp2350",
+                  "sming",
+                  "ssl-support",
+                  "upnp",
+                  "wifi"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -657,12 +1091,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "【深度开源】Wi-FI模块esp8266学习之旅（持续更新，欢迎 Star...）",
+                "homepage": null,
                 "id": 105225851,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2021-05-28T09:37:16Z",
+                "open_issues": 3,
                 "owner": "xuhongv",
                 "repo": "StudyInEsp8266",
-                "stars": 716
+                "stars": 716,
+                "topics": [
+                  "c"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -673,12 +1114,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "【深度开源】wiif+bt模块esp32学习之旅（持续更新，欢迎 Star...）",
+                "homepage": null,
                 "id": 132253667,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-14T08:07:44Z",
+                "open_issues": 7,
                 "owner": "xuhongv",
                 "repo": "StudyInEsp32",
-                "stars": 505
+                "stars": 505,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -689,12 +1135,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source bootloader for the ESP8266",
+                "homepage": "https://richard.burtons.org/tag/rboot/?order=ASC",
                 "id": 47462592,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2019-08-04T15:34:42Z",
+                "open_issues": 14,
                 "owner": "raburton",
                 "repo": "rboot",
-                "stars": 318
+                "stars": 318,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -705,12 +1156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An esp8266 rom creation tool",
+                "homepage": null,
                 "id": 47462814,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2019-08-04T17:05:49Z",
+                "open_issues": 0,
                 "owner": "raburton",
                 "repo": "esptool2",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             }
@@ -732,12 +1188,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning operating system development using Linux kernel and Raspberry Pi",
+            "homepage": null,
             "id": 95133665,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2024-03-29T21:19:52Z",
+            "open_issues": 66,
             "owner": "s-matyukevich",
             "repo": "raspberry-pi-os",
-            "stars": 13918
+            "stars": 13918,
+            "topics": [
+              "arm",
+              "armv8",
+              "assembler",
+              "c",
+              "education",
+              "kernel",
+              "learn",
+              "linux-kernel",
+              "operating-system",
+              "osdev",
+              "raspberry-pi",
+              "raspberry-pi-3",
+              "raspberry-pi-os",
+              "resource",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -748,12 +1225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tutorial: Writing a \"bare metal\" operating system for Raspberry Pi 4",
+            "homepage": "https://www.rpi4os.com",
             "id": 279028703,
             "language": "C",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-04T18:13:23Z",
+            "open_issues": 0,
             "owner": "sypstraw",
             "repo": "rpi4-osdev",
-            "stars": 3768
+            "stars": 3768,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -764,12 +1246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bare metal Raspberry Pi 3 tutorials",
+            "homepage": null,
             "id": 116288791,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2024-06-21T03:57:23Z",
+            "open_issues": 6,
             "owner": "bztsrc",
             "repo": "raspi3-tutorial",
-            "stars": 3040
+            "stars": 3040,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -780,12 +1267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Raspberry Pi ARM based bare metal examples",
+            "homepage": null,
             "id": 4452759,
             "language": "Assembly",
+            "license": null,
             "last_commit": "2023-07-14T09:07:13Z",
+            "open_issues": 34,
             "owner": "dwelch67",
             "repo": "raspberrypi",
-            "stars": 2823
+            "stars": 2823,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -796,12 +1288,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DEPRECATED - DO NOT USE |  Go here instead ->",
+            "homepage": "https://github.com/tianocore/edk2-platforms/tree/master/Platform/RaspberryPi/RPi3",
             "id": 114306058,
             "language": "C",
+            "license": null,
             "last_commit": "2020-02-19T04:54:04Z",
+            "open_issues": 3,
             "owner": "andreiw",
             "repo": "RaspberryPiPkg",
-            "stars": 741
+            "stars": 741,
+            "topics": [
+              "64-bit",
+              "aarch64",
+              "arm",
+              "arm-linux",
+              "arm64",
+              "armv8",
+              "firmware",
+              "freebsd",
+              "opensuse",
+              "raspberry-pi-3",
+              "raspberry-pi-uefi",
+              "raspberrypi",
+              "rpi",
+              "rpi3",
+              "ubuntu-arm",
+              "uefi",
+              "win10",
+              "windows-10",
+              "windows-on-arm"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -812,12 +1329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Raspberry-Pi Bare Metal Programming in C Tutorial",
+            "homepage": "https://www.valvers.com/open-software/raspberry-pi/bare-metal-programming-in-c-part-1/",
             "id": 15379362,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2020-12-21T11:52:26Z",
+            "open_issues": 1,
             "owner": "BrianSidebotham",
             "repo": "arm-tutorial-rpi",
-            "stars": 615
+            "stars": 615,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -828,12 +1350,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A port of FreeRTOS to the raspberry pi.",
+            "homepage": null,
             "id": 6643178,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2017-12-11T22:52:01Z",
+            "open_issues": 7,
             "owner": "jameswalmsley",
             "repo": "RaspberryPi-FreeRTOS",
-            "stars": 500
+            "stars": 500,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -844,12 +1371,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My public Baremetal Raspberry Pi code",
+            "homepage": null,
             "id": 97013602,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2019-05-06T13:32:55Z",
+            "open_issues": 7,
             "owner": "LdB-ECM",
             "repo": "Raspberry-Pi",
-            "stars": 334
+            "stars": 334,
+            "topics": [
+              "baremetal",
+              "fat32",
+              "freertos",
+              "gles",
+              "multicore",
+              "opengl",
+              "raspberry-pi",
+              "sd-card"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -860,12 +1401,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My public Baremetal Raspberry Pi code",
+            "homepage": null,
             "id": 97013602,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2019-05-06T13:32:55Z",
+            "open_issues": 7,
             "owner": "LdB-ECM",
             "repo": "Raspberry-Pi",
-            "stars": 334
+            "stars": 334,
+            "topics": [
+              "baremetal",
+              "fat32",
+              "freertos",
+              "gles",
+              "multicore",
+              "opengl",
+              "raspberry-pi",
+              "sd-card"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -876,12 +1431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A port of FreeRTOS to the raspberry pi 2B. With USB+Ethernet+TCP/IP.",
+            "homepage": null,
             "id": 50303564,
             "language": "C",
+            "license": null,
             "last_commit": "2017-07-02T18:52:15Z",
+            "open_issues": 1,
             "owner": "Forty-Tw0",
             "repo": "RaspberryPi-FreeRTOS",
-            "stars": 141
+            "stars": 141,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -892,12 +1452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ARM shellcode and exploit development - BSidesMunich 2018",
+            "homepage": null,
             "id": 123561386,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-04-09T13:24:07Z",
+            "open_issues": 0,
             "owner": "invictus1306",
             "repo": "Workshop-BSidesMunich2018",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -908,12 +1473,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Please file issues at: https://github.com/MicrosoftDocs/windows-iotcore-docs",
+            "homepage": null,
             "id": 52559049,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2019-10-29T21:34:57Z",
+            "open_issues": 2,
             "owner": "ms-iot",
             "repo": "RPi-UEFI",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -924,12 +1494,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build a Debian-based ARM64 system for Raspberry Pi 3 (and 3 B+ ?)",
+            "homepage": null,
             "id": 117321068,
             "language": "Shell",
+            "license": "LGPL-3.0",
             "last_commit": "2019-08-08T11:06:40Z",
+            "open_issues": 1,
             "owner": "UMRnInside",
             "repo": "RPi-arm64",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "aarch64",
+              "linux",
+              "raspberry-pi",
+              "raspberry-pi-3"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -940,12 +1520,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arm Episodes",
+            "homepage": null,
             "id": 96619395,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2018-01-25T23:31:40Z",
+            "open_issues": 0,
             "owner": "invictus1306",
             "repo": "ARM-episodes",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "arm",
+              "exploitation",
+              "reverse-engineering",
+              "shellcode"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -956,12 +1546,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "「BareMetalで遊ぶ Raspberry Pi」のプログラムです。",
+            "homepage": null,
             "id": 14491093,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2018-08-13T18:45:55Z",
+            "open_issues": 2,
             "owner": "tnishinaga",
             "repo": "RPi_Micon_C85book",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -972,12 +1567,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Baremetal exampels for Raspberry Pis",
+            "homepage": null,
             "id": 7755252,
             "language": "C",
+            "license": null,
             "last_commit": "2015-04-26T14:26:32Z",
+            "open_issues": 0,
             "owner": "mrvn",
             "repo": "RaspberryPi-baremetal",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -988,12 +1588,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 10731387,
             "language": "C++",
+            "license": null,
             "last_commit": "2013-06-17T06:35:40Z",
+            "open_issues": 1,
             "owner": "fmlab",
             "repo": "ucos_RaspberryPi",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1004,12 +1609,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RaspberryPi",
+            "homepage": null,
             "id": 25644112,
             "language": "C",
+            "license": null,
             "last_commit": "2015-03-20T23:33:34Z",
+            "open_issues": 0,
             "owner": "tzuCarlos",
             "repo": "RaspberryPi",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1020,12 +1630,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bare metal ultralight kernel for Raspberry Pi 3 (BCM2837)",
+            "homepage": "https://forkachild.github.io/NarcOS/",
             "id": 86104402,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2018-05-08T21:02:38Z",
+            "open_issues": 0,
             "owner": "whyisitworking",
             "repo": "NarcOS",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "arm",
+              "armv8",
+              "bare-metal",
+              "barebones",
+              "baremetal",
+              "c",
+              "cortex-a53",
+              "embedded",
+              "gcc",
+              "gcc-complier",
+              "raspberry",
+              "raspberry-pi",
+              "raspberry-pi-3",
+              "raspberrypi"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1036,12 +1666,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bootloader for the Raspberry Pi using the ethernet device",
+            "homepage": null,
             "id": 34983494,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2015-05-04T06:36:09Z",
+            "open_issues": 0,
             "owner": "Nvreformat",
             "repo": "Etherboot",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1052,12 +1687,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FreeRTOS v9.0.0 port for Raspberry Pi 1",
+            "homepage": null,
             "id": 111112573,
             "language": "C",
+            "license": null,
             "last_commit": "2018-09-15T07:08:37Z",
+            "open_issues": 0,
             "owner": "leodido99",
             "repo": "RaspberryPi1-FreeRTOSv9.0.0",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "bare-metal",
+              "baremetal",
+              "bcm2835",
+              "freertos",
+              "raspberry-pi",
+              "raspberrypi"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1068,12 +1715,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My bare-metal experiments with the RaspberryPi",
+            "homepage": null,
             "id": 111889676,
             "language": "C",
+            "license": null,
             "last_commit": "2020-01-06T18:38:38Z",
+            "open_issues": 0,
             "owner": "majorviraj",
             "repo": "my-os",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "arm",
+              "armv7",
+              "asm",
+              "assembly",
+              "baking-pi",
+              "bare-metal",
+              "baremetal",
+              "baremetal-os",
+              "bcm2835",
+              "bus-pirate",
+              "emmc",
+              "fat32",
+              "fatfs",
+              "jtag",
+              "openocd",
+              "operating-system",
+              "os",
+              "pong",
+              "raspberry-pi",
+              "rpi"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1084,12 +1757,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Assembly code for Raspberry Pi",
+            "homepage": null,
             "id": 90023551,
             "language": "Assembly",
+            "license": null,
             "last_commit": "2018-02-11T09:35:05Z",
+            "open_issues": 0,
             "owner": "Alkesst",
             "repo": "RPIAssembly",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "arm",
+              "assembly",
+              "gcc-arm",
+              "leds",
+              "mp3",
+              "raspberry",
+              "raspberry-pi",
+              "raspberry-pi-3",
+              "songs",
+              "wiringpi"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1100,12 +1789,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management",
+            "homepage": null,
             "id": 981337560,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-23T13:08:42Z",
+            "open_issues": 0,
             "owner": "GeiserX",
             "repo": "PiSpot-Show",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "battery",
+              "captive-portal",
+              "digital-signage",
+              "display",
+              "embedded",
+              "hdmi",
+              "hospitality",
+              "hotel",
+              "hotspot",
+              "iot",
+              "kiosk",
+              "linux",
+              "pijuice",
+              "pispot",
+              "portable",
+              "python",
+              "raspberry-pi",
+              "ups",
+              "voucher",
+              "wifi"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1116,12 +1831,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Porting uCOSII and User Application to the RPi ",
+            "homepage": null,
             "id": 39025548,
             "language": "C",
+            "license": null,
             "last_commit": "2015-07-31T05:16:29Z",
+            "open_issues": 1,
             "owner": "mopplayer",
             "repo": "uCOSII_RPi",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1132,12 +1852,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open ARM Acorn Tubebased Co Processor",
+            "homepage": null,
             "id": 47078922,
             "language": "C",
+            "license": null,
             "last_commit": "2016-03-15T11:16:04Z",
+            "open_issues": 0,
             "owner": "fordp2002",
             "repo": "ArmCopro",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         }
@@ -1154,12 +1879,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Works on the beaglebone black (bare metal)",
+            "homepage": null,
             "id": 27220290,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2024-04-29T05:50:10Z",
+            "open_issues": 1,
             "owner": "allexoll",
             "repo": "BBB-BareMetal",
-            "stars": 140
+            "stars": 140,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1170,12 +1900,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extremely tiny baremetal application for BeagleBone Black",
+            "homepage": null,
             "id": 47237823,
             "language": "Assembly",
+            "license": null,
             "last_commit": "2021-06-09T22:26:20Z",
+            "open_issues": 0,
             "owner": "mvduin",
             "repo": "bbb-asm-demo",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1186,12 +1921,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FreeRTOS for BeagleBone Black",
+            "homepage": null,
             "id": 20451873,
             "language": "C",
+            "license": null,
             "last_commit": "2014-06-10T11:15:20Z",
+            "open_issues": 1,
             "owner": "henfos",
             "repo": "BBBFreeRTOS",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1202,12 +1942,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 3882990,
             "language": "C",
+            "license": null,
             "last_commit": "2016-10-02T16:29:22Z",
+            "open_issues": 0,
             "owner": "dwelch67",
             "repo": "beaglebone_samples",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1218,12 +1963,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "~ my projects",
+            "homepage": null,
             "id": 7210744,
             "language": "C",
+            "license": null,
             "last_commit": "2015-08-13T22:59:19Z",
+            "open_issues": 0,
             "owner": "0xCA5A",
             "repo": "kickstart",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1234,12 +1984,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Various projects that utilize low level hardware instructions to interface with leds, speaker output and joystick input.",
+            "homepage": null,
             "id": 96654513,
             "language": "C",
+            "license": null,
             "last_commit": "2022-07-05T17:00:08Z",
+            "open_issues": 1,
             "owner": "travelln",
             "repo": "beaglebone-projects",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "beaglebone",
+              "driver-programming",
+              "hardware-drivers",
+              "joystick",
+              "leds",
+              "linux"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1250,12 +2012,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple implementation of an OS for the BeagleBoard C4 with ARMv7 A8 processor.",
+            "homepage": null,
             "id": 85045058,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2018-03-14T01:23:31Z",
+            "open_issues": 0,
             "owner": "Oxydation",
             "repo": "MinionOS",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "arm",
+              "armv7-a8-processor",
+              "asm",
+              "beagleboard-c4",
+              "beaglebone",
+              "c",
+              "dmx",
+              "gpio",
+              "led",
+              "mini",
+              "omap33530",
+              "os",
+              "scheduler",
+              "systemcalls",
+              "timer"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         }
@@ -1272,12 +2055,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A book-in-progress about the Linux kernel and its insides.",
+            "homepage": "https://0xax.dev/books/linux-inside/",
             "id": 28751632,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T19:03:04Z",
+            "open_issues": 24,
             "owner": "0xAX",
             "repo": "linux-insides",
-            "stars": 32962
+            "stars": 32961,
+            "topics": [
+              "linux",
+              "linux-insides",
+              "linux-kernel"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1288,12 +2080,33 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "How to be low-level programmer",
+            "homepage": null,
             "id": 77788381,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2025-03-24T11:49:58Z",
+            "open_issues": 0,
             "owner": "gurugio",
             "repo": "lowlevelprogramming-university",
-            "stars": 12744
+            "stars": 12745,
+            "topics": [
+              "arduino",
+              "assembly",
+              "assembly-language-programming",
+              "c-programming",
+              "embedded-systems",
+              "firmware",
+              "hardware",
+              "linux-kernel",
+              "linux-kernel-hacking",
+              "low-level",
+              "low-level-programming",
+              "operating-system",
+              "programming-language",
+              "rust-lang",
+              "system-programming"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1304,12 +2117,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of links related to Linux kernel security and exploitation",
+            "homepage": null,
             "id": 73646740,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-14T22:14:15Z",
+            "open_issues": 0,
             "owner": "xairy",
             "repo": "linux-kernel-exploitation",
-            "stars": 6611
+            "stars": 6610,
+            "topics": [
+              "exploit",
+              "kernel-exploitation",
+              "linux-kernel",
+              "privilege-escalation",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1320,12 +2144,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The perfect emulation setup to study and develop the Linux kernel, kernel modules, QEMU, gem5 and x86_64, ARMv7 and ARMv8 userland and baremetal assembly, ANSI C, C++ and POSIX. GDB step debug and KGDB just work. Powered by Buildroot and crosstool-NG. Highly automated. Thoroughly documented. Automated tests. \"Tested\" in an Ubuntu 24.04 host.",
+            "homepage": "https://cirosantilli.com/linux-kernel-module-cheat",
             "id": 64534859,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-16T06:03:49Z",
+            "open_issues": 73,
             "owner": "cirosantilli",
             "repo": "linux-kernel-module-cheat",
-            "stars": 4509
+            "stars": 4509,
+            "topics": [
+              "buildroot",
+              "gdb",
+              "kgdb",
+              "linux-kernel",
+              "linux-kernel-module",
+              "qemu"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1336,12 +2172,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal Linux Live (MLL) is a tiny educational Linux distribution, which is designed to be built from scratch by using a collection of automated shell scripts. Minimal Linux Live offers a core environment with just the Linux kernel, GNU C library, and Busybox userland utilities.",
+            "homepage": "https://ivandavidov.github.io/minimal",
             "id": 22577159,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-05T07:34:56Z",
+            "open_issues": 53,
             "owner": "ivandavidov",
             "repo": "minimal",
-            "stars": 1667
+            "stars": 1667,
+            "topics": [
+              "busybox",
+              "efi",
+              "glibc",
+              "linux",
+              "linux-kernel",
+              "minimal",
+              "operating-system",
+              "overlay",
+              "shell",
+              "shell-scripts",
+              "uefi"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1352,12 +2205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A C library for peripheral I/O (GPIO, LED, PWM, SPI, I2C, MMIO, Serial) in Linux.",
+            "homepage": null,
             "id": 19788600,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-11-02T21:46:15Z",
+            "open_issues": 4,
             "owner": "vsergeev",
             "repo": "c-periphery",
-            "stars": 1062
+            "stars": 1062,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1368,12 +2226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux driver practices",
+            "homepage": null,
             "id": 63081319,
             "language": "C",
+            "license": null,
             "last_commit": "2024-02-14T09:19:43Z",
+            "open_issues": 0,
             "owner": "starnight",
             "repo": "DriverPractice",
-            "stars": 192
+            "stars": 192,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         }
@@ -1390,12 +2253,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "How to create an OS from scratch",
+            "homepage": null,
             "id": 24586308,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-02-04T09:33:56Z",
+            "open_issues": 130,
             "owner": "cfenollosa",
             "repo": "os-tutorial",
-            "stars": 30677
+            "stars": 30677,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1406,12 +2274,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
+            "homepage": "https://www.rt-thread.io",
             "id": 7408108,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T04:25:32Z",
+            "open_issues": 499,
             "owner": "RT-Thread",
             "repo": "rt-thread",
-            "stars": 12174
+            "stars": 12174,
+            "topics": [
+              "aiot",
+              "arm",
+              "cortex-a",
+              "cortex-m",
+              "embedded-systems",
+              "iot",
+              "kernel",
+              "microcontroller",
+              "microkernel",
+              "mips",
+              "real-time",
+              "risc-v",
+              "rtos"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1422,12 +2309,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "《30天自制操作系统》源码中文版。自己制作一个操作系统（OSASK）的过程",
+            "homepage": "https://github.com/yourtion/YOS",
             "id": 23693362,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-01T08:14:55Z",
+            "open_issues": 12,
             "owner": "yourtion",
             "repo": "30dayMakeOS",
-            "stars": 6453
+            "stars": 6453,
+            "topics": [
+              "asm",
+              "boot",
+              "c",
+              "cc",
+              "diy",
+              "fifo",
+              "gdt",
+              "idt",
+              "linux",
+              "nas",
+              "nasa",
+              "operating-system",
+              "os",
+              "osask",
+              "osx",
+              "qemu",
+              "stdlib"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1438,12 +2348,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A secure embedded operating system for microcontrollers",
+            "homepage": "https://www.tockos.org",
             "id": 36428094,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T20:58:41Z",
+            "open_issues": 200,
             "owner": "tock",
             "repo": "tock",
-            "stars": 6428
+            "stars": 6428,
+            "topics": [
+              "arm",
+              "cortex-m",
+              "embedded",
+              "iot",
+              "kernel",
+              "mcu",
+              "microcontroller",
+              "operating-system",
+              "risc-v",
+              "rust",
+              "secure-operating-system",
+              "tock"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1454,12 +2382,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "面向IoT领域的、高可伸缩的物联网操作系统，可去官网了解更多信息https://www.aliyun.com/product/aliosthings",
+            "homepage": null,
             "id": 101866073,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-04T06:49:37Z",
+            "open_issues": 74,
             "owner": "alibaba",
             "repo": "AliOS-Things",
-            "stars": 4626
+            "stars": 4626,
+            "topics": [
+              "embedded",
+              "haas",
+              "haas-python",
+              "iot",
+              "microcontroller",
+              "os",
+              "risc-v",
+              "rtos"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1470,12 +2412,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance motor control",
+            "homepage": "https://odriverobotics.com",
             "id": 57061619,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-01-20T10:54:42Z",
+            "open_issues": 18,
             "owner": "odriverobotics",
             "repo": "ODrive",
-            "stars": 3748
+            "stars": 3749,
+            "topics": [
+              "motor",
+              "motor-controller"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1486,12 +2436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tetris that fits into the boot sector.",
+            "homepage": null,
             "id": 68911683,
             "language": "Assembly",
+            "license": "MIT",
             "last_commit": "2016-12-18T13:32:27Z",
+            "open_issues": 0,
             "owner": "daniel-e",
             "repo": "tetros",
-            "stars": 781
+            "stars": 781,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1502,12 +2457,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "object-oriented C++ RTOS for microcontrollers",
+            "homepage": "https://distortos.org/",
             "id": 23472650,
             "language": "C++",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-16T21:13:51Z",
+            "open_issues": 4,
             "owner": "DISTORTEC",
             "repo": "distortos",
-            "stars": 469
+            "stars": 469,
+            "topics": [
+              "arm",
+              "arm-microcontrollers",
+              "cortex-m",
+              "cpp",
+              "cpp11",
+              "embedded",
+              "framework",
+              "library",
+              "microcontroller",
+              "microcontrollers",
+              "operating-system",
+              "real-time",
+              "rtos"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1518,12 +2492,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TNeo: a well-formed and carefully tested preemptive real-time kernel for 16- and 32-bits MCUs",
+            "homepage": "https://dmitryfrank.com/articles/how_i_ended_up_writing_my_own_kernel",
             "id": 73623691,
             "language": "C",
+            "license": null,
             "last_commit": "2024-12-28T18:22:40Z",
+            "open_issues": 3,
             "owner": "dimonomid",
             "repo": "tneo",
-            "stars": 246
+            "stars": 246,
+            "topics": [
+              "cortex",
+              "cortex-m",
+              "cortex-m4",
+              "cortex-m4f",
+              "kernel",
+              "microchip",
+              "microchip-pic",
+              "real-time-kernel",
+              "realtime-kernel",
+              "rtos"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1534,12 +2524,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RTOS for microcontrollers",
+            "homepage": null,
             "id": 21924517,
             "language": "C",
+            "license": "MPL-2.0",
             "last_commit": "2020-12-02T21:08:02Z",
+            "open_issues": 5,
             "owner": "jimtremblay",
             "repo": "nOS",
-            "stars": 211
+            "stars": 211,
+            "topics": [
+              "arm",
+              "arm-cortex-m0",
+              "arm-cortex-m3",
+              "arm-cortex-m4f",
+              "arm-cortex-m7",
+              "arm7-tdmi",
+              "avr",
+              "gcc",
+              "iar",
+              "keil",
+              "m16c",
+              "msp430",
+              "nc30",
+              "pic24",
+              "posix",
+              "r8c",
+              "rtos",
+              "rx600",
+              "win32",
+              "xc16"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1550,12 +2566,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free real-time operating system (RTOS) for microcontrollers with advanced c++ wrapper and support for std::thread",
+            "homepage": null,
             "id": 47077415,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-07-30T11:26:50Z",
+            "open_issues": 0,
             "owner": "stateos",
             "repo": "StateOS",
-            "stars": 208
+            "stars": 208,
+            "topics": [
+              "arm",
+              "cmsis-os",
+              "cmsis-os2",
+              "cmsis-rtos",
+              "cooperative",
+              "cortex-m",
+              "embedded",
+              "iot",
+              "kernel",
+              "microcontroller",
+              "nasa-api",
+              "operating-system",
+              "preemptive",
+              "real-time",
+              "rtos",
+              "stateos",
+              "std-thread",
+              "stdc",
+              "stm8",
+              "thread-local-storage"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1566,12 +2608,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build a minimal multi-tasking OS kernel for ARM Cortex-M series from scratch",
+            "homepage": null,
             "id": 33538906,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2017-09-01T16:13:00Z",
+            "open_issues": 2,
             "owner": "embedded2015",
             "repo": "mini-arm-os",
-            "stars": 205
+            "stars": 205,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1582,12 +2629,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Powerful embedded RTOS for ARM Cortex M microcontrollers",
+            "homepage": "https://stratifylabs.co",
             "id": 57865979,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-07T22:22:20Z",
+            "open_issues": 27,
             "owner": "StratifyLabs",
             "repo": "StratifyOS",
-            "stars": 153
+            "stars": 153,
+            "topics": [
+              "embedded-rtos",
+              "firmware",
+              "hardware",
+              "microcontroller",
+              "rtos"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1598,12 +2656,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An embedded operating system for ARM Cortex-M based microcontrollers",
+            "homepage": null,
             "id": 39258815,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2020-03-01T07:06:45Z",
+            "open_issues": 4,
             "owner": "onkwon",
             "repo": "yaos",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "arm",
+              "cortex-m",
+              "embedded",
+              "iot",
+              "mcu",
+              "microcontroller",
+              "os",
+              "rtos"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1614,12 +2686,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An embedded operating system for ARM Cortex-M based microcontrollers",
+            "homepage": null,
             "id": 39258815,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2020-03-01T07:06:45Z",
+            "open_issues": 4,
             "owner": "onkwon",
             "repo": "yaos",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "arm",
+              "cortex-m",
+              "embedded",
+              "iot",
+              "mcu",
+              "microcontroller",
+              "os",
+              "rtos"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1630,12 +2716,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real time operating system made with love ♥.",
+            "homepage": null,
             "id": 82453878,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2017-08-16T13:43:41Z",
+            "open_issues": 0,
             "owner": "RTOS-From-Scratch",
             "repo": "RTOS-From-Scratch",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "arm",
+              "arm-none-eabi",
+              "cmake",
+              "cortex-m4",
+              "openocd",
+              "rtos"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1646,12 +2744,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rnk is a RTOS targeting ARM architecture.",
+            "homepage": null,
             "id": 14828043,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-01-09T20:57:09Z",
+            "open_issues": 0,
             "owner": "raphui",
             "repo": "rnk",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "arm",
+              "cortex-m",
+              "embeded",
+              "iot",
+              "kernel",
+              "mcu",
+              "microcontroller",
+              "operating-system",
+              "real-time",
+              "rtos"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1662,12 +2776,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RK0 | The Real-Time Kernel '0' ",
+            "homepage": "https://antoniogiacomelli.github.io/RK0/",
             "id": 954389533,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T20:47:36Z",
+            "open_issues": 0,
             "owner": "antoniogiacomelli",
             "repo": "RK0",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "arm",
+              "armv6m",
+              "armv7m",
+              "assembly",
+              "c",
+              "embedded",
+              "operating-system",
+              "real-time",
+              "rtos",
+              "thumb2"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1678,12 +2808,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "開発中 KOZOS on PIC32MX270F256B",
+            "homepage": null,
             "id": 100093959,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-02-23T08:46:35Z",
+            "open_issues": 0,
             "owner": "envzhu",
             "repo": "kozos-pic",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "baremetal",
+              "bootloader",
+              "kozos",
+              "kozos-pic",
+              "os",
+              "pic32",
+              "pic32mx270f256b"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         }
@@ -1700,12 +2843,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "automotive software(OSEK & AUTOSAR) and its tool-chain",
+            "homepage": "https://github.com/autoas/as",
             "id": 31243944,
             "language": "C",
+            "license": null,
             "last_commit": "2026-01-18T02:43:30Z",
+            "open_issues": 11,
             "owner": "autoas",
             "repo": "as-deprecated",
-            "stars": 1051
+            "stars": 1051,
+            "topics": [
+              "automotive",
+              "autosar",
+              "linux",
+              "osek"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1716,12 +2869,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trampoline is a static RTOS for small embedded systems. Its API is aligned with OSEK/VDX OS and AUTOSAR OS 4.2 standards.",
+            "homepage": null,
             "id": 42299318,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2025-09-15T12:29:31Z",
+            "open_issues": 21,
             "owner": "TrampolineRTOS",
             "repo": "trampoline",
-            "stars": 745
+            "stars": 745,
+            "topics": [
+              "autosar",
+              "osek-vdx",
+              "rtos",
+              "trampoline"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1732,12 +2895,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An integration an example AUTOSAR project which every part in AUTOSAR (OS, RTE, BSW, MCAL) are collected from different open source.",
+            "homepage": null,
             "id": 83180393,
             "language": "C",
+            "license": null,
             "last_commit": "2018-04-03T07:03:54Z",
+            "open_issues": 1,
             "owner": "leduynguyen",
             "repo": "My_AUTOSAR_Project",
-            "stars": 402
+            "stars": 402,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1748,12 +2916,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Professional ECU Diagnostics & Tuning Suite",
+            "homepage": null,
             "id": 1125926954,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-02-27T05:47:27Z",
+            "open_issues": 3,
             "owner": "bad-antics",
             "repo": "blackflag-ecu",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "automotive",
+              "csharp",
+              "cybersecurity",
+              "diagnostics",
+              "dotnet",
+              "ecu",
+              "ecuflash",
+              "hacking",
+              "infosec",
+              "j2534",
+              "obd2",
+              "pentesting",
+              "performance",
+              "security",
+              "tuning",
+              "windows",
+              "wpf"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         }
@@ -1770,12 +2961,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bootstrap yourself to write an OS from scratch. A book for self-learner.",
+            "homepage": null,
             "id": 81905084,
             "language": "TeX",
+            "license": null,
             "last_commit": "2024-03-26T16:21:49Z",
+            "open_issues": 66,
             "owner": "tuhdo",
             "repo": "os01",
-            "stars": 13689
+            "stars": 13689,
+            "topics": [
+              "book",
+              "operating-system"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1786,12 +2985,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple OS kernel for research, teaching, and fun.",
+            "homepage": null,
             "id": 48499743,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-01-08T16:02:14Z",
+            "open_issues": 19,
             "owner": "dthain",
             "repo": "basekernel",
-            "stars": 939
+            "stars": 939,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1802,12 +3006,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tetris that fits into the boot sector.",
+            "homepage": null,
             "id": 68911683,
             "language": "Assembly",
+            "license": "MIT",
             "last_commit": "2016-12-18T13:32:27Z",
+            "open_issues": 0,
             "owner": "daniel-e",
             "repo": "tetros",
-            "stars": 781
+            "stars": 781,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1818,12 +3027,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This a repository for WPI CS3013 Operating Systems C Term 2018",
+            "homepage": null,
             "id": 119884556,
             "language": "C",
+            "license": null,
             "last_commit": "2018-08-30T14:35:20Z",
+            "open_issues": 0,
             "owner": "Mcdonoughd",
             "repo": "CS3013",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "kernel-module",
+              "memory-management",
+              "mutex",
+              "operating-system",
+              "process-tree"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         }
@@ -1840,12 +3060,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official read-only mirror of the SVN OpenBLT bootloader repository. Updated daily.",
+            "homepage": "https://www.feaser.com/openblt/",
             "id": 102110352,
             "language": "C",
+            "license": null,
             "last_commit": "2026-07-14T03:59:34Z",
+            "open_issues": 0,
             "owner": "feaser",
             "repo": "openblt",
-            "stars": 969
+            "stars": 969,
+            "topics": [
+              "bootloader",
+              "c",
+              "embedded",
+              "firmware",
+              "microcontroller",
+              "stm32"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1856,12 +3088,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The bootloader used to flash our CAN-connected boards",
+            "homepage": null,
             "id": 24937595,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-02-06T14:27:37Z",
+            "open_issues": 1,
             "owner": "cvra",
             "repo": "can-bootloader",
-            "stars": 153
+            "stars": 153,
+            "topics": [
+              "bootloader",
+              "c",
+              "can",
+              "can-bus",
+              "distributed-systems",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1872,12 +3116,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ARMv7M ELF loader",
+            "homepage": null,
             "id": 13703998,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-18T19:20:30Z",
+            "open_issues": 0,
             "owner": "martinribelotta",
             "repo": "elfloader",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "arm",
+              "armv7",
+              "bare-metal",
+              "c",
+              "cortex",
+              "elf",
+              "loader",
+              "relocation",
+              "thumb2"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1888,12 +3147,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bootloader for ARM Cortex-M based microcontrollers",
+            "homepage": null,
             "id": 130310592,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2019-11-11T11:35:44Z",
+            "open_issues": 0,
             "owner": "onkwon",
             "repo": "yaboot",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         }
@@ -1910,12 +3174,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open autonomous driving platform",
+            "homepage": null,
             "id": 96246170,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-16T12:24:54Z",
+            "open_issues": 1045,
             "owner": "ApolloAuto",
             "repo": "apollo",
-            "stars": 26807
+            "stars": 26807,
+            "topics": [
+              "apollo",
+              "autonomous-driving",
+              "autonomous-vehicles",
+              "autonomy",
+              "self-driving-car"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1926,12 +3201,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embedded Template Library",
+            "homepage": "https://www.etlcpp.com",
             "id": 25298630,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:49:02Z",
+            "open_issues": 62,
             "owner": "ETLCPP",
             "repo": "etl",
-            "stars": 3109
+            "stars": 3110,
+            "topics": [
+              "algorithms",
+              "c-plus-plus",
+              "containers",
+              "cpp",
+              "embedded",
+              "embedded-applications",
+              "embedded-systems",
+              "estd",
+              "library",
+              "std",
+              "stl",
+              "templates"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1942,12 +3235,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced fault backtrace library for ARM Cortex-M series MCU | ARM Cortex-M 系列 MCU 错误追踪库",
+            "homepage": null,
             "id": 77414939,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-05-21T14:11:06Z",
+            "open_issues": 47,
             "owner": "armink",
             "repo": "CmBacktrace",
-            "stars": 2160
+            "stars": 2160,
+            "topics": [
+              "arm",
+              "backtrace",
+              "callstack",
+              "cortex-m",
+              "dump",
+              "fault",
+              "hardfault"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1958,12 +3264,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JTAG probe firmware",
+            "homepage": null,
             "id": 107399816,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-03-10T16:33:16Z",
+            "open_issues": 10,
             "owner": "dirtyjtag",
             "repo": "DirtyJTAG",
-            "stars": 627
+            "stars": 627,
+            "topics": [
+              "arm",
+              "c",
+              "firmware",
+              "jtag",
+              "risc-v",
+              "st-link",
+              "unicore-mx",
+              "urjtag",
+              "usb"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1974,12 +3295,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple starter projects for bare-metal MCU development",
+            "homepage": null,
             "id": 34347797,
             "language": "C",
+            "license": null,
             "last_commit": "2025-11-08T21:52:35Z",
+            "open_issues": 5,
             "owner": "ataradov",
             "repo": "mcu-starter-projects",
-            "stars": 343
+            "stars": 343,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -1990,12 +3316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provide necessary software infrastructure, service, macros to support some high level abstract concept or paradigm, such as OOPC, FSM, delegate (event-driven) and etc",
+            "homepage": null,
             "id": 106671341,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-09T21:58:49Z",
+            "open_issues": 0,
             "owner": "GorgonMeducer",
             "repo": "Generic_MCU_Software_Infrastructure",
-            "stars": 242
+            "stars": 242,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -2006,12 +3337,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ Standard Lib adapted to embedded environments",
+            "homepage": null,
             "id": 128429105,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T22:09:07Z",
+            "open_issues": 108,
             "owner": "malachi-iot",
             "repo": "estdlib",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "embedded"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -2022,12 +3360,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time Actor-based Message Exchange Network 🍜",
+            "homepage": "https://zubax.com",
             "id": 953432980,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-05-02T23:16:26Z",
+            "open_issues": 2,
             "owner": "Zubax",
             "repo": "ramen",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "actor-model",
+              "cpp20",
+              "dataflow",
+              "dataflow-programming",
+              "embedded",
+              "flow-based-programming",
+              "hard-real-time",
+              "hardcore-engineering",
+              "header-only",
+              "mcu",
+              "message-passing",
+              "microcontroller",
+              "pubsub",
+              "real-time",
+              "real-time-systems",
+              "single-header"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         }
@@ -2044,12 +3404,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies",
+            "homepage": null,
             "id": 165457814,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-03T17:30:36Z",
+            "open_issues": 62,
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 2998
+            "stars": 2998,
+            "topics": [
+              "c",
+              "csharp",
+              "dartlang",
+              "go",
+              "haskell",
+              "java",
+              "javascript",
+              "lightgbm",
+              "lightning",
+              "machine-learning",
+              "php",
+              "python",
+              "r",
+              "ruby",
+              "rust",
+              "scikit-learn",
+              "statistical-learning",
+              "statsmodels",
+              "xgboost"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -2060,12 +3445,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Embedded Learning Library",
+            "homepage": "https://microsoft.github.io/ELL",
             "id": 69389961,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-01T16:49:37Z",
+            "open_issues": 33,
             "owner": "microsoft",
             "repo": "ELL",
-            "stars": 2302
+            "stars": 2302,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -2076,12 +3466,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TinyML AI inference library",
+            "homepage": null,
             "id": 104375922,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-10T08:53:34Z",
+            "open_issues": 56,
             "owner": "uTensor",
             "repo": "uTensor",
-            "stars": 1928
+            "stars": 1928,
+            "topics": [
+              "cortex-m",
+              "deep-learning",
+              "edge-computing",
+              "embedded",
+              "iot",
+              "iot-middleware",
+              "machine-learning",
+              "mbed",
+              "microcontroller",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -2092,12 +3498,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A higher-level Neural Network library for microcontrollers.",
+            "homepage": null,
             "id": 166869630,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-08T03:15:10Z",
+            "open_issues": 88,
             "owner": "majianjia",
             "repo": "nnom",
-            "stars": 1164
+            "stars": 1164,
+            "topics": [
+              "embedded",
+              "iot",
+              "machine-learning",
+              "mcu",
+              "microcontroller",
+              "ml",
+              "neural-networks",
+              "nnom"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -2108,12 +3528,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight C library for artificial neural networks",
+            "homepage": null,
             "id": 83609139,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-06T19:58:30Z",
+            "open_issues": 32,
             "owner": "attractivechaos",
             "repo": "kann",
-            "stars": 759
+            "stars": 759,
+            "topics": [
+              "deep-learning",
+              "neural-network"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -2124,12 +3552,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full face stack that runs entirely in the browser. Detection, 576-point 3D mesh, recognition, anti-spoof, smile — all WebAssembly, zero server. Apache 2.0.",
+            "homepage": "https://facex-engine.github.io/facex/demo/",
             "id": 1220866899,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-14T23:59:11Z",
+            "open_issues": 7,
             "owner": "facex-engine",
             "repo": "facex",
-            "stars": 336
+            "stars": 336,
+            "topics": [
+              "avx-512",
+              "avx2",
+              "biometrics",
+              "c99",
+              "computer-vision",
+              "cpu-inference",
+              "deep-learning",
+              "edge-ai",
+              "embedded-ai",
+              "face-embedding",
+              "face-recognition",
+              "face-verification",
+              "low-latency",
+              "onnx-runtime",
+              "production-ready",
+              "simd",
+              "zero-dependencies"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -2140,12 +3591,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The 30 MB open-source edge AI agent runtime. Run AI agents offline on Linux (Raspberry Pi, Jetson). GPIO, UART, MQTT as first-class nodes. Industrial protocols (OPC-UA, Modbus) on the roadmap.",
+            "homepage": "https://app.foresthub.ai",
             "id": 1243243191,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-24T14:30:27Z",
+            "open_issues": 0,
             "owner": "ForestHubAI",
             "repo": "edge-agents",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "agent-runtime",
+              "ai-agents",
+              "edge-agents",
+              "edge-ai",
+              "edge-computing",
+              "edge-devices",
+              "embedded",
+              "embedded-agents",
+              "foresthub",
+              "golang",
+              "iot",
+              "linux",
+              "llm",
+              "mqtt",
+              "raspberry-pi",
+              "react",
+              "slm"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -2156,12 +3630,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "  Offline keyword spotting & wake word engine. ONNX format, model <130KB, inference <10ms. Runs on Android, ESP32, Linux, Web. No cloud, no data usage.",
+            "homepage": "https://www.voicute.com",
             "id": 1254141215,
             "language": "C",
+            "license": null,
             "last_commit": "2026-08-24T11:00:03Z",
+            "open_issues": 0,
             "owner": "voicute",
             "repo": "onnx-wakeword",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "android",
+              "custom-wake-word",
+              "edge-ai",
+              "esp32",
+              "keyword-spotting",
+              "kws",
+              "offline",
+              "onnx",
+              "tflite",
+              "voice-assistant",
+              "voice-control",
+              "wake-word"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -2172,12 +3664,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural Networks for Microcontrollers",
+            "homepage": null,
             "id": 165092337,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2022-02-03T22:43:58Z",
+            "open_issues": 7,
             "owner": "correlllab",
             "repo": "nn4mc_cpp",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -2188,12 +3685,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ AI library ",
+            "homepage": null,
             "id": 96175207,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-09-13T03:14:08Z",
+            "open_issues": 0,
             "owner": "boralt",
             "repo": "EmbeddedAI",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "bayesian",
+              "c-plus-plus"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         }
@@ -2210,12 +3717,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more. ",
+            "homepage": "https://serial-studio.com/",
             "id": 305089628,
             "language": "C",
-            "last_commit": "2026-08-29T00:18:09Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:27:21Z",
+            "open_issues": 22,
             "owner": "Serial-Studio",
             "repo": "Serial-Studio",
-            "stars": 7160
+            "stars": 7160,
+            "topics": [
+              "arduino",
+              "canbus",
+              "dashboard",
+              "embedded",
+              "ground-station",
+              "industrial-automation",
+              "iot",
+              "microcontroller",
+              "modbus",
+              "mqtt",
+              "network",
+              "opc-ua",
+              "plc",
+              "qt",
+              "scada",
+              "serial",
+              "serial-studio"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -2226,12 +3756,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Debugging tool for MSP430 MCUs",
+            "homepage": null,
             "id": 36830913,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2025-11-13T18:53:00Z",
+            "open_issues": 58,
             "owner": "dlbeer",
             "repo": "mspdebug",
-            "stars": 215
+            "stars": 215,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -2242,12 +3777,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
+            "homepage": "https://jumpstarter.dev/",
             "id": 1138269866,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-29T01:48:00Z",
+            "open_issues": 163,
             "owner": "jumpstarter-dev",
             "repo": "jumpstarter",
-            "stars": 213
+            "stars": 214,
+            "topics": [
+              "agentic",
+              "automation",
+              "board-farm",
+              "ci-cd",
+              "cloud-native",
+              "embedded-systems",
+              "embedded-testing",
+              "grpc",
+              "hardware",
+              "hardware-in-the-loop",
+              "hardware-testing",
+              "hil",
+              "kubernetes",
+              "lab",
+              "mcp",
+              "pytest",
+              "python",
+              "test-automation",
+              "testing-framework"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -2258,12 +3818,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools to enable multi-platform development on the TI Stellaris Launchpad boards",
+            "homepage": null,
             "id": 6294298,
             "language": "C",
+            "license": null,
             "last_commit": "2018-09-03T10:10:51Z",
+            "open_issues": 15,
             "owner": "utzig",
             "repo": "lm4tools",
-            "stars": 209
+            "stars": 209,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -2274,12 +3839,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NaiveSystems Analyze is a static analysis tool for code security and compliance.",
+            "homepage": null,
             "id": 473614550,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-29T02:22:20Z",
+            "open_issues": 4,
             "owner": "naivesystems",
             "repo": "analyze",
-            "stars": 204
+            "stars": 204,
+            "topics": [
+              "autosar",
+              "cert",
+              "code-scanning",
+              "coding-standards",
+              "cpp14",
+              "cppcheck",
+              "functional-safety",
+              "iso26262",
+              "misra",
+              "misra-c",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -2290,12 +3872,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python Based ARM CoreSight Debug and Trace Tools",
+            "homepage": null,
             "id": 38818707,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-02-27T19:34:54Z",
+            "open_issues": 1,
             "owner": "deadsy",
             "repo": "pycs",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "arm",
+              "arm-microcontrollers",
+              "cortex-m",
+              "cortex-m3",
+              "cortex-m4",
+              "debugger",
+              "microcontroller",
+              "python",
+              "stm32",
+              "stm32discovery",
+              "stm32f4xx"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -2306,12 +3905,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLM benchmark for embedded firmware development",
+            "homepage": null,
             "id": 1189315419,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-06T14:09:18Z",
+            "open_issues": 1,
             "owner": "Ecro",
             "repo": "embedeval",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -2322,12 +3926,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source Modbus RTU/TCP slave simulator for the LRI AEM-60DC8 industrial DC monitor — 147 holding registers, 8 DC channels, 6 baudrates. SCADA/PLC integration testing without hardware.",
+            "homepage": "https://aem.lri.com.br/en-us/modbus",
             "id": 1255427523,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-31T23:14:15Z",
+            "open_issues": 0,
             "owner": "leaberg69",
             "repo": "aem-modbus-simulator",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         }
@@ -2344,12 +3953,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Cheat Sheets for Developer Utility, like Git, Vim, Tmux, Sublime Text, Markdown, Shell.",
+            "homepage": null,
             "id": 48937105,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-13T11:05:01Z",
+            "open_issues": 0,
             "owner": "mintisan",
             "repo": "awesome-cheat-sheets",
-            "stars": 155
+            "stars": 155,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         },
@@ -2360,12 +3974,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vim Config for Reading Linux Kernel Source Code",
+            "homepage": null,
             "id": 48876656,
             "language": "Vim script",
+            "license": null,
             "last_commit": "2022-03-13T03:15:35Z",
+            "open_issues": 0,
             "owner": "mintisan",
             "repo": "oh-my-vim",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
         }
@@ -2384,12 +4003,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+                "homepage": null,
                 "id": 21737465,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-21T12:39:13Z",
+                "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500868
+                "stars": 500890,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "lists",
+                  "resources",
+                  "unicorns"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -2400,12 +4030,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of project-based tutorials",
+                "homepage": null,
                 "id": 88011908,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T07:38:50Z",
+                "open_issues": 271,
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 281198
+                "stars": 281200,
+                "topics": [
+                  "beginner-project",
+                  "cpp",
+                  "golang",
+                  "javascript",
+                  "project",
+                  "python",
+                  "tutorial",
+                  "webdevelopment"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -2416,12 +4060,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
+                "homepage": null,
                 "id": 68380413,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-27T10:19:55Z",
+                "open_issues": 18,
                 "owner": "thibmaek",
                 "repo": "awesome-raspberry-pi",
-                "stars": 16802
+                "stars": 16802,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "raspberry-pi",
+                  "resources",
+                  "rpi"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -2432,12 +4088,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of resources for Embedded and Low-level development in the Rust programming language",
+                "homepage": null,
                 "id": 127671976,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T12:30:06Z",
+                "open_issues": 13,
                 "owner": "rust-embedded",
                 "repo": "awesome-embedded-rust",
-                "stars": 8051
+                "stars": 8051,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "embedded",
+                  "embedded-systems",
+                  "libraries",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -2448,12 +4116,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated List of Self-Driving Cars and Autonomous Vehicles Resources",
+                "homepage": "https://manfreddiaz.github.io/awesome-autonomous-vehicles/",
                 "id": 76066550,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-03-15T17:19:11Z",
+                "open_issues": 2,
                 "owner": "manfreddiaz",
                 "repo": "awesome-autonomous-vehicles",
-                "stars": 2390
+                "stars": 2390,
+                "topics": [
+                  "autonomous-cars",
+                  "autonomous-vehicles",
+                  "car-driving",
+                  "computer-vision",
+                  "deep-learning"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -2464,12 +4143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome C frameworks, libraries and software.",
+                "homepage": null,
                 "id": 40586505,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-04T00:06:00Z",
+                "open_issues": 11,
                 "owner": "uhub",
                 "repo": "awesome-c",
-                "stars": 2213
+                "stars": 2213,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -2480,12 +4164,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of delightful Embedded Systems libraries, RTOSes, modules, references and more!",
+                "homepage": null,
                 "id": 70651393,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-01-04T03:35:24Z",
+                "open_issues": 8,
                 "owner": "embedded-boston",
                 "repo": "awesome-embedded-systems",
-                "stars": 1012
+                "stars": 1012,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -2496,12 +4185,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comprehensive embedded system knowledge sharing repo that helps you ace your interviews with quick knowledge recap and interview focused content.",
+                "homepage": null,
                 "id": 279772483,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-06-27T09:03:28Z",
+                "open_issues": 2,
                 "owner": "theEmbeddedGeorge",
                 "repo": "theEmbeddedNewTestament.github.io",
-                "stars": 953
+                "stars": 953,
+                "topics": [
+                  "embedded",
+                  "embedded-software",
+                  "embedded-systems",
+                  "firmware-engineer",
+                  "interview-preparation",
+                  "interview-questions"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             },
@@ -2512,12 +4213,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome Cheat Sheets for Developer Utility, like Git, Vim, Tmux, Sublime Text, Markdown, Shell.",
+                "homepage": null,
                 "id": 48937105,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-12-13T11:05:01Z",
+                "open_issues": 0,
                 "owner": "mintisan",
                 "repo": "awesome-cheat-sheets",
-                "stars": 155
+                "stars": 155,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
             }
@@ -2531,15 +4237,40 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:54:50.076Z",
+    "last_updated": "2026-08-29T04:13:53.244Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome embedded programming.",
+      "homepage": "https://nhivp.github.io/Awesome-Embedded/",
       "id": 104612770,
       "language": null,
+      "license": "Unlicense",
       "last_commit": "2026-08-12T03:10:08Z",
+      "open_issues": 7,
       "owner": "nhivp",
       "repo": "Awesome-Embedded",
-      "stars": 9053
+      "stars": 9053,
+      "topics": [
+        "ai",
+        "autosar",
+        "awesome",
+        "beaglebone",
+        "bootloader",
+        "embedded",
+        "embedded-ai",
+        "embedded-gui",
+        "freertos",
+        "linux-programming",
+        "machine-learning",
+        "microcontroller",
+        "msp430",
+        "operating-systems",
+        "raspberry-pi",
+        "rtos",
+        "stm32",
+        "tiva-c-series",
+        "tm4c123"
+      ]
     },
     "original_repository_sha": "8474defa48860fc416562d0bdf85d1b193094327",
     "enhanced_repository": "enhansome/enhansome-Awesome-Embedded",
