@@ -19,7 +19,7 @@
             "open_issues": 126,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 360401,
+            "stars": 360452,
             "topics": [
               "algorithm",
               "algorithms",
@@ -36,6 +36,37 @@
             ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
+        },
+        {
+          "node_type": "item",
+          "title": "EA-SKILL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1348354098,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-28T06:18:25Z",
+            "open_issues": 0,
+            "owner": "jzl-maker",
+            "repo": "EA-SKILL",
+            "stars": 6,
+            "topics": [
+              "ai-coding",
+              "claude-code",
+              "claude-skills",
+              "embedded",
+              "embedded-systems",
+              "jlink",
+              "keil",
+              "mcu",
+              "stm32"
+            ]
+          },
+          "first_seen": "2026-09-06T20:49:41.918Z"
         }
       ],
       "title": "Interview"
@@ -59,7 +90,7 @@
             "open_issues": 0,
             "owner": "gurugio",
             "repo": "lowlevelprogramming-university",
-            "stars": 12750,
+            "stars": 12751,
             "topics": [
               "arduino",
               "assembly",
@@ -151,7 +182,7 @@
                 "open_issues": 2,
                 "owner": "cpq",
                 "repo": "bare-metal-programming-guide",
-                "stars": 4855,
+                "stars": 4858,
                 "topics": [
                   "arm",
                   "baremetal",
@@ -420,11 +451,11 @@
                 "id": 5414488,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T20:30:12Z",
+                "last_commit": "2026-09-06T18:34:24Z",
                 "open_issues": 0,
                 "owner": "cesanta",
                 "repo": "mongoose",
-                "stars": 13028,
+                "stars": 13030,
                 "topics": [
                   "embedded",
                   "http",
@@ -846,6 +877,48 @@
             },
             {
               "node_type": "item",
+              "title": "stm32-async-1wire",
+              "description": "Non-blocking, register-level 1-Wire master for STM32 (DS18B20 temperature driver on top). Hardware-timed (TIM1+DMA, DMAMUX on G0), interrupt-free, RTOS-agnostic; header-only backends for STM32F1/F0/G0; hardware-validated on Blue Pill (F103) and STM32G031; strong-pull-up parasite powering; released v1.6.1.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Non-blocking (async) DS18B20 and generic 1-Wire drivers for STM32 — register-level, TIM+DMA driven, interrupt-free.",
+                "homepage": null,
+                "id": 1041965590,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-09-04T21:39:45Z",
+                "open_issues": 1,
+                "owner": "a5021",
+                "repo": "stm32-async-1wire",
+                "stars": 11,
+                "topics": [
+                  "1-wire",
+                  "arm",
+                  "bare-metal",
+                  "cortex-m0",
+                  "cortex-m3",
+                  "dma-driven",
+                  "driver",
+                  "ds18b20",
+                  "embedded",
+                  "hardware-timed",
+                  "input-capture",
+                  "interrupt-free",
+                  "non-blocking",
+                  "one-wire",
+                  "onewire",
+                  "polled-mode",
+                  "register-level",
+                  "stm32",
+                  "stm32f030",
+                  "stm32f103"
+                ]
+              },
+              "first_seen": "2026-09-06T20:49:41.918Z"
+            },
+            {
+              "node_type": "item",
               "title": "rustlink",
               "description": "small set of Rust tools to program STM32 devices",
               "children": [],
@@ -904,6 +977,48 @@
                 ]
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SD Card OVID Player",
+              "description": "STM32F103 SD card frame-video player for SSD1306/SH1106 OLED, with FatFs file browsing and a Windows media converter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "STM32F103 OVID player for SSD1306/SH1106 OLED with SPI Micro SD, FatFs file browsing, CRC-checked playback, and a VS Code/ST-Link workflow.                   基于 STM32F103 的 OVID 播放器，适配 SSD1306/SH1106 OLED，支持 SPI Micro SD、FatFs 文件浏览、CRC 播放校验，以及 VS Code + ST-Link 开发与调试流程。",
+                "homepage": null,
+                "id": 1339284134,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-08-27T12:12:50Z",
+                "open_issues": 1,
+                "owner": "akasa828",
+                "repo": "SD_Card_OVID_Player",
+                "stars": 2,
+                "topics": [
+                  "bad-apple",
+                  "blue-pill",
+                  "cmake",
+                  "embedded",
+                  "fatfs",
+                  "i2c",
+                  "micro-sd",
+                  "oled",
+                  "oled-display",
+                  "ovid",
+                  "sd-card",
+                  "sh1106",
+                  "spi",
+                  "ssd1306",
+                  "st-link",
+                  "stm32",
+                  "stm32-hal",
+                  "stm32f103",
+                  "stm32f103c8t6",
+                  "video-player"
+                ]
+              },
+              "first_seen": "2026-09-06T20:49:41.918Z"
             }
           ],
           "description": null,
@@ -1056,7 +1171,7 @@
                 "id": 32271212,
                 "language": "C++",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-07-20T08:21:00Z",
+                "last_commit": "2026-09-06T20:12:46Z",
                 "open_issues": 82,
                 "owner": "SmingHub",
                 "repo": "Sming",
@@ -2064,7 +2179,7 @@
             "open_issues": 23,
             "owner": "0xAX",
             "repo": "linux-insides",
-            "stars": 33321,
+            "stars": 33361,
             "topics": [
               "linux",
               "linux-insides",
@@ -2089,7 +2204,7 @@
             "open_issues": 0,
             "owner": "gurugio",
             "repo": "lowlevelprogramming-university",
-            "stars": 12750,
+            "stars": 12751,
             "topics": [
               "arduino",
               "assembly",
@@ -2214,7 +2329,7 @@
             "open_issues": 4,
             "owner": "vsergeev",
             "repo": "c-periphery",
-            "stars": 1064,
+            "stars": 1065,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
@@ -2280,10 +2395,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T01:20:31Z",
-            "open_issues": 494,
+            "open_issues": 495,
             "owner": "RT-Thread",
             "repo": "rt-thread",
-            "stars": 12191,
+            "stars": 12194,
             "topics": [
               "aiot",
               "arm",
@@ -2354,7 +2469,7 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T20:22:30Z",
-            "open_issues": 207,
+            "open_issues": 208,
             "owner": "tock",
             "repo": "tock",
             "stars": 6433,
@@ -2781,7 +2896,7 @@
             "id": 954389533,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T14:46:48Z",
+            "last_commit": "2026-09-06T05:55:54Z",
             "open_issues": 0,
             "owner": "antoniogiacomelli",
             "repo": "RK0",
@@ -2904,7 +3019,7 @@
             "open_issues": 1,
             "owner": "leduynguyen",
             "repo": "My_AUTOSAR_Project",
-            "stars": 402,
+            "stars": 403,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
@@ -2925,7 +3040,7 @@
             "open_issues": 3,
             "owner": "bad-antics",
             "repo": "blackflag-ecu",
-            "stars": 37,
+            "stars": 36,
             "topics": [
               "automotive",
               "csharp",
@@ -2970,7 +3085,7 @@
             "open_issues": 66,
             "owner": "tuhdo",
             "repo": "os01",
-            "stars": 13694,
+            "stars": 13697,
             "topics": [
               "book",
               "operating-system"
@@ -3069,7 +3184,7 @@
             "open_issues": 0,
             "owner": "feaser",
             "repo": "openblt",
-            "stars": 969,
+            "stars": 970,
             "topics": [
               "bootloader",
               "c",
@@ -3206,11 +3321,11 @@
             "id": 25298630,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-05T11:22:48Z",
+            "last_commit": "2026-09-06T19:37:01Z",
             "open_issues": 61,
             "owner": "ETLCPP",
             "repo": "etl",
-            "stars": 3116,
+            "stars": 3118,
             "topics": [
               "algorithms",
               "c-plus-plus",
@@ -3342,8 +3457,8 @@
             "id": 128429105,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T20:21:53Z",
-            "open_issues": 109,
+            "last_commit": "2026-09-06T17:32:54Z",
+            "open_issues": 108,
             "owner": "malachi-iot",
             "repo": "estdlib",
             "stars": 85,
@@ -3413,7 +3528,7 @@
             "open_issues": 62,
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 3000,
+            "stars": 3001,
             "topics": [
               "c",
               "csharp",
@@ -3722,11 +3837,11 @@
             "id": 305089628,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T20:00:28Z",
+            "last_commit": "2026-09-06T13:40:11Z",
             "open_issues": 22,
             "owner": "Serial-Studio",
             "repo": "Serial-Studio",
-            "stars": 7184,
+            "stars": 7185,
             "topics": [
               "arduino",
               "canbus",
@@ -3761,8 +3876,8 @@
             "id": 1138269866,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T20:37:59Z",
-            "open_issues": 179,
+            "last_commit": "2026-09-06T12:33:47Z",
+            "open_issues": 180,
             "owner": "jumpstarter-dev",
             "repo": "jumpstarter",
             "stars": 216,
@@ -3921,6 +4036,35 @@
         },
         {
           "node_type": "item",
+          "title": "BARR-C Enforcement Kit",
+          "description": "Drop-in clang-format and clang-tidy configurations, compiler warning gates, a one-command conformance check and ready-made CI enforcing BARR-C, Barr Group's Embedded C Coding Standard for firmware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Enforcement kits for BARR-C, Barr Group's Embedded C Coding Standard: clang-format, clang-tidy, compiler gates, CI, and AI-generator context",
+            "homepage": "https://barrgroup.com/embedded-c-coding-standard",
+            "id": 1318779404,
+            "language": "Shell",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-26T11:30:10Z",
+            "open_issues": 0,
+            "owner": "netrinomike",
+            "repo": "barr-c",
+            "stars": 9,
+            "topics": [
+              "c",
+              "clang-format",
+              "clang-tidy",
+              "coding-standard",
+              "embedded",
+              "firmware",
+              "misra"
+            ]
+          },
+          "first_seen": "2026-09-06T20:49:41.918Z"
+        },
+        {
+          "node_type": "item",
           "title": "aem-modbus-simulator",
           "description": "Open-source Python Modbus RTU/TCP slave simulator emulating an industrial DC voltage monitor (147 holding registers, 6 baudrates). Lets SCADA/PLC firmware engineers test Modbus integration in CI pipelines without physical hardware on the bench.",
           "children": [],
@@ -3939,6 +4083,36 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
+        },
+        {
+          "node_type": "item",
+          "title": "flashgate",
+          "description": "Hardware-in-the-loop verification gate for AI coding agents: build, flash over ST-Link, then assert the board's boot banner, SWD RAM signature and console-probe register readbacks before \"done\" is accepted. Ships as a Claude Code plugin (Stop hook + MCP server).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The agent can't claim the firmware works — until the board says so. Hardware-in-the-loop verification gate: build → flash → boot banner → exit code.",
+            "homepage": null,
+            "id": 1349332154,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-02T09:01:37Z",
+            "open_issues": 0,
+            "owner": "Lion-1209",
+            "repo": "flashgate",
+            "stars": 0,
+            "topics": [
+              "agent-verification",
+              "claude-code",
+              "coding-agent",
+              "embedded",
+              "firmware",
+              "hardware-in-the-loop",
+              "python",
+              "stm32"
+            ]
+          },
+          "first_seen": "2026-09-06T20:49:41.918Z"
         }
       ],
       "title": "Utilities"
@@ -4012,7 +4186,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 503292,
+                "stars": 503629,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4039,7 +4213,7 @@
                 "open_issues": 278,
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 282201,
+                "stars": 282352,
                 "topics": [
                   "beginner-project",
                   "cpp",
@@ -4066,10 +4240,10 @@
                 "language": "Shell",
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-27T10:19:55Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "thibmaek",
                 "repo": "awesome-raspberry-pi",
-                "stars": 16832,
+                "stars": 16837,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4097,7 +4271,7 @@
                 "open_issues": 15,
                 "owner": "rust-embedded",
                 "repo": "awesome-embedded-rust",
-                "stars": 8070,
+                "stars": 8072,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4148,7 +4322,7 @@
                 "id": 40586505,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-02T14:43:41Z",
+                "last_commit": "2026-09-06T11:47:47Z",
                 "open_issues": 11,
                 "owner": "uhub",
                 "repo": "awesome-c",
@@ -4201,7 +4375,7 @@
                 "open_issues": 2,
                 "owner": "theEmbeddedGeorge",
                 "repo": "theEmbeddedNewTestament.github.io",
-                "stars": 963,
+                "stars": 966,
                 "topics": [
                   "embedded",
                   "embedded-software",
@@ -4244,7 +4418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T20:42:50.426Z",
+    "last_updated": "2026-09-06T20:49:41.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded programming.",
@@ -4252,11 +4426,11 @@
       "id": 104612770,
       "language": null,
       "license": "Unlicense",
-      "last_commit": "2026-08-12T03:10:08Z",
-      "open_issues": 9,
+      "last_commit": "2026-09-06T05:27:33Z",
+      "open_issues": 3,
       "owner": "nhivp",
       "repo": "Awesome-Embedded",
-      "stars": 9081,
+      "stars": 9085,
       "topics": [
         "ai",
         "autosar",
@@ -4279,7 +4453,7 @@
         "tm4c123"
       ]
     },
-    "original_repository_sha": "8474defa48860fc416562d0bdf85d1b193094327",
+    "original_repository_sha": "04d0e3623debeedb41d437ecf4349b8ee36bf5c2",
     "enhanced_repository": "enhansome/enhansome-Awesome-Embedded",
     "enhanced_repository_description": null,
     "title": "Awesome-Embedded with stars"
