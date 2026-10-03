@@ -19,7 +19,7 @@
             "open_issues": 127,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 362255,
+            "stars": 362262,
             "topics": [
               "algorithm",
               "algorithms",
@@ -40,7 +40,7 @@
         {
           "node_type": "item",
           "title": "EA-SKILL",
-          "description": null,
+          "description": "jzl-maker/EA-SKILL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -77,7 +77,7 @@
         {
           "node_type": "item",
           "title": "How to be low-level programmer",
-          "description": null,
+          "description": "gurugio/lowlevelprogramming-university",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -133,7 +133,7 @@
             "open_issues": 1,
             "owner": "QuantumLeaps",
             "repo": "modern-embedded-programming-course",
-            "stars": 1484,
+            "stars": 1485,
             "topics": [
               "architecture",
               "arm",
@@ -312,7 +312,7 @@
             {
               "node_type": "item",
               "title": "EmbeddedSystems.Playground",
-              "description": null,
+              "description": "glennlopez/EmbeddedSystems.Playground",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -339,7 +339,7 @@
             {
               "node_type": "item",
               "title": "Linux command line build system to generate binaries for TM4C123 (ARM Cortex M4)",
-              "description": null,
+              "description": "streetdogg/arm-rtos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -442,7 +442,7 @@
             {
               "node_type": "item",
               "title": "Standalone TCP/IP stack for STM32, bare metal or RTOS",
-              "description": null,
+              "description": "cesanta/mongoose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -455,7 +455,7 @@
                 "open_issues": 4,
                 "owner": "cesanta",
                 "repo": "mongoose",
-                "stars": 13068,
+                "stars": 13070,
                 "topics": [
                   "embedded",
                   "http",
@@ -475,7 +475,7 @@
             {
               "node_type": "item",
               "title": "Customizable Bootloader for STM32 microcontrollers.",
-              "description": null,
+              "description": "akospasztor/stm32-bootloader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -488,7 +488,7 @@
                 "open_issues": 0,
                 "owner": "akospasztor",
                 "repo": "stm32-bootloader",
-                "stars": 1066,
+                "stars": 1065,
                 "topics": [
                   "boot",
                   "bootloader",
@@ -517,7 +517,7 @@
             {
               "node_type": "item",
               "title": "STM32F103C8 Examples",
-              "description": null,
+              "description": "avislab/STM32F103",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -538,7 +538,7 @@
             {
               "node_type": "item",
               "title": "Lightweight USB device Stack for STM32 microcontrollers",
-              "description": null,
+              "description": "dmitrystu/libusb_stm32",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -562,7 +562,7 @@
             {
               "node_type": "item",
               "title": "libopencm3 and FreeRTOS projects using the STM32F103C8T6 MCU",
-              "description": null,
+              "description": "ve3wwg/stm32f103c8t6",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -583,7 +583,7 @@
             {
               "node_type": "item",
               "title": "DFU Bootloader for STM32 chips",
-              "description": null,
+              "description": "devanlai/dapboot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -629,7 +629,7 @@
             {
               "node_type": "item",
               "title": "A demo project of FreeRTOS running on a STM32F4 Discovery board.",
-              "description": null,
+              "description": "wangyeee/STM32F4-FreeRTOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -650,7 +650,7 @@
             {
               "node_type": "item",
               "title": "A tiny portable 3D graphics lib for micro controllers (Oled display)",
-              "description": null,
+              "description": "avem-labs/ol3d",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -678,7 +678,7 @@
             {
               "node_type": "item",
               "title": "A template for building STM32F0 ARM projects with GCC",
-              "description": null,
+              "description": "szczys/stm32f0-discovery-basic-template",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -720,7 +720,7 @@
             {
               "node_type": "item",
               "title": "stm32_samples",
-              "description": null,
+              "description": "dwelch67/stm32_samples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -741,7 +741,7 @@
             {
               "node_type": "item",
               "title": "STM32 programming with Embedded GNU Compiler",
-              "description": null,
+              "description": "rowol/stm32_discovery_arm_gcc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -762,7 +762,7 @@
             {
               "node_type": "item",
               "title": "stm32f4de example code",
-              "description": null,
+              "description": "dwelch67/stm32f4d",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -822,7 +822,7 @@
             {
               "node_type": "item",
               "title": "Tests to program STM32 Nucleo in C with GCC ARM embedded toolchain and libopencm3",
-              "description": null,
+              "description": "balau/nucleo_tests",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -956,7 +956,7 @@
             {
               "node_type": "item",
               "title": "Getting started with the STM32F4-Discovery board using the EmBitz IDE",
-              "description": null,
+              "description": "RoanFourie/STM32F4-DISCO-EMBITZ-Blinky",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1081,7 +1081,7 @@
             {
               "node_type": "item",
               "title": "Wolk STM8 stuff",
-              "description": null,
+              "description": "LonelyWolf/stm8",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1162,7 +1162,7 @@
             {
               "node_type": "item",
               "title": "Sming - ESP8266/ESP32 IoT Framework",
-              "description": null,
+              "description": "SmingHub/Sming",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1202,7 +1202,7 @@
             {
               "node_type": "item",
               "title": "Wi-FI ESP8266 learning journey",
-              "description": null,
+              "description": "xuhongv/StudyInEsp8266",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1225,7 +1225,7 @@
             {
               "node_type": "item",
               "title": "Wi-FI ESP32 learning journey",
-              "description": null,
+              "description": "xuhongv/StudyInEsp32",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1246,7 +1246,7 @@
             {
               "node_type": "item",
               "title": "An open source bootloader for the ESP8266",
-              "description": null,
+              "description": "raburton/rboot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1267,7 +1267,7 @@
             {
               "node_type": "item",
               "title": "An esp8266 rom creation tool",
-              "description": null,
+              "description": "raburton/esptool2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1299,7 +1299,7 @@
         {
           "node_type": "item",
           "title": "Learning operating system development using Linux kernel and Raspberry Pi",
-          "description": null,
+          "description": "s-matyukevich/raspberry-pi-os",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1336,7 +1336,7 @@
         {
           "node_type": "item",
           "title": "Writing a \"bare metal\" operating system for Raspberry Pi 4",
-          "description": null,
+          "description": "sypstraw/rpi4-osdev",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1357,7 +1357,7 @@
         {
           "node_type": "item",
           "title": "Bare metal Raspberry Pi 3 tutorials",
-          "description": null,
+          "description": "bztsrc/raspi3-tutorial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1378,7 +1378,7 @@
         {
           "node_type": "item",
           "title": "Raspberry Pi ARM based bare metal examples",
-          "description": null,
+          "description": "dwelch67/raspberrypi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1399,7 +1399,7 @@
         {
           "node_type": "item",
           "title": "64-bit Tiano Core UEFI for the Raspberry Pi 3",
-          "description": null,
+          "description": "andreiw/RaspberryPiPkg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1440,7 +1440,7 @@
         {
           "node_type": "item",
           "title": "Raspberry-Pi Bare Metal Tutorial",
-          "description": null,
+          "description": "BrianSidebotham/arm-tutorial-rpi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1461,7 +1461,7 @@
         {
           "node_type": "item",
           "title": "A port of FreeRTOS to the raspberry pi",
-          "description": null,
+          "description": "jameswalmsley/RaspberryPi-FreeRTOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1482,7 +1482,7 @@
         {
           "node_type": "item",
           "title": "Sample source: Baremetal source code for Raspberry",
-          "description": null,
+          "description": "LdB-ECM/Raspberry-Pi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1512,7 +1512,7 @@
         {
           "node_type": "item",
           "title": "A public Baremetal Raspberry Pi code",
-          "description": null,
+          "description": "LdB-ECM/Raspberry-Pi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1542,7 +1542,7 @@
         {
           "node_type": "item",
           "title": "A port of FreeRTOS to the raspberry pi 2B. With USB+Ethernet+TCP/IP.",
-          "description": null,
+          "description": "Forty-Tw0/RaspberryPi-FreeRTOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1563,7 +1563,7 @@
         {
           "node_type": "item",
           "title": "ARM shellcode and exploit development - BSidesMunich 2018",
-          "description": null,
+          "description": "invictus1306/Workshop-BSidesMunich2018",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1584,7 +1584,7 @@
         {
           "node_type": "item",
           "title": "UEFI for RaspberryPi2 and RaspberryPi3 based on Linaro EDK2",
-          "description": null,
+          "description": "ms-iot/RPi-UEFI",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1605,7 +1605,7 @@
         {
           "node_type": "item",
           "title": "Build a Debian-based ARM64 system for Raspberry Pi 3",
-          "description": null,
+          "description": "UMRnInside/RPi-arm64",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1657,7 +1657,7 @@
         {
           "node_type": "item",
           "title": "「BareMetalで遊ぶ Raspberry Pi」のプログラムです。",
-          "description": null,
+          "description": "tnishinaga/RPi_Micon_C85book",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1678,7 +1678,7 @@
         {
           "node_type": "item",
           "title": "Bare-metal examples",
-          "description": null,
+          "description": "mrvn/RaspberryPi-baremetal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1699,7 +1699,7 @@
         {
           "node_type": "item",
           "title": "uCOS-II on Raspberry Pi",
-          "description": null,
+          "description": "fmlab/ucos_RaspberryPi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1720,7 +1720,7 @@
         {
           "node_type": "item",
           "title": "Bare-metal lab",
-          "description": null,
+          "description": "tzuCarlos/RaspberryPi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1741,7 +1741,7 @@
         {
           "node_type": "item",
           "title": "Sample source: NarcOS - A bare metal ultralight kernel for Raspberry Pi 3",
-          "description": null,
+          "description": "whyisitworking/NarcOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1777,7 +1777,7 @@
         {
           "node_type": "item",
           "title": "A bootloader for the Raspberry Pi using the ethernet device",
-          "description": null,
+          "description": "Nvreformat/Etherboot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1798,7 +1798,7 @@
         {
           "node_type": "item",
           "title": "Sample source: FreeRTOS v9.0.0 port for Raspberry Pi 1",
-          "description": null,
+          "description": "leodido99/RaspberryPi1-FreeRTOSv9.0.0",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1826,7 +1826,7 @@
         {
           "node_type": "item",
           "title": "Sample source: A bare-metal experiments with the RaspberryPi",
-          "description": null,
+          "description": "majorviraj/my-os",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1868,7 +1868,7 @@
         {
           "node_type": "item",
           "title": "Assembly code for Raspberry Pi",
-          "description": null,
+          "description": "Alkesst/RPIAssembly",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1942,7 +1942,7 @@
         {
           "node_type": "item",
           "title": "Porting uCOSII to the raspberry pi A+/B+/2B",
-          "description": null,
+          "description": "mopplayer/uCOSII_RPi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2032,7 +2032,7 @@
         {
           "node_type": "item",
           "title": "FreeRTOS for BeagleBone Black",
-          "description": null,
+          "description": "henfos/BBBFreeRTOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2053,7 +2053,7 @@
         {
           "node_type": "item",
           "title": "beaglebone_samples",
-          "description": null,
+          "description": "dwelch67/beaglebone_samples",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2074,7 +2074,7 @@
         {
           "node_type": "item",
           "title": "bare metal c project for beaglebone, ti sitara am335x",
-          "description": null,
+          "description": "0xCA5A/kickstart",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2095,7 +2095,7 @@
         {
           "node_type": "item",
           "title": "Various projects that utilize low level hardware instructions to interface with leds, speaker output and joystick input.",
-          "description": null,
+          "description": "travelln/beaglebone-projects",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2123,7 +2123,7 @@
         {
           "node_type": "item",
           "title": "Simple implementation of an OS for the BeagleBoard C4 with ARMv7 A8 processor.",
-          "description": null,
+          "description": "Oxydation/MinionOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2179,7 +2179,7 @@
             "open_issues": 23,
             "owner": "0xAX",
             "repo": "linux-insides",
-            "stars": 33616,
+            "stars": 33617,
             "topics": [
               "linux",
               "linux-insides",
@@ -2191,7 +2191,7 @@
         {
           "node_type": "item",
           "title": "low-level programming university #linux-kernel-and-device-driver",
-          "description": null,
+          "description": "gurugio/lowlevelprogramming-university",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2255,7 +2255,7 @@
         {
           "node_type": "item",
           "title": "Linux Kernel Module Cheat",
-          "description": null,
+          "description": "cirosantilli/linux-kernel-module-cheat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2337,7 +2337,7 @@
         {
           "node_type": "item",
           "title": "Linux driver practices",
-          "description": null,
+          "description": "starnight/DriverPractice",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2364,7 +2364,7 @@
         {
           "node_type": "item",
           "title": "How to create an OS from scratch",
-          "description": null,
+          "description": "cfenollosa/os-tutorial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2385,7 +2385,7 @@
         {
           "node_type": "item",
           "title": "RT-Thread is an open source IoT operating system from China.",
-          "description": null,
+          "description": "RT-Thread/rt-thread",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2469,10 +2469,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T15:52:08Z",
-            "open_issues": 210,
+            "open_issues": 211,
             "owner": "tock",
             "repo": "tock",
-            "stars": 6455,
+            "stars": 6456,
             "topics": [
               "arm",
               "cortex-m",
@@ -2523,7 +2523,7 @@
         {
           "node_type": "item",
           "title": "High performance motor control",
-          "description": null,
+          "description": "odriverobotics/ODrive",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2547,7 +2547,7 @@
         {
           "node_type": "item",
           "title": "Sample Source: TetrOS is a small feature rich Tetris clone which is written in Assembly.",
-          "description": null,
+          "description": "daniel-e/tetros",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2568,7 +2568,7 @@
         {
           "node_type": "item",
           "title": "object-oriented C++ RTOS for microcontrollers",
-          "description": null,
+          "description": "DISTORTEC/distortos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2603,7 +2603,7 @@
         {
           "node_type": "item",
           "title": "Sample Source: TNeo - a well-formed and carefully tested preemptive real-time kernel for 16- and 32-bits MCUs",
-          "description": null,
+          "description": "dimonomid/tneo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2635,7 +2635,7 @@
         {
           "node_type": "item",
           "title": "Sample Source: RTOS for microcontrollers",
-          "description": null,
+          "description": "jimtremblay/nOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2677,7 +2677,7 @@
         {
           "node_type": "item",
           "title": "Free real-time operating system (RTOS) designed for deeply embedded applications",
-          "description": null,
+          "description": "stateos/StateOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2740,7 +2740,7 @@
         {
           "node_type": "item",
           "title": "Sample Source: A Powerful embedded RTOS for ARM Cortex M microcontrollers",
-          "description": null,
+          "description": "StratifyLabs/StratifyOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2767,7 +2767,7 @@
         {
           "node_type": "item",
           "title": "Sample Source: An embedded operating system for ARM Cortex-M based microcontrollers",
-          "description": null,
+          "description": "onkwon/yaos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2797,7 +2797,7 @@
         {
           "node_type": "item",
           "title": "yaos is an embedded operating system for Internet of Things(IoT) devices, specifically for a single-core processor without MMU virtualization.",
-          "description": null,
+          "description": "onkwon/yaos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2827,7 +2827,7 @@
         {
           "node_type": "item",
           "title": "Sample Source: rnk is a RTOS targeting ARM architecture.",
-          "description": null,
+          "description": "raphui/rnk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2859,7 +2859,7 @@
         {
           "node_type": "item",
           "title": "Sample Source: RTOS-From-Scratch",
-          "description": null,
+          "description": "RTOS-From-Scratch/RTOS-From-Scratch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2896,7 +2896,7 @@
             "id": 954389533,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T12:22:05Z",
+            "last_commit": "2026-10-03T01:47:34Z",
             "open_issues": 0,
             "owner": "antoniogiacomelli",
             "repo": "RK0",
@@ -2919,7 +2919,7 @@
         {
           "node_type": "item",
           "title": "Sample Source: Embeded OS for PIC32MX270F256B",
-          "description": null,
+          "description": "envzhu/kozos-pic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3006,7 +3006,7 @@
         {
           "node_type": "item",
           "title": "Sample source: An integration an example AUTOSAR project which every part in AUTOSAR (OS, RTE, BSW, MCAL) are collected from different open source.",
-          "description": null,
+          "description": "leduynguyen/My_AUTOSAR_Project",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3072,7 +3072,7 @@
         {
           "node_type": "item",
           "title": "Bootstrap yourself to write an OS from scratch. A book for self-learner.",
-          "description": null,
+          "description": "tuhdo/os01",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3096,7 +3096,7 @@
         {
           "node_type": "item",
           "title": "A simple OS kernel for research, teaching, and fun",
-          "description": null,
+          "description": "dthain/basekernel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3138,7 +3138,7 @@
         {
           "node_type": "item",
           "title": "Operating Systems C Term 2018",
-          "description": null,
+          "description": "Mcdonoughd/CS3013",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3227,7 +3227,7 @@
         {
           "node_type": "item",
           "title": "ARMv7M ELF loader",
-          "description": null,
+          "description": "martinribelotta/elfloader",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3258,7 +3258,7 @@
         {
           "node_type": "item",
           "title": "A bootloader for ARM Cortex-M based microcontrollers",
-          "description": null,
+          "description": "onkwon/yaboot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3312,7 +3312,7 @@
         {
           "node_type": "item",
           "title": "A C++ template library for embedded applications",
-          "description": null,
+          "description": "ETLCPP/etl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3322,10 +3322,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-01T10:50:48Z",
-            "open_issues": 48,
+            "open_issues": 50,
             "owner": "ETLCPP",
             "repo": "etl",
-            "stars": 3132,
+            "stars": 3133,
             "topics": [
               "algorithms",
               "c-plus-plus",
@@ -3346,7 +3346,7 @@
         {
           "node_type": "item",
           "title": "Advanced fault backtrace library for ARM Cortex-M series MCU",
-          "description": null,
+          "description": "armink/CmBacktrace",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3652,7 +3652,7 @@
             "open_issues": 32,
             "owner": "attractivechaos",
             "repo": "kann",
-            "stars": 762,
+            "stars": 761,
             "topics": [
               "deep-learning",
               "neural-network"
@@ -3775,7 +3775,7 @@
         {
           "node_type": "item",
           "title": "nn4mp",
-          "description": null,
+          "description": "correlllab/nn4mc_cpp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3930,7 +3930,7 @@
         {
           "node_type": "item",
           "title": "lm4tools",
-          "description": null,
+          "description": "utzig/lm4tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4126,7 +4126,7 @@
         {
           "node_type": "item",
           "title": "Awesome Cheat Sheets",
-          "description": null,
+          "description": "mintisan/awesome-cheat-sheets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4147,7 +4147,7 @@
         {
           "node_type": "item",
           "title": "Vim Config for Reading Linux Kernel Source Code",
-          "description": null,
+          "description": "mintisan/oh-my-vim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4176,7 +4176,7 @@
             {
               "node_type": "item",
               "title": "Curated list of awesome lists",
-              "description": null,
+              "description": "sindresorhus/awesome",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4189,7 +4189,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 513712,
+                "stars": 513792,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4203,7 +4203,7 @@
             {
               "node_type": "item",
               "title": "Curated list of project-based tutorials",
-              "description": null,
+              "description": "practical-tutorials/project-based-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4216,7 +4216,7 @@
                 "open_issues": 260,
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 285645,
+                "stars": 285659,
                 "topics": [
                   "beginner-project",
                   "cpp",
@@ -4233,7 +4233,7 @@
             {
               "node_type": "item",
               "title": "A curated list of awesome Raspberry Pi tools, projects, images and resources",
-              "description": null,
+              "description": "thibmaek/awesome-raspberry-pi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4274,7 +4274,7 @@
                 "open_issues": 15,
                 "owner": "rust-embedded",
                 "repo": "awesome-embedded-rust",
-                "stars": 8123,
+                "stars": 8124,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4289,7 +4289,7 @@
             {
               "node_type": "item",
               "title": "Curated List of Self-Driving Cars and Autonomous Vehicles Resources",
-              "description": null,
+              "description": "manfreddiaz/awesome-autonomous-vehicles",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4344,7 +4344,7 @@
             {
               "node_type": "item",
               "title": "awesome-embedded-systems",
-              "description": null,
+              "description": "embedded-boston/awesome-embedded-systems",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4365,7 +4365,7 @@
             {
               "node_type": "item",
               "title": "theEmbeddedNewTestament.github.io",
-              "description": null,
+              "description": "theEmbeddedGeorge/theEmbeddedNewTestament.github.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4421,7 +4421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:33:26.210Z",
+    "last_updated": "2026-10-03T04:24:40.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded programming.",
