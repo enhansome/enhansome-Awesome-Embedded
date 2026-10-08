@@ -19,7 +19,7 @@
             "open_issues": 127,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 362504,
+            "stars": 362328,
             "topics": [
               "algorithm",
               "algorithms",
@@ -133,7 +133,7 @@
             "open_issues": 1,
             "owner": "QuantumLeaps",
             "repo": "modern-embedded-programming-course",
-            "stars": 1490,
+            "stars": 1493,
             "topics": [
               "architecture",
               "arm",
@@ -182,7 +182,7 @@
                 "open_issues": 2,
                 "owner": "cpq",
                 "repo": "bare-metal-programming-guide",
-                "stars": 4926,
+                "stars": 4930,
                 "topics": [
                   "arm",
                   "baremetal",
@@ -214,7 +214,7 @@
                 "id": 5922310,
                 "language": "C++",
                 "license": "BSL-1.0",
-                "last_commit": "2026-10-04T11:23:28Z",
+                "last_commit": "2026-10-08T19:26:47Z",
                 "open_issues": 10,
                 "owner": "ckormanyos",
                 "repo": "real-time-cpp",
@@ -451,11 +451,11 @@
                 "id": 5414488,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T19:10:41Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-08T18:01:21Z",
+                "open_issues": 4,
                 "owner": "cesanta",
                 "repo": "mongoose",
-                "stars": 13075,
+                "stars": 13081,
                 "topics": [
                   "embedded",
                   "http",
@@ -488,7 +488,7 @@
                 "open_issues": 0,
                 "owner": "akospasztor",
                 "repo": "stm32-bootloader",
-                "stars": 1064,
+                "stars": 1065,
                 "topics": [
                   "boot",
                   "bootloader",
@@ -887,7 +887,7 @@
                 "id": 1041965590,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-07T19:59:52Z",
+                "last_commit": "2026-10-08T20:18:33Z",
                 "open_issues": 0,
                 "owner": "a5021",
                 "repo": "stm32-async-1wire",
@@ -1259,7 +1259,7 @@
                 "open_issues": 14,
                 "owner": "raburton",
                 "repo": "rboot",
-                "stars": 317,
+                "stars": 316,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
@@ -1312,7 +1312,7 @@
             "open_issues": 66,
             "owner": "s-matyukevich",
             "repo": "raspberry-pi-os",
-            "stars": 13946,
+            "stars": 13947,
             "topics": [
               "arm",
               "armv8",
@@ -1370,7 +1370,7 @@
             "open_issues": 6,
             "owner": "bztsrc",
             "repo": "raspi3-tutorial",
-            "stars": 3052,
+            "stars": 3051,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
@@ -1391,7 +1391,7 @@
             "open_issues": 34,
             "owner": "dwelch67",
             "repo": "raspberrypi",
-            "stars": 2827,
+            "stars": 2826,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
@@ -2175,11 +2175,11 @@
             "id": 28751632,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T19:55:40Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-08T14:41:56Z",
+            "open_issues": 23,
             "owner": "0xAX",
             "repo": "linux-insides",
-            "stars": 33631,
+            "stars": 33632,
             "topics": [
               "linux",
               "linux-insides",
@@ -2377,7 +2377,7 @@
             "open_issues": 128,
             "owner": "cfenollosa",
             "repo": "os-tutorial",
-            "stars": 30752,
+            "stars": 30754,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
@@ -2395,10 +2395,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-10-03T04:59:43Z",
-            "open_issues": 507,
+            "open_issues": 511,
             "owner": "RT-Thread",
             "repo": "rt-thread",
-            "stars": 12258,
+            "stars": 12260,
             "topics": [
               "aiot",
               "arm",
@@ -2413,6 +2413,40 @@
               "real-time",
               "risc-v",
               "rtos"
+            ]
+          },
+          "first_seen": "2026-08-29T01:54:50.076Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tock",
+          "description": "A secure embedded operating system for Cortex-M based microcontrollers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A secure embedded operating system for microcontrollers",
+            "homepage": "https://www.tockos.org",
+            "id": 36428094,
+            "language": "Rust",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-08T21:51:47Z",
+            "open_issues": 211,
+            "owner": "tock",
+            "repo": "tock",
+            "stars": 6462,
+            "topics": [
+              "arm",
+              "cortex-m",
+              "embedded",
+              "iot",
+              "kernel",
+              "mcu",
+              "microcontroller",
+              "operating-system",
+              "risc-v",
+              "rust",
+              "secure-operating-system",
+              "tock"
             ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
@@ -2452,40 +2486,6 @@
               "osx",
               "qemu",
               "stdlib"
-            ]
-          },
-          "first_seen": "2026-08-29T01:54:50.076Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tock",
-          "description": "A secure embedded operating system for Cortex-M based microcontrollers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A secure embedded operating system for microcontrollers",
-            "homepage": "https://www.tockos.org",
-            "id": 36428094,
-            "language": "Rust",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-07T23:18:04Z",
-            "open_issues": 208,
-            "owner": "tock",
-            "repo": "tock",
-            "stars": 6461,
-            "topics": [
-              "arm",
-              "cortex-m",
-              "embedded",
-              "iot",
-              "kernel",
-              "mcu",
-              "microcontroller",
-              "operating-system",
-              "risc-v",
-              "rust",
-              "secure-operating-system",
-              "tock"
             ]
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
@@ -2536,7 +2536,7 @@
             "open_issues": 18,
             "owner": "odriverobotics",
             "repo": "ODrive",
-            "stars": 3789,
+            "stars": 3793,
             "topics": [
               "motor",
               "motor-controller"
@@ -3298,7 +3298,7 @@
             "open_issues": 1047,
             "owner": "ApolloAuto",
             "repo": "apollo",
-            "stars": 26856,
+            "stars": 26854,
             "topics": [
               "apollo",
               "autonomous-driving",
@@ -3322,10 +3322,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-04T09:17:11Z",
-            "open_issues": 55,
+            "open_issues": 57,
             "owner": "ETLCPP",
             "repo": "etl",
-            "stars": 3134,
+            "stars": 3135,
             "topics": [
               "algorithms",
               "c-plus-plus",
@@ -3457,7 +3457,7 @@
             "id": 128429105,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T18:30:28Z",
+            "last_commit": "2026-10-08T13:55:45Z",
             "open_issues": 113,
             "owner": "malachi-iot",
             "repo": "estdlib",
@@ -3841,7 +3841,7 @@
             "open_issues": 21,
             "owner": "Serial-Studio",
             "repo": "Serial-Studio",
-            "stars": 7225,
+            "stars": 7226,
             "topics": [
               "arduino",
               "canbus",
@@ -3876,8 +3876,8 @@
             "id": 1138269866,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T20:13:06Z",
-            "open_issues": 96,
+            "last_commit": "2026-10-08T12:52:48Z",
+            "open_issues": 95,
             "owner": "jumpstarter-dev",
             "repo": "jumpstarter",
             "stars": 223,
@@ -4015,6 +4015,35 @@
         },
         {
           "node_type": "item",
+          "title": "BARR-C Enforcement Kit",
+          "description": "Drop-in clang-format and clang-tidy configurations, compiler warning gates, a one-command conformance check and ready-made CI enforcing BARR-C, Barr Group's Embedded C Coding Standard for firmware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Enforcement kits for BARR-C, Barr Group's Embedded C Coding Standard: clang-format, clang-tidy, compiler gates, CI, and AI-generator context",
+            "homepage": "https://barrgroup.com/embedded-c-coding-standard",
+            "id": 1318779404,
+            "language": "Shell",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-26T11:30:10Z",
+            "open_issues": 0,
+            "owner": "netrinomike",
+            "repo": "barr-c",
+            "stars": 14,
+            "topics": [
+              "c",
+              "clang-format",
+              "clang-tidy",
+              "coding-standard",
+              "embedded",
+              "firmware",
+              "misra"
+            ]
+          },
+          "first_seen": "2026-09-06T20:49:41.918Z"
+        },
+        {
+          "node_type": "item",
           "title": "EmbedEval",
           "description": "Benchmark that measures how well LLMs write embedded firmware. 233 cases across Zephyr, ESP-IDF, STM32 HAL, FreeRTOS, Linux drivers and Yocto, verified through static checks, SDK compilation, runtime execution and mutation testing.",
           "children": [],
@@ -4033,35 +4062,6 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
-        },
-        {
-          "node_type": "item",
-          "title": "BARR-C Enforcement Kit",
-          "description": "Drop-in clang-format and clang-tidy configurations, compiler warning gates, a one-command conformance check and ready-made CI enforcing BARR-C, Barr Group's Embedded C Coding Standard for firmware.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Enforcement kits for BARR-C, Barr Group's Embedded C Coding Standard: clang-format, clang-tidy, compiler gates, CI, and AI-generator context",
-            "homepage": "https://barrgroup.com/embedded-c-coding-standard",
-            "id": 1318779404,
-            "language": "Shell",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-26T11:30:10Z",
-            "open_issues": 0,
-            "owner": "netrinomike",
-            "repo": "barr-c",
-            "stars": 13,
-            "topics": [
-              "c",
-              "clang-format",
-              "clang-tidy",
-              "coding-standard",
-              "embedded",
-              "firmware",
-              "misra"
-            ]
-          },
-          "first_seen": "2026-09-06T20:49:41.918Z"
         },
         {
           "node_type": "item",
@@ -4188,7 +4188,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 516080,
+                "stars": 516329,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4215,7 +4215,7 @@
                 "open_issues": 259,
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 286198,
+                "stars": 286100,
                 "topics": [
                   "beginner-project",
                   "cpp",
@@ -4245,7 +4245,7 @@
                 "open_issues": 33,
                 "owner": "thibmaek",
                 "repo": "awesome-raspberry-pi",
-                "stars": 16955,
+                "stars": 16959,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4273,7 +4273,7 @@
                 "open_issues": 15,
                 "owner": "rust-embedded",
                 "repo": "awesome-embedded-rust",
-                "stars": 8130,
+                "stars": 8132,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4328,7 +4328,7 @@
                 "open_issues": 11,
                 "owner": "uhub",
                 "repo": "awesome-c",
-                "stars": 2229,
+                "stars": 2230,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4377,7 +4377,7 @@
                 "open_issues": 2,
                 "owner": "theEmbeddedGeorge",
                 "repo": "theEmbeddedNewTestament.github.io",
-                "stars": 1010,
+                "stars": 1013,
                 "topics": [
                   "embedded",
                   "embedded-software",
@@ -4420,7 +4420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:18:43.945Z",
+    "last_updated": "2026-10-08T23:34:01.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded programming.",
@@ -4429,10 +4429,10 @@
       "language": null,
       "license": "Unlicense",
       "last_commit": "2026-09-06T05:27:33Z",
-      "open_issues": 9,
+      "open_issues": 10,
       "owner": "nhivp",
       "repo": "Awesome-Embedded",
-      "stars": 9182,
+      "stars": 9189,
       "topics": [
         "ai",
         "autosar",
