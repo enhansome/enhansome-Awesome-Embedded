@@ -19,7 +19,7 @@
             "open_issues": 132,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 363913,
+            "stars": 363998,
             "topics": [
               "algorithm",
               "algorithms",
@@ -182,7 +182,7 @@
                 "open_issues": 2,
                 "owner": "cpq",
                 "repo": "bare-metal-programming-guide",
-                "stars": 4999,
+                "stars": 5000,
                 "topics": [
                   "arm",
                   "baremetal",
@@ -451,11 +451,11 @@
                 "id": 5414488,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T20:16:04Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-05T22:54:47Z",
+                "open_issues": 4,
                 "owner": "cesanta",
                 "repo": "mongoose",
-                "stars": 13124,
+                "stars": 13127,
                 "topics": [
                   "embedded",
                   "http",
@@ -887,7 +887,7 @@
                 "id": 1041965590,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-04T20:26:55Z",
+                "last_commit": "2026-11-05T20:19:17Z",
                 "open_issues": 0,
                 "owner": "a5021",
                 "repo": "stm32-async-1wire",
@@ -1346,7 +1346,7 @@
             "open_issues": 0,
             "owner": "sypstraw",
             "repo": "rpi4-osdev",
-            "stars": 3774,
+            "stars": 3775,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
@@ -1367,7 +1367,7 @@
             "open_issues": 6,
             "owner": "bztsrc",
             "repo": "raspi3-tutorial",
-            "stars": 3054,
+            "stars": 3055,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
@@ -2176,7 +2176,7 @@
             "open_issues": 23,
             "owner": "0xAX",
             "repo": "linux-insides",
-            "stars": 33719,
+            "stars": 33723,
             "topics": [
               "linux",
               "linux-insides",
@@ -2234,11 +2234,11 @@
             "id": 73646740,
             "language": null,
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-05T16:00:37Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-05T23:12:44Z",
+            "open_issues": 0,
             "owner": "xairy",
             "repo": "linux-kernel-exploitation",
-            "stars": 6675,
+            "stars": 6676,
             "topics": [
               "exploit",
               "kernel-exploitation",
@@ -2374,7 +2374,7 @@
             "open_issues": 129,
             "owner": "cfenollosa",
             "repo": "os-tutorial",
-            "stars": 30791,
+            "stars": 30793,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
@@ -2391,11 +2391,11 @@
             "id": 7408108,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T13:33:18Z",
-            "open_issues": 541,
+            "last_commit": "2026-11-05T14:26:23Z",
+            "open_issues": 507,
             "owner": "RT-Thread",
             "repo": "rt-thread",
-            "stars": 12326,
+            "stars": 12329,
             "topics": [
               "aiot",
               "arm",
@@ -2426,8 +2426,8 @@
             "id": 36428094,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T19:46:06Z",
-            "open_issues": 230,
+            "last_commit": "2026-11-05T22:14:52Z",
+            "open_issues": 229,
             "owner": "tock",
             "repo": "tock",
             "stars": 6487,
@@ -2533,7 +2533,7 @@
             "open_issues": 17,
             "owner": "odriverobotics",
             "repo": "ODrive",
-            "stars": 3826,
+            "stars": 3828,
             "topics": [
               "motor",
               "motor-controller"
@@ -2892,7 +2892,7 @@
             "id": 954389533,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T20:16:12Z",
+            "last_commit": "2026-11-05T20:51:24Z",
             "open_issues": 0,
             "owner": "antoniogiacomelli",
             "repo": "RK0",
@@ -2963,7 +2963,7 @@
             "open_issues": 79,
             "owner": "hypery11",
             "repo": "flipper-tesla-fsd",
-            "stars": 1218,
+            "stars": 1222,
             "topics": [
               "automotive",
               "autopilot",
@@ -3028,7 +3028,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-19T12:20:44Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "TrampolineRTOS",
             "repo": "trampoline",
             "stars": 757,
@@ -3123,7 +3123,7 @@
             "open_issues": 69,
             "owner": "tuhdo",
             "repo": "os01",
-            "stars": 13765,
+            "stars": 13764,
             "topics": [
               "book",
               "operating-system"
@@ -3336,7 +3336,7 @@
             "open_issues": 1050,
             "owner": "ApolloAuto",
             "repo": "apollo",
-            "stars": 26887,
+            "stars": 26891,
             "topics": [
               "apollo",
               "autonomous-driving",
@@ -3359,11 +3359,11 @@
             "id": 25298630,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-03T11:55:42Z",
+            "last_commit": "2026-11-05T23:32:32Z",
             "open_issues": 50,
             "owner": "ETLCPP",
             "repo": "etl",
-            "stars": 3153,
+            "stars": 3154,
             "topics": [
               "algorithms",
               "c-plus-plus",
@@ -3397,7 +3397,7 @@
             "open_issues": 48,
             "owner": "armink",
             "repo": "CmBacktrace",
-            "stars": 2196,
+            "stars": 2197,
             "topics": [
               "arm",
               "backtrace",
@@ -3457,7 +3457,7 @@
             "open_issues": 5,
             "owner": "ataradov",
             "repo": "mcu-starter-projects",
-            "stars": 343,
+            "stars": 344,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.076Z"
@@ -3495,7 +3495,7 @@
             "id": 128429105,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T21:57:17Z",
+            "last_commit": "2026-11-05T16:42:20Z",
             "open_issues": 111,
             "owner": "malachi-iot",
             "repo": "estdlib",
@@ -3608,7 +3608,7 @@
             "open_issues": 62,
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 2999,
+            "stars": 3000,
             "topics": [
               "c",
               "csharp",
@@ -3732,7 +3732,7 @@
             "open_issues": 32,
             "owner": "attractivechaos",
             "repo": "kann",
-            "stars": 763,
+            "stars": 764,
             "topics": [
               "deep-learning",
               "neural-network"
@@ -3925,11 +3925,11 @@
             "id": 305089628,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T13:12:04Z",
+            "last_commit": "2026-11-05T14:36:03Z",
             "open_issues": 21,
             "owner": "Serial-Studio",
             "repo": "Serial-Studio",
-            "stars": 7307,
+            "stars": 7312,
             "topics": [
               "arduino",
               "canbus",
@@ -3964,8 +3964,8 @@
             "id": 1138269866,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T17:48:25Z",
-            "open_issues": 81,
+            "last_commit": "2026-11-05T17:53:41Z",
+            "open_issues": 82,
             "owner": "jumpstarter-dev",
             "repo": "jumpstarter",
             "stars": 233,
@@ -4372,7 +4372,7 @@
                 "open_issues": 103,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 530953,
+                "stars": 531738,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4399,7 +4399,7 @@
                 "open_issues": 239,
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 289045,
+                "stars": 289140,
                 "topics": [
                   "beginner-project",
                   "cpp",
@@ -4426,10 +4426,10 @@
                 "language": "Shell",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-27T08:50:05Z",
-                "open_issues": 17,
+                "open_issues": 19,
                 "owner": "thibmaek",
                 "repo": "awesome-raspberry-pi",
-                "stars": 17085,
+                "stars": 17087,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4457,7 +4457,7 @@
                 "open_issues": 17,
                 "owner": "rust-embedded",
                 "repo": "awesome-embedded-rust",
-                "stars": 8181,
+                "stars": 8182,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4485,7 +4485,7 @@
                 "open_issues": 4,
                 "owner": "manfreddiaz",
                 "repo": "awesome-autonomous-vehicles",
-                "stars": 2396,
+                "stars": 2397,
                 "topics": [
                   "autonomous-cars",
                   "autonomous-vehicles",
@@ -4512,7 +4512,7 @@
                 "open_issues": 0,
                 "owner": "uhub",
                 "repo": "awesome-c",
-                "stars": 2246,
+                "stars": 2247,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4540,7 +4540,7 @@
                 "open_issues": 2,
                 "owner": "theEmbeddedGeorge",
                 "repo": "theEmbeddedNewTestament.github.io",
-                "stars": 1121,
+                "stars": 1122,
                 "topics": [
                   "embedded",
                   "embedded-software",
@@ -4565,10 +4565,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-01-04T03:35:24Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "embedded-boston",
                 "repo": "awesome-embedded-systems",
-                "stars": 1036,
+                "stars": 1038,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.076Z"
@@ -4604,7 +4604,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T23:55:21.383Z",
+    "last_updated": "2026-11-05T23:50:17.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome embedded programming.",
@@ -4616,7 +4616,7 @@
       "open_issues": 19,
       "owner": "nhivp",
       "repo": "Awesome-Embedded",
-      "stars": 9319,
+      "stars": 9321,
       "topics": [
         "ai",
         "autosar",
