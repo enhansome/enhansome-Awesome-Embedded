@@ -43,7 +43,7 @@ Table of content
 
 ## Interview
 
-* [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 364,451 | 🐛 23 | 📅 2026-11-07 - A complete computer science study plan to become a software engineer.
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 364,487 | 🐛 24 | 📅 2026-11-07 - A complete computer science study plan to become a software engineer.
 * [EA-SKILL](https://github.com/jzl-maker/EA-SKILL) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-10-20
 * [Embedded Interview Questions](https://docs.google.com/document/d/18HMyd-lFu1hWiixFLS2Pc7-SgyzDDqitzXbfAnUVeBE/mobilebasic)
 * [Interview Questions Archive by Company](https://docs.google.com/document/d/1uW030FMfBxKLxXz-eIwyzlMJdERN5DMEwtUnJMYsF-g/edit?usp=sharing)
@@ -56,7 +56,7 @@ Table of content
 
 ## Common
 
-* [Modern Embedded Systems Programming Course](https://github.com/QuantumLeaps/modern-embedded-programming-course) ⭐ 1,561 | 🐛 2 | 🌐 C | 📅 2026-07-07 - Learn from the basics to modern embedded programming practice.
+* [Modern Embedded Systems Programming Course](https://github.com/QuantumLeaps/modern-embedded-programming-course) ⭐ 1,563 | 🐛 2 | 🌐 C | 📅 2026-07-07 - Learn from the basics to modern embedded programming practice.
 * [Integer size in C on 32-bit and 64-bit system](https://usrmisc.wordpress.com/2012/12/27/integer-sizes-in-c-on-32-bit-and-64-bit-linux/)
 * [TeraTerm - TTL command reference](http://ttssh2.osdn.jp/manual/en/macro/command/index.html)
 * [TeraTerm Scripts](http://processors.wiki.ti.com/index.php/Teraterm_Scripts)
@@ -82,8 +82,8 @@ Table of content
 
 ### Bare-metal programming (Don't need MCU)
 
-* [Bare metal programming guide](https://github.com/cpq/bare-metal-programming-guide) ⭐ 5,039 | 🐛 2 | 🌐 C | 📅 2026-07-03 - a detailed guide for beginners
-* [Real-Time C++](https://github.com/ckormanyos/real-time-cpp) ⭐ 820 | 🐛 10 | 🌐 C++ | 📅 2026-11-14 - companion bare-metal code to Real-Time C++ book.
+* [Bare metal programming guide](https://github.com/cpq/bare-metal-programming-guide) ⭐ 5,055 | 🐛 2 | 🌐 C | 📅 2026-07-03 - a detailed guide for beginners
+* [Real-Time C++](https://github.com/ckormanyos/real-time-cpp) ⭐ 822 | 🐛 10 | 🌐 C++ | 📅 2026-11-14 - companion bare-metal code to Real-Time C++ book.
 * [hypervisor](https://github.com/willamhou/hypervisor) ⭐ 22 | 🐛 0 | 🌐 Rust | 📅 2026-06-09 - ARM64 Type-1 bare-metal hypervisor in no\_std Rust, runs at EL2 on QEMU virt, boots Linux with FF-A v1.1 SPMC.
 * [Simplest bare metal program for ARM](https://balau82.wordpress.com/2010/02/14/simplest-bare-metal-program-for-arm/) ([table of content](https://balau82.wordpress.com/arm-emulation/))
 
@@ -121,7 +121,7 @@ Table of content
 
 ### STM32
 
-* [Standalone TCP/IP stack for STM32, bare metal or RTOS](https://github.com/cesanta/mongoose) ⭐ 13,135 | 🐛 4 | 🌐 C | 📅 2026-11-16
+* [Standalone TCP/IP stack for STM32, bare metal or RTOS](https://github.com/cesanta/mongoose) ⭐ 13,140 | 🐛 7 | 🌐 C | 📅 2026-11-17
 
 * [Customizable Bootloader for STM32 microcontrollers.](https://github.com/akospasztor/stm32-bootloader) ⭐ 1,077 | 🐛 1 | 🌐 C | 📅 2026-10-24
 
@@ -155,7 +155,7 @@ Table of content
 
 * [stm32-rf-scanner](https://github.com/gemesa/stm32-rf-scanner) ⚠️ Archived - STM32 and nRF24L01+ based 2.4GHz RF scanner
 
-* [stm32-async-1wire](https://github.com/a5021/stm32-async-1wire) ⭐ 11 | 🐛 0 | 🌐 C | 📅 2026-11-16 - Non-blocking, register-level 1-Wire master for STM32 (DS18B20 temperature driver on top). Hardware-timed (TIM1+DMA, DMAMUX on G0), interrupt-free, RTOS-agnostic; header-only backends for STM32F1/F0/G0; hardware-validated on Blue Pill (F103) and STM32G031; strong-pull-up parasite powering; released v1.6.1.
+* [stm32-async-1wire](https://github.com/a5021/stm32-async-1wire) ⭐ 12 | 🐛 0 | 🌐 C | 📅 2026-11-16 - Non-blocking, register-level 1-Wire master for STM32 (DS18B20 temperature driver on top). Hardware-timed (TIM1+DMA, DMAMUX on G0), interrupt-free, RTOS-agnostic; header-only backends for STM32F1/F0/G0; hardware-validated on Blue Pill (F103) and STM32G031; strong-pull-up parasite powering; released v1.6.1.
 
 * [rustlink](https://github.com/gemesa/rustlink) ⚠️ Archived - small set of Rust tools to program STM32 devices
 
@@ -260,10 +260,10 @@ Table of content
 
 ## Linux kernel and device driver development
 
-* [Linux inside](https://github.com/0xAX/linux-insides) ⭐ 33,760 | 🐛 22 | 🌐 Python | 📅 2026-11-16 - A little bit about a linux kernel
+* [Linux inside](https://github.com/0xAX/linux-insides) ⭐ 33,765 | 🐛 22 | 🌐 Python | 📅 2026-11-17 - A little bit about a linux kernel
 * [low-level programming university #linux-kernel-and-device-driver](https://github.com/gurugio/lowlevelprogramming-university#linux-kernel-and-device-driver) ⚠️ Archived
-* [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation) ⭐ 6,691 | 🐛 0 | 📅 2026-11-05 - A bunch of links related to Linux kernel exploitation
-* [Linux Kernel Module Cheat](https://github.com/cirosantilli/linux-kernel-module-cheat) ⭐ 4,525 | 🐛 73 | 🌐 Python | 📅 2026-06-16
+* [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation) ⭐ 6,692 | 🐛 0 | 📅 2026-11-05 - A bunch of links related to Linux kernel exploitation
+* [Linux Kernel Module Cheat](https://github.com/cirosantilli/linux-kernel-module-cheat) ⭐ 4,524 | 🐛 73 | 🌐 Python | 📅 2026-06-16
 * [Minimal Linux Live](https://github.com/ivandavidov/minimal) ⭐ 1,683 | 🐛 53 | 🌐 HTML | 📅 2026-06-05 - a tiny educational Linux distribution
 * [c-periphery](https://github.com/vsergeev/c-periphery) ⭐ 1,074 | 🐛 5 | 🌐 C | 📅 2026-11-04 - A C library for peripheral I/O (GPIO, SPI, I2C, MMIO, Serial) in Linux.
 * [Linux driver practices ](https://github.com/starnight/DriverPractice) ⭐ 199 | 🐛 0 | 🌐 C | 📅 2024-02-14
@@ -284,24 +284,24 @@ Table of content
 
 ## RTOS
 
-* [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial) ⭐ 30,817 | 🐛 129 | 🌐 C | 📅 2026-02-04
-* [RT-Thread is an open source IoT operating system from China.](https://github.com/RT-Thread/rt-thread) ⭐ 12,353 | 🐛 483 | 🌐 C | 📅 2026-11-17
-* [tock](https://github.com/tock/tock) ⭐ 6,498 | 🐛 223 | 🌐 Rust | 📅 2026-11-16 - A secure embedded operating system for Cortex-M based microcontrollers.
+* [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial) ⭐ 30,825 | 🐛 129 | 🌐 C | 📅 2026-02-04
+* [RT-Thread is an open source IoT operating system from China.](https://github.com/RT-Thread/rt-thread) ⭐ 12,354 | 🐛 481 | 🌐 C | 📅 2026-11-18
+* [tock](https://github.com/tock/tock) ⭐ 6,498 | 🐛 220 | 🌐 Rust | 📅 2026-11-18 - A secure embedded operating system for Cortex-M based microcontrollers.
 * [30 Days make OS](https://github.com/yourtion/30dayMakeOS) ⭐ 6,474 | 🐛 12 | 🌐 C | 📅 2024-04-01 --> [YOS](https://github.com/yourtion/YOS) ⭐ 263 | 🐛 2 | 🌐 C | 📅 2021-05-24 @[Yannik](https://yannik520.github.io/)
 * [AliOS-Things](https://github.com/alibaba/AliOS-Things) ⭐ 4,629 | 🐛 74 | 🌐 C | 📅 2023-07-04 - AliOS Things released by Alibaba is an open-source implementation of operating system (OS) for Internet of Things (IoT).
-* [High performance motor control](https://github.com/madcowswe/ODrive) ⭐ 3,853 | 🐛 17 | 🌐 C++ | 📅 2026-01-20
+* [High performance motor control](https://github.com/madcowswe/ODrive) ⭐ 3,856 | 🐛 17 | 🌐 C++ | 📅 2026-01-20
 * [Sample Source: TetrOS is a small feature rich Tetris clone which is written in Assembly.](https://github.com/daniel-e/tetros) ⭐ 780 | 🐛 0 | 🌐 Assembly | 📅 2016-12-18
 * [object-oriented C++ RTOS for microcontrollers](https://github.com/DISTORTEC/distortos) ⭐ 471 | 🐛 4 | 🌐 C++ | 📅 2026-07-16
 * [Sample Source: TNeo - a well-formed and carefully tested preemptive real-time kernel for 16- and 32-bits MCUs](https://github.com/dimonomid/tneo) ⭐ 246 | 🐛 3 | 🌐 C | 📅 2024-12-28
 * [Sample Source: RTOS for microcontrollers](https://github.com/jimtremblay/nOS) ⭐ 212 | 🐛 5 | 🌐 C | 📅 2020-12-02
 * [Free real-time operating system (RTOS) designed for deeply embedded applications](https://github.com/stateos/StateOS) ⭐ 208 | 🐛 0 | 🌐 C++ | 📅 2026-11-12
-* [mini-arm-os & qemu with a stm32](https://github.com/embedded2015/mini-arm-os) ⭐ 205 | 🐛 2 | 🌐 C | 📅 2017-09-01 or [here](https://github.com/jserv/mini-arm-os) ⭐ 1,264 | 🐛 2 | 🌐 C | 📅 2025-12-14 - Build a minimal multi-tasking OS kernel for ARM Cortex-M series from scratch
+* [mini-arm-os & qemu with a stm32](https://github.com/embedded2015/mini-arm-os) ⭐ 205 | 🐛 2 | 🌐 C | 📅 2017-09-01 or [here](https://github.com/jserv/mini-arm-os) ⭐ 1,263 | 🐛 2 | 🌐 C | 📅 2025-12-14 - Build a minimal multi-tasking OS kernel for ARM Cortex-M series from scratch
 * [Sample Source: A Powerful embedded RTOS for ARM Cortex M microcontrollers](https://github.com/StratifyLabs/StratifyOS) ⭐ 153 | 🐛 27 | 🌐 C | 📅 2024-06-07
 * [Sample Source: An embedded operating system for ARM Cortex-M based microcontrollers](https://github.com/onkwon/yaos) ⭐ 51 | 🐛 4 | 🌐 C | 📅 2020-03-01
 * [yaos is an embedded operating system for Internet of Things(IoT) devices, specifically for a single-core processor without MMU virtualization.](https://github.com/onkwon/yaos) ⭐ 51 | 🐛 4 | 🌐 C | 📅 2020-03-01
 * [Sample Source: rnk is a RTOS targeting ARM architecture.](https://github.com/raphui/rnk) ⭐ 37 | 🐛 0 | 🌐 C | 📅 2026-01-09
 * [Sample Source: RTOS-From-Scratch](https://github.com/RTOS-From-Scratch/RTOS-From-Scratch) ⭐ 37 | 🐛 0 | 🌐 C | 📅 2017-08-16
-* [Real-Time Kernel '0'](https://github.com/antoniogiacomelli/RK0) ⭐ 15 | 🐛 0 | 🌐 C | 📅 2026-11-16 - A lean, highly deterministic, low-latency real-time kernel for ARMv6/7M.
+* [Real-Time Kernel '0'](https://github.com/antoniogiacomelli/RK0) ⭐ 15 | 🐛 0 | 🌐 C | 📅 2026-11-17 - A lean, highly deterministic, low-latency real-time kernel for ARMv6/7M.
 * [Sample Source: Embeded OS for PIC32MX270F256B](https://github.com/envzhu/kozos-pic) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2025-02-23
 * [List of open source real-time operating systems](https://www.osrtos.com/)
 * [ROS](http://www.ros.org/)
@@ -325,7 +325,7 @@ Table of content
 
 ## Automotive
 
-* [Tesla Mod](https://github.com/hypery11/flipper-tesla-fsd) ⭐ 1,284 | 🐛 84 | 🌐 C++ | 📅 2026-11-10 - Tesla CAN bus toolkit for Flipper Zero (MCP2515 over SPI) and ESP32 (TWAI or MCP2515), with candump-format CAN capture, a live BMS dashboard, and read-modify-retransmit frame handlers for Model 3/Y/S/X.
+* [Tesla Mod](https://github.com/hypery11/flipper-tesla-fsd) ⭐ 1,295 | 🐛 84 | 🌐 C++ | 📅 2026-11-10 - Tesla CAN bus toolkit for Flipper Zero (MCP2515 over SPI) and ESP32 (TWAI or MCP2515), with candump-format CAN capture, a live BMS dashboard, and read-modify-retransmit frame handlers for Model 3/Y/S/X.
 * [automotive software(OSEK & AUTOSAR) ](https://github.com/parai/as) ⭐ 1,057 | 🐛 11 | 🌐 C | 📅 2026-01-18 - Because I am not powerful so I decided to develop tiny but smart part of automotive software based on open source, and create a general AUTOSAR & Automotive Software study environment.
 * [Sample Source: Trampoline is a static RTOS for small embedded systems.](https://github.com/TrampolineRTOS/trampoline) ⭐ 759 | 🐛 22 | 🌐 C | 📅 2026-10-19 & [labs](http://www.irccyn.ec-nantes.fr/~bechenne/trampoline-labs/)
 * [Sample source: An integration an example AUTOSAR project which every part in AUTOSAR (OS, RTE, BSW, MCAL) are collected from different open source.](https://github.com/leduynguyen/My_AUTOSAR_Project) ⭐ 405 | 🐛 1 | 🌐 C | 📅 2018-04-03
@@ -333,7 +333,7 @@ Table of content
 
 ## OS
 
-* [Bootstrap yourself to write an OS from scratch. A book for self-learner.](https://github.com/tuhdo/os01) ⭐ 13,775 | 🐛 69 | 🌐 TeX | 📅 2024-03-26
+* [Bootstrap yourself to write an OS from scratch. A book for self-learner.](https://github.com/tuhdo/os01) ⭐ 13,783 | 🐛 69 | 🌐 TeX | 📅 2024-03-26
 * [A simple OS kernel for research, teaching, and fun](https://github.com/dthain/basekernel) ⭐ 941 | 🐛 19 | 🌐 C | 📅 2026-01-08
 * [TetrOS](https://github.com/daniel-e/tetros) ⭐ 780 | 🐛 0 | 🌐 Assembly | 📅 2016-12-18 - Tetris that fits into the boot sector.
 * [Operating Systems C Term 2018](https://github.com/Mcdonoughd/CS3013) ⚠️ Archived
@@ -361,7 +361,7 @@ Table of content
 
 ## Bootloader
 
-* [OpenBLT](https://github.com/feaser/openblt) ⭐ 989 | 🐛 0 | 🌐 C | 📅 2026-11-07 - an open source and portable bootloader for microcontrollers.
+* [OpenBLT](https://github.com/feaser/openblt) ⭐ 990 | 🐛 0 | 🌐 C | 📅 2026-11-07 - an open source and portable bootloader for microcontrollers.
 * [can-bootloader](https://github.com/cvra/can-bootloader) ⭐ 154 | 🐛 1 | 🌐 C | 📅 2023-02-06 - The bootloader used to flash our CAN-connected boards
 * [ARMv7M ELF loader ](https://github.com/martinribelotta/elfloader) ⭐ 112 | 🐛 0 | 🌐 C | 📅 2026-05-18
 * [A bootloader for ARM Cortex-M based microcontrollers](https://github.com/onkwon/yaboot) ⭐ 29 | 🐛 0 | 🌐 C | 📅 2019-11-11
@@ -386,23 +386,23 @@ Table of content
 
 ### USB
 
-* [tinyusb](https://github.com/hathach/tinyusb) ⭐ 7,273 | 🐛 411 | 🌐 C | 📅 2026-11-16 - An open source USB stack for a variety of Embedded Systems.
+* [tinyusb](https://github.com/hathach/tinyusb) ⭐ 7,277 | 🐛 410 | 🌐 C | 📅 2026-11-17 - An open source USB stack for a variety of Embedded Systems.
 
 ## Others
 
-* [apollo](https://github.com/ApolloAuto/apollo) ⭐ 26,909 | 🐛 1,050 | 🌐 C++ | 📅 2026-04-16 - An open autonomous driving platform.
+* [apollo](https://github.com/ApolloAuto/apollo) ⭐ 26,913 | 🐛 1,050 | 🌐 C++ | 📅 2026-04-16 - An open autonomous driving platform.
 
-* [A C++ template library for embedded applications](https://github.com/ETLCPP/etl) ⭐ 3,169 | 🐛 55 | 🌐 C++ | 📅 2026-11-15
+* [A C++ template library for embedded applications](https://github.com/ETLCPP/etl) ⭐ 3,169 | 🐛 63 | 🌐 C++ | 📅 2026-11-17
 
-* [Advanced fault backtrace library for ARM Cortex-M series MCU](https://github.com/armink/CmBacktrace) ⭐ 2,198 | 🐛 48 | 🌐 C | 📅 2026-05-21
+* [Advanced fault backtrace library for ARM Cortex-M series MCU](https://github.com/armink/CmBacktrace) ⭐ 2,199 | 🐛 48 | 🌐 C | 📅 2026-05-21
 
-* [DirtyJTAG](https://github.com/jeanthom/DirtyJTAG) ⭐ 645 | 🐛 10 | 🌐 C | 📅 2026-10-10 - JTAG adapter firmware for STM32F1
+* [DirtyJTAG](https://github.com/jeanthom/DirtyJTAG) ⭐ 646 | 🐛 10 | 🌐 C | 📅 2026-10-10 - JTAG adapter firmware for STM32F1
 
 * [mcu-starter-projects](https://github.com/ataradov/mcu-starter-projects) ⭐ 344 | 🐛 5 | 🌐 C | 📅 2025-11-08 - Simple starter projects for bare-metal MCU development.
 
 * [Generic\_MCU\_Software\_Infrastructure](https://github.com/GorgonMeducer/Generic_MCU_Software_Infrastructure) ⭐ 245 | 🐛 0 | 🌐 C | 📅 2024-03-09 - Provide necessary software infrastructure, service, macros to support some high level abstract concept or paradigm, such as OOPC, FSM, delegate (event-driven) and etc.
 
-* [Embedded rework of C++ STL](https://github.com/malachi-iot/estdlib) ⭐ 85 | 🐛 111 | 🌐 C++ | 📅 2026-11-16 - `basic_string`, `basic_ostream` etc. leaned way down.  Cross platform (including AVR).
+* [Embedded rework of C++ STL](https://github.com/malachi-iot/estdlib) ⭐ 85 | 🐛 109 | 🌐 C++ | 📅 2026-11-17 - `basic_string`, `basic_ostream` etc. leaned way down.  Cross platform (including AVR).
 
 * [RAMEN 🍜](https://github.com/Zubax/ramen) ⭐ 82 | 🐛 2 | 🌐 C++ | 📅 2026-05-02 - flow-based programming implemented in a simple single-header unopinionated library.
 
@@ -437,7 +437,7 @@ Table of content
 
 ## Machine Learning & AI on MCU
 
-* [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 3,002 | 🐛 62 | 🌐 Python | 📅 2024-08-03 - A CLI tool which allows to transpile trained classic ML models into a native code of various programming languages with zero dependencies including C.
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 3,001 | 🐛 62 | 🌐 Python | 📅 2024-08-03 - A CLI tool which allows to transpile trained classic ML models into a native code of various programming languages with zero dependencies including C.
 * [Embedded Learning Library (ELL)](https://github.com/Microsoft/ELL) ⚠️ Archived - Microsoft's library to deploy intelligent machine-learned models onto resource constrained platforms and small single-board computers.
 * [uTensor](https://github.com/uTensor/uTensor) ⭐ 1,937 | 🐛 56 | 🌐 C++ | 📅 2025-05-10 - AI inference library based on mbed (an RTOS for ARM chipsets) and TensorFlow.
 * [nnom](https://github.com/majianjia/nnom) ⭐ 1,173 | 🐛 88 | 🌐 C | 📅 2024-04-08 - A higher-level Neural Network library for microcontrollers.
@@ -455,14 +455,14 @@ Table of content
 ## Utilities
 
 * [Serial Studio](https://github.com/Serial-Studio/Serial-Studio) ⭐ 7,330 | 🐛 21 | 🌐 C | 📅 2026-11-17 - Visualize, analyze and stream over the internet data generated by your MCU project
-* [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) ⭐ 234 | 🐛 60 | 🌐 Python | 📅 2026-11-16 - Open source hardware-in-the-loop testing framework for automated testing on real and virtual embedded hardware with CI/CD integration.
+* [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) ⭐ 234 | 🐛 58 | 🌐 Python | 📅 2026-11-17 - Open source hardware-in-the-loop testing framework for automated testing on real and virtual embedded hardware with CI/CD integration.
 * [mspdebug](https://github.com/dlbeer/mspdebug) ⭐ 217 | 🐛 56 | 🌐 C | 📅 2026-10-30 - Debugging tool for MSP430 MCUs
 * [lm4tools](https://github.com/utzig/lm4tools) ⭐ 209 | 🐛 15 | 🌐 C | 📅 2018-09-03
 * [NaiveSystems Analyze](https://github.com/naivesystems/analyze) ⭐ 206 | 🐛 4 | 🌐 C++ | 📅 2025-12-29 - Static Analysis Tool for Code Security and Compliance
 * [pycs](https://github.com/deadsy/pycs) ⭐ 81 | 🐛 1 | 🌐 Python | 📅 2023-02-27 - Python Based ARM CoreSight Debug and Trace Tools
-* [BARR-C Enforcement Kit](https://github.com/netrinomike/barr-c) ⭐ 17 | 🐛 0 | 🌐 Shell | 📅 2026-08-26 - Drop-in clang-format and clang-tidy configurations, compiler warning gates, a one-command conformance check and ready-made CI enforcing BARR-C, Barr Group's Embedded C Coding Standard for firmware.
+* [BARR-C Enforcement Kit](https://github.com/netrinomike/barr-c) ⭐ 18 | 🐛 0 | 🌐 Shell | 📅 2026-08-26 - Drop-in clang-format and clang-tidy configurations, compiler warning gates, a one-command conformance check and ready-made CI enforcing BARR-C, Barr Group's Embedded C Coding Standard for firmware.
 * [EmbedEval](https://github.com/Ecro/embedeval) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-09-09 - Benchmark that measures how well LLMs write embedded firmware. 233 cases across Zephyr, ESP-IDF, STM32 HAL, FreeRTOS, Linux drivers and Yocto, verified through static checks, SDK compilation, runtime execution and mutation testing.
-* [platformio.mcp](https://github.com/powerdragonfire/platformio.mcp) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2026-11-16 - MCP server that lets AI coding agents (Claude Code, Cursor, Codex) drive PlatformIO: build with parsed compiler errors, flash-then-verify against the serial boot log, ESP32 / Cortex-M crash backtrace decoding to file:line, firmware size reports, Unity tests and static analysis. Python, installs with `uvx platformio.mcp`.
+* [platformio.mcp](https://github.com/powerdragonfire/platformio.mcp) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-11-17 - MCP server that lets AI coding agents (Claude Code, Cursor, Codex) drive PlatformIO: build with parsed compiler errors, flash-then-verify against the serial boot log, ESP32 / Cortex-M crash backtrace decoding to file:line, firmware size reports, Unity tests and static analysis. Python, installs with `uvx platformio.mcp`.
 * [testium](https://github.com/testium-HIL/testium) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-11-11 - YAML-driven test sequencer for hardware-in-the-loop and integration testing, scriptable in Python and Lua.
 * [aem-modbus-simulator](https://github.com/leaberg69/aem-modbus-simulator) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-24 - Open-source Python Modbus RTU/TCP slave simulator emulating an industrial DC voltage monitor (147 holding registers, 6 baudrates). Lets SCADA/PLC firmware engineers test Modbus integration in CI pipelines without physical hardware on the bench.
 * [flashgate](https://github.com/Lion-1209/flashgate) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-12 - Hardware-in-the-loop verification gate for AI coding agents: build, flash over ST-Link, then assert the board's boot banner, SWD RAM signature and console-probe register readbacks before "done" is accepted. Ships as a Claude Code plugin (Stop hook + MCP server).
@@ -501,13 +501,13 @@ Table of content
 
 ## Looking for more lists like this?
 
-* [Curated list of awesome lists](https://github.com/sindresorhus/awesome) ⭐ 538,035 | 🐛 104 | 📅 2026-09-02
-* [Curated list of project-based tutorials](https://github.com/tuvtran/project-based-learning) ⭐ 289,865 | 🐛 213 | 🌐 Python | 📅 2026-11-16
-* [A curated list of awesome Raspberry Pi tools, projects, images and resources](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 17,132 | 🐛 16 | 🌐 Shell | 📅 2026-11-11
+* [Curated list of awesome lists](https://github.com/sindresorhus/awesome) ⭐ 538,561 | 🐛 104 | 📅 2026-09-02
+* [Curated list of project-based tutorials](https://github.com/tuvtran/project-based-learning) ⭐ 289,935 | 🐛 212 | 🌐 Python | 📅 2026-11-16
+* [A curated list of awesome Raspberry Pi tools, projects, images and resources](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 17,141 | 🐛 16 | 🌐 Shell | 📅 2026-11-11
 * [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) ⭐ 8,198 | 🐛 20 | 📅 2026-10-27 - Curated list of resources for Embedded and Low-level development in the Rust programming language.
 * [Curated List of Self-Driving Cars and Autonomous Vehicles Resources](https://github.com/takeitallsource/awesome-autonomous-vehicles) ⭐ 2,399 | 🐛 4 | 📅 2024-03-15
 * [awesome-c](https://github.com/uhub/awesome-c) ⭐ 2,248 | 🐛 0 | 📅 2026-11-12 - A curated list of awesome C frameworks, libraries and software.
-* [theEmbeddedNewTestament.github.io](https://github.com/theEmbeddedGeorge/theEmbeddedNewTestament.github.io) ⭐ 1,133 | 🐛 2 | 🌐 C | 📅 2026-06-27
+* [theEmbeddedNewTestament.github.io](https://github.com/theEmbeddedGeorge/theEmbeddedNewTestament.github.io) ⭐ 1,135 | 🐛 2 | 🌐 C | 📅 2026-06-27
 * [awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) ⭐ 1,039 | 🐛 11 | 📅 2024-01-04
 * [awesome-cheat-sheets](https://github.com/mintisan/awesome-cheat-sheets) ⭐ 157 | 🐛 0 | 📅 2023-12-13 - Awesome Cheat Sheets for Developer Utility, like Git, Vim, Tmux, Sublime Text, Markdown, Shell.
 * [A curated list of project-based tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
@@ -531,4 +531,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
